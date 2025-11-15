@@ -1,0 +1,16 @@
+# Abaikan file Python & cache
+*.pyc
+__pycache__/
+
+# Abaikan venv
+venv/
+
+# Abaikan folder dari proyek autosoccer lama
+rev5-3-autosoccer-main/
+Rev5.3-autosoccer pack/
+
+# Izinkan semua JSON di folder results
+!results/*.json
+
+# Abaikan JSON lain di root
+*.json
