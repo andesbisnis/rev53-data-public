@@ -1,60 +1,8 @@
 {
-  "generated_at_utc": "2025-11-17T16:28:06.707269+00:00",
+  "generated_at_utc": "2025-11-17T16:33:07.526464+00:00",
   "window_hours": 36,
   "max_fixtures": 60,
   "fixtures": [
-    {
-      "fixture_id": 1483282,
-      "league_id": 236,
-      "league": "First League",
-      "kickoff_local": "2025-11-18T03:30:00+11:00",
-      "kickoff_utc": "2025-11-17T16:30:00+00:00",
-      "home": "Spartak Kostroma",
-      "away": "Rodina Moskva",
-      "status": "NS",
-      "markets": {
-        "1x2": {
-          "Home": 2.74,
-          "Draw": 2.93,
-          "Away": 2.68
-        },
-        "ou_2_5": {
-          "over": 6.45,
-          "under": 1.05
-        },
-        "dc": {
-          "Home/Draw": 1.42,
-          "Home/Away": 1.36,
-          "Draw/Away": 1.41
-        }
-      }
-    },
-    {
-      "fixture_id": 1486542,
-      "league_id": 10,
-      "league": "Friendlies",
-      "kickoff_local": "2025-11-18T03:30:00+11:00",
-      "kickoff_utc": "2025-11-17T16:30:00+00:00",
-      "home": "Qatar",
-      "away": "Zimbabwe",
-      "status": "NS",
-      "markets": {
-        "1x2": {
-          "Home": 1.9,
-          "Draw": 3.2,
-          "Away": 3.95
-        },
-        "ou_2_5": {
-          "over": 2.15,
-          "under": 1.65
-        },
-        "dc": {
-          "Home/Draw": 1.18,
-          "Home/Away": 1.28,
-          "Draw/Away": 1.83
-        }
-      }
-    },
     {
       "fixture_id": 1352906,
       "league_id": 10,
@@ -531,8 +479,8 @@
           "Away": 51.0
         },
         "ou_2_5": {
-          "over": 1.53,
-          "under": 2.35
+          "over": 1.57,
+          "under": 2.25
         }
       }
     },
@@ -1227,6 +1175,37 @@
       "kickoff_utc": "2025-11-18T12:30:00+00:00",
       "home": "Uganda U17",
       "away": "Burkina Faso U17",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1321312,
+      "league_id": 35,
+      "league": "Asian Cup - Qualification",
+      "kickoff_local": "2025-11-19T00:00:00+11:00",
+      "kickoff_utc": "2025-11-18T13:00:00+00:00",
+      "home": "Nepal",
+      "away": "Malaysia",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 29.0,
+          "Draw": 7.75,
+          "Away": 1.08
+        },
+        "ou_2_5": {
+          "over": 1.48,
+          "under": 2.55
+        }
+      }
+    },
+    {
+      "fixture_id": 1366978,
+      "league_id": 893,
+      "league": "UEFA U19 Championship - Qualification",
+      "kickoff_local": "2025-11-19T00:00:00+11:00",
+      "kickoff_utc": "2025-11-18T13:00:00+00:00",
+      "home": "Slovakia U19",
+      "away": "Ukraine U19",
       "status": "NS"
     }
   ]
