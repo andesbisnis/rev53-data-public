@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2025-11-17T16:23:07.022836+00:00",
+  "generated_at_utc": "2025-11-17T16:28:06.707269+00:00",
   "window_hours": 36,
   "max_fixtures": 60,
   "fixtures": [
@@ -653,7 +653,7 @@
         "1x2": {
           "Home": 3.0,
           "Draw": 3.0,
-          "Away": 2.3
+          "Away": 2.33
         },
         "ou_2_5": {
           "over": 2.3,
@@ -771,7 +771,23 @@
       "kickoff_utc": "2025-11-18T09:00:00+00:00",
       "home": "Iran U23",
       "away": "Bahrain U23",
-      "status": "NS"
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 1.57,
+          "Draw": 3.75,
+          "Away": 4.75
+        },
+        "ou_2_5": {
+          "over": 2.0,
+          "under": 1.8
+        },
+        "dc": {
+          "Home/Draw": 1.17,
+          "Home/Away": 1.22,
+          "Draw/Away": 2.2
+        }
+      }
     },
     {
       "fixture_id": 1321350,
