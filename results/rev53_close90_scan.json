@@ -1,114 +1,8 @@
 {
-  "generated_at_utc": "2025-11-17T11:27:43.259855+00:00",
+  "generated_at_utc": "2025-11-17T12:45:00.113475+00:00",
   "window_before_min": 15,
   "window_after_min": 120,
   "fixtures": [
-    {
-      "fixture_id": 1412617,
-      "league_id": 336,
-      "league": "Druha Liga",
-      "kickoff_local": "2025-11-17T22:30:00+11:00",
-      "kickoff_utc": "2025-11-17T11:30:00+00:00",
-      "home": "Nyva Ternopil II",
-      "away": "Real Pharm",
-      "status": "NS"
-    },
-    {
-      "fixture_id": 1395192,
-      "league_id": 287,
-      "league": "Prva Liga",
-      "kickoff_local": "2025-11-17T23:00:00+11:00",
-      "kickoff_utc": "2025-11-17T12:00:00+00:00",
-      "home": "Tekstilac Odžaci",
-      "away": "Kabel Novi Sad",
-      "status": "NS",
-      "markets": {
-        "1x2": {
-          "Home": 1.95,
-          "Draw": 2.9,
-          "Away": 3.8
-        },
-        "ou_2_5": {
-          "over": 6.0,
-          "under": 1.1
-        },
-        "dc": {
-          "Home/Draw": 1.22,
-          "Home/Away": 1.36,
-          "Draw/Away": 1.7
-        },
-        "btts": {
-          "yes": 4.0,
-          "no": 1.2
-        }
-      }
-    },
-    {
-      "fixture_id": 1395195,
-      "league_id": 287,
-      "league": "Prva Liga",
-      "kickoff_local": "2025-11-17T23:00:00+11:00",
-      "kickoff_utc": "2025-11-17T12:00:00+00:00",
-      "home": "OFK Vršac",
-      "away": "Macva",
-      "status": "NS",
-      "markets": {
-        "1x2": {
-          "Home": 2.7,
-          "Draw": 2.7,
-          "Away": 2.62
-        },
-        "ou_2_5": {
-          "over": 7.0,
-          "under": 1.08
-        },
-        "dc": {
-          "Home/Draw": 1.4,
-          "Home/Away": 1.4,
-          "Draw/Away": 1.4
-        },
-        "btts": {
-          "yes": 4.0,
-          "no": 1.2
-        }
-      }
-    },
-    {
-      "fixture_id": 1441665,
-      "league_id": 205,
-      "league": "2. Lig",
-      "kickoff_local": "2025-11-17T23:00:00+11:00",
-      "kickoff_utc": "2025-11-17T12:00:00+00:00",
-      "home": "Bursaspor",
-      "away": "Fethiyespor",
-      "status": "NS"
-    },
-    {
-      "fixture_id": 1470417,
-      "league_id": 275,
-      "league": "Liga 2",
-      "kickoff_local": "2025-11-17T23:00:00+11:00",
-      "kickoff_utc": "2025-11-17T12:00:00+00:00",
-      "home": "PSS Sleman",
-      "away": "Persiku Kudus",
-      "status": "NS",
-      "markets": {
-        "1x2": {
-          "Home": 1.25,
-          "Draw": 5.0,
-          "Away": 8.4
-        },
-        "ou_2_5": {
-          "over": 1.5,
-          "under": 2.2
-        },
-        "dc": {
-          "Home/Draw": 1.02,
-          "Home/Away": 1.13,
-          "Draw/Away": 3.55
-        }
-      }
-    },
     {
       "fixture_id": 1434017,
       "league_id": 703,
@@ -150,6 +44,98 @@
           "Home/Draw": 2.2,
           "Home/Away": 1.14,
           "Draw/Away": 1.18
+        }
+      }
+    },
+    {
+      "fixture_id": 1378604,
+      "league_id": 117,
+      "league": "1. Division",
+      "kickoff_local": "2025-11-18T01:00:00+11:00",
+      "kickoff_utc": "2025-11-17T14:00:00+00:00",
+      "home": "Dinamo Minsk II",
+      "away": "Niva",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1452899,
+      "league_id": 890,
+      "league": "U20 Elite League",
+      "kickoff_local": "2025-11-18T01:00:00+11:00",
+      "kickoff_utc": "2025-11-17T14:00:00+00:00",
+      "home": "Germany U20",
+      "away": "Italy U20",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 1.85,
+          "Draw": 3.55,
+          "Away": 3.5
+        },
+        "ou_2_5": {
+          "over": 1.6,
+          "under": 2.25
+        },
+        "dc": {
+          "Home/Draw": 1.22,
+          "Home/Away": 1.22,
+          "Draw/Away": 1.85
+        }
+      }
+    },
+    {
+      "fixture_id": 1483110,
+      "league_id": 424,
+      "league": "Ligue 1",
+      "kickoff_local": "2025-11-18T01:00:00+11:00",
+      "kickoff_utc": "2025-11-17T14:00:00+00:00",
+      "home": "Anges Verts",
+      "away": "JSK",
+      "status": "PST"
+    },
+    {
+      "fixture_id": 1483111,
+      "league_id": 424,
+      "league": "Ligue 1",
+      "kickoff_local": "2025-11-18T01:00:00+11:00",
+      "kickoff_utc": "2025-11-17T14:00:00+00:00",
+      "home": "Dauphins Noirs",
+      "away": "Martin Pêcheur",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1483112,
+      "league_id": 424,
+      "league": "Ligue 1",
+      "kickoff_local": "2025-11-18T01:00:00+11:00",
+      "kickoff_utc": "2025-11-17T14:00:00+00:00",
+      "home": "Simba",
+      "away": "Sanga Balende",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1350084,
+      "league_id": 850,
+      "league": "UEFA U21 Championship - Qualification",
+      "kickoff_local": "2025-11-18T01:30:00+11:00",
+      "kickoff_utc": "2025-11-17T14:30:00+00:00",
+      "home": "Kazakhstan U21",
+      "away": "Moldova U21",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 1.65,
+          "Draw": 3.4,
+          "Away": 5.0
+        },
+        "ou_2_5": {
+          "over": 2.1,
+          "under": 1.7
+        },
+        "dc": {
+          "Home/Draw": 1.12,
+          "Home/Away": 1.22,
+          "Draw/Away": 2.1
         }
       }
     }
