@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2025-11-17T13:10:03.274806+00:00",
+  "generated_at_utc": "2025-11-17T13:15:02.959660+00:00",
   "window_before_min": 15,
   "window_after_min": 120,
   "fixtures": [
@@ -33,7 +33,7 @@
       "kickoff_utc": "2025-11-17T13:00:00+00:00",
       "home": "Crewe Alexandra U21",
       "away": "Huddersfield Town U21",
-      "status": "NS",
+      "status": "1H",
       "markets": {
         "1x2": {
           "Home": 3.85,
