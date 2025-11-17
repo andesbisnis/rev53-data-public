@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2025-11-17T16:20:00.269043+00:00",
+  "generated_at_utc": "2025-11-17T16:24:59.648155+00:00",
   "window_before_min": 15,
   "window_after_min": 120,
   "fixtures": [
@@ -37,7 +37,23 @@
       "kickoff_utc": "2025-11-17T16:30:00+00:00",
       "home": "Qatar",
       "away": "Zimbabwe",
-      "status": "NS"
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 1.9,
+          "Draw": 3.2,
+          "Away": 3.95
+        },
+        "ou_2_5": {
+          "over": 2.15,
+          "under": 1.65
+        },
+        "dc": {
+          "Home/Draw": 1.18,
+          "Home/Away": 1.28,
+          "Draw/Away": 1.83
+        }
+      }
     },
     {
       "fixture_id": 1352906,
@@ -99,7 +115,23 @@
       "kickoff_utc": "2025-11-17T17:00:00+00:00",
       "home": "Albania U21",
       "away": "Ukraine U21",
-      "status": "NS"
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 3.35,
+          "Draw": 3.35,
+          "Away": 1.91
+        },
+        "ou_2_5": {
+          "over": 1.75,
+          "under": 1.83
+        },
+        "dc": {
+          "Home/Draw": 1.77,
+          "Home/Away": 1.22,
+          "Draw/Away": 1.28
+        }
+      }
     },
     {
       "fixture_id": 1486544,
