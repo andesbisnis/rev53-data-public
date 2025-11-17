@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-18T00:58:23.255029+11:00",
+  "timestamp": "2025-11-18T01:03:23.256243+11:00",
   "payload": {
     "status": "ok",
     "count": 80,
@@ -15,6 +15,18 @@
         "status": "FT",
         "ft": "1-3",
         "result_1x2": "2"
+      },
+      {
+        "fixture_id": 1395195,
+        "league_id": 287,
+        "league": "Prva Liga",
+        "kickoff_local": "2025-11-17T23:00:00+11:00",
+        "kickoff_utc": "2025-11-17T12:00:00+00:00",
+        "home": "OFK Vršac",
+        "away": "Macva",
+        "status": "FT",
+        "ft": "0-0",
+        "result_1x2": "X"
       },
       {
         "fixture_id": 1412617,
@@ -950,18 +962,6 @@
         "away": "Torrejón",
         "status": "FT",
         "ft": "2-1",
-        "result_1x2": "1"
-      },
-      {
-        "fixture_id": 1477872,
-        "league_id": 1150,
-        "league": "Gaúcho - 3",
-        "kickoff_local": "2025-11-17T05:00:00+11:00",
-        "kickoff_utc": "2025-11-16T18:00:00+00:00",
-        "home": "Apafut",
-        "away": "Nova Prata",
-        "status": "FT",
-        "ft": "5-2",
         "result_1x2": "1"
       }
     ]
