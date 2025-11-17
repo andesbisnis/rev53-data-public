@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2025-11-17T16:00:02.240545+00:00",
+  "generated_at_utc": "2025-11-17T16:05:01.965732+00:00",
   "window_before_min": 15,
   "window_after_min": 120,
   "fixtures": [
@@ -31,7 +31,7 @@
       "kickoff_utc": "2025-11-17T16:00:00+00:00",
       "home": "Egypt",
       "away": "Cape Verde Islands",
-      "status": "NS"
+      "status": "1H"
     },
     {
       "fixture_id": 1486713,
@@ -180,6 +180,32 @@
           "Home/Draw": 1.02,
           "Home/Away": 1.11,
           "Draw/Away": 3.1
+        }
+      }
+    },
+    {
+      "fixture_id": 1483875,
+      "league_id": 1165,
+      "league": "Copa Fares Lopes",
+      "kickoff_local": "2025-11-18T05:00:00+11:00",
+      "kickoff_utc": "2025-11-17T18:00:00+00:00",
+      "home": "Ceara B",
+      "away": "Caucaia",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 1.28,
+          "Draw": 4.6,
+          "Away": 7.8
+        },
+        "ou_2_5": {
+          "over": 1.5,
+          "under": 2.2
+        },
+        "dc": {
+          "Home/Draw": 1.03,
+          "Home/Away": 1.11,
+          "Draw/Away": 3.25
         }
       }
     }
