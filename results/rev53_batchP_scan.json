@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2025-11-17T19:18:07.880551+00:00",
+  "generated_at_utc": "2025-11-17T19:23:06.350159+00:00",
   "window_hours": 36,
   "max_fixtures": 60,
   "fixtures": [
@@ -1045,7 +1045,23 @@
       "kickoff_utc": "2025-11-18T12:00:00+00:00",
       "home": "Laci",
       "away": "Luftëtari",
-      "status": "NS"
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 1.29,
+          "Draw": 4.75,
+          "Away": 8.5
+        },
+        "ou_2_5": {
+          "over": 5.0,
+          "under": 1.12
+        },
+        "dc": {
+          "Home/Draw": 1.05,
+          "Home/Away": 1.15,
+          "Draw/Away": 3.5
+        }
+      }
     },
     {
       "fixture_id": 1483851,

@@ -1,30 +1,8 @@
 {
-  "generated_at_utc": "2025-11-17T19:15:04.037974+00:00",
+  "generated_at_utc": "2025-11-17T19:20:04.788253+00:00",
   "window_before_min": 15,
   "window_after_min": 120,
   "fixtures": [
-    {
-      "fixture_id": 1447091,
-      "league_id": 871,
-      "league": "Premier League Cup",
-      "kickoff_local": "2025-11-18T06:00:00+11:00",
-      "kickoff_utc": "2025-11-17T19:00:00+00:00",
-      "home": "Bromley U21",
-      "away": "Norwich City U21",
-      "status": "1H",
-      "markets": {
-        "1x2": {
-          "Home": 2.1,
-          "Draw": 3.55,
-          "Away": 2.8
-        },
-        "dc": {
-          "Home/Draw": 1.35,
-          "Home/Away": 1.2,
-          "Draw/Away": 1.65
-        }
-      }
-    },
     {
       "fixture_id": 1391917,
       "league_id": 141,
