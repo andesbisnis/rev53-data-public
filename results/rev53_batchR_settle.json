@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-18T05:43:23.380845+11:00",
+  "timestamp": "2025-11-18T05:48:23.230376+11:00",
   "payload": {
     "status": "ok",
     "count": 80,
@@ -26,6 +26,18 @@
         "away": "Zimbabwe",
         "status": "FT",
         "ft": "1-2",
+        "result_1x2": "2"
+      },
+      {
+        "fixture_id": 1484135,
+        "league_id": 378,
+        "league": "Ligue 1",
+        "kickoff_local": "2025-11-18T03:00:00+11:00",
+        "kickoff_utc": "2025-11-17T16:00:00+00:00",
+        "home": "Ashanti GB",
+        "away": "RCC Kamsar",
+        "status": "FT",
+        "ft": "0-1",
         "result_1x2": "2"
       },
       {
@@ -951,18 +963,6 @@
         "status": "FT",
         "ft": "0-1",
         "result_1x2": "2"
-      },
-      {
-        "fixture_id": 1323363,
-        "league_id": 32,
-        "league": "World Cup - Qualification Europe",
-        "kickoff_local": "2025-11-17T06:45:00+11:00",
-        "kickoff_utc": "2025-11-16T19:45:00+00:00",
-        "home": "Israel",
-        "away": "Moldova",
-        "status": "FT",
-        "ft": "4-1",
-        "result_1x2": "1"
       }
     ]
   },
