@@ -1,9 +1,21 @@
 {
-  "timestamp": "2025-11-18T03:48:23.239050+11:00",
+  "timestamp": "2025-11-18T03:53:23.214906+11:00",
   "payload": {
     "status": "ok",
     "count": 80,
     "sample": [
+      {
+        "fixture_id": 1378501,
+        "league_id": 117,
+        "league": "1. Division",
+        "kickoff_local": "2025-11-18T02:00:00+11:00",
+        "kickoff_utc": "2025-11-17T15:00:00+00:00",
+        "home": "FC Dnepr Mogilev",
+        "away": "Orsha",
+        "status": "FT",
+        "ft": "0-2",
+        "result_1x2": "2"
+      },
       {
         "fixture_id": 1479878,
         "league_id": 886,
@@ -951,18 +963,6 @@
         "status": "FT",
         "ft": "3-0",
         "result_1x2": "1"
-      },
-      {
-        "fixture_id": 1436736,
-        "league_id": 163,
-        "league": "Liga de Ascenso",
-        "kickoff_local": "2025-11-17T06:00:00+11:00",
-        "kickoff_utc": "2025-11-16T19:00:00+00:00",
-        "home": "Pitbulls Santa Barbara FC",
-        "away": "Futbol Consultants Moravia",
-        "status": "FT",
-        "ft": "1-1",
-        "result_1x2": "X"
       }
     ]
   },
