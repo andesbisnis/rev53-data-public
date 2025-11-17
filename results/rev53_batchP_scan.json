@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2025-11-17T12:53:08.063741+00:00",
+  "generated_at_utc": "2025-11-17T12:58:08.325794+00:00",
   "window_hours": 36,
   "max_fixtures": 60,
   "fixtures": [
@@ -374,14 +374,14 @@
       "status": "NS",
       "markets": {
         "1x2": {
-          "Home": 2.5,
-          "Draw": 3.55,
-          "Away": 2.25
+          "Home": 2.33,
+          "Draw": 3.5,
+          "Away": 2.45
         },
         "dc": {
-          "Home/Draw": 1.5,
-          "Home/Away": 1.2,
-          "Draw/Away": 1.45
+          "Home/Draw": 1.42,
+          "Home/Away": 1.22,
+          "Draw/Away": 1.53
         }
       }
     },
@@ -943,7 +943,23 @@
       "kickoff_utc": "2025-11-18T10:00:00+00:00",
       "home": "Scotland U19",
       "away": "England U19",
-      "status": "NS"
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 8.8,
+          "Draw": 5.5,
+          "Away": 1.25
+        },
+        "ou_2_5": {
+          "over": 2.2,
+          "under": 1.6
+        },
+        "dc": {
+          "Home/Draw": 3.35,
+          "Home/Away": 1.08,
+          "Draw/Away": 1.02
+        }
+      }
     },
     {
       "fixture_id": 1366984,
@@ -1094,17 +1110,17 @@
       "status": "NS",
       "markets": {
         "1x2": {
-          "Home": 8.25,
-          "Draw": 5.4,
-          "Away": 1.25
+          "Home": 8.2,
+          "Draw": 5.2,
+          "Away": 1.28
         },
         "ou_2_5": {
           "over": 1.42,
           "under": 2.75
         },
         "dc": {
-          "Home/Draw": 3.25,
-          "Home/Away": 1.08,
+          "Home/Draw": 3.1,
+          "Home/Away": 1.1,
           "Draw/Away": 1.03
         }
       }
