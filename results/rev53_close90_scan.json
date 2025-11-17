@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2025-11-17T13:00:00.552504+00:00",
+  "generated_at_utc": "2025-11-17T13:05:03.042667+00:00",
   "window_before_min": 15,
   "window_after_min": 120,
   "fixtures": [
@@ -11,7 +11,7 @@
       "kickoff_utc": "2025-11-17T13:00:00+00:00",
       "home": "Watford U21",
       "away": "Bristol City U21",
-      "status": "NS",
+      "status": "1H",
       "markets": {
         "1x2": {
           "Home": 1.8,
@@ -138,6 +138,104 @@
           "Draw/Away": 2.1
         }
       }
+    },
+    {
+      "fixture_id": 1378501,
+      "league_id": 117,
+      "league": "1. Division",
+      "kickoff_local": "2025-11-18T02:00:00+11:00",
+      "kickoff_utc": "2025-11-17T15:00:00+00:00",
+      "home": "FC Dnepr Mogilev",
+      "away": "Orsha",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1422770,
+      "league_id": 186,
+      "league": "Ligue 1",
+      "kickoff_local": "2025-11-18T02:00:00+11:00",
+      "kickoff_utc": "2025-11-17T15:00:00+00:00",
+      "home": "Mostaganem",
+      "away": "USM Alger",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 3.75,
+          "Draw": 2.85,
+          "Away": 2.1
+        },
+        "ou_2_5": {
+          "over": 2.8,
+          "under": 1.4
+        },
+        "dc": {
+          "Home/Draw": 1.67,
+          "Home/Away": 1.33,
+          "Draw/Away": 1.25
+        }
+      }
+    },
+    {
+      "fixture_id": 1445699,
+      "league_id": 399,
+      "league": "NPFL",
+      "kickoff_local": "2025-11-18T02:00:00+11:00",
+      "kickoff_utc": "2025-11-17T15:00:00+00:00",
+      "home": "Barau FC",
+      "away": "Enugu Rangers",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 1.68,
+          "Draw": 2.95,
+          "Away": 5.5
+        },
+        "dc": {
+          "Home/Draw": 1.09,
+          "Home/Away": 1.3,
+          "Draw/Away": 2.05
+        }
+      }
+    },
+    {
+      "fixture_id": 1478676,
+      "league_id": 1196,
+      "league": "Division One League",
+      "kickoff_local": "2025-11-18T02:00:00+11:00",
+      "kickoff_utc": "2025-11-17T15:00:00+00:00",
+      "home": "Na God",
+      "away": "Hakla SC",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1478685,
+      "league_id": 1196,
+      "league": "Division One League",
+      "kickoff_local": "2025-11-18T02:00:00+11:00",
+      "kickoff_utc": "2025-11-17T15:00:00+00:00",
+      "home": "Techiman Liberty",
+      "away": "VC Warriors",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1479877,
+      "league_id": 886,
+      "league": "UEFA U17 Championship - Qualification",
+      "kickoff_local": "2025-11-18T02:00:00+11:00",
+      "kickoff_utc": "2025-11-17T15:00:00+00:00",
+      "home": "Turkey U17",
+      "away": "Serbia U17",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1479878,
+      "league_id": 886,
+      "league": "UEFA U17 Championship - Qualification",
+      "kickoff_local": "2025-11-18T02:00:00+11:00",
+      "kickoff_utc": "2025-11-17T15:00:00+00:00",
+      "home": "Malta U17",
+      "away": "Bosnia-Herzegovina U17",
+      "status": "NS"
     }
   ]
 }
