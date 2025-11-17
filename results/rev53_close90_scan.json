@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2025-11-17T16:59:58.749293+00:00",
+  "generated_at_utc": "2025-11-17T17:04:59.401702+00:00",
   "window_before_min": 15,
   "window_after_min": 120,
   "fixtures": [
@@ -11,7 +11,7 @@
       "kickoff_utc": "2025-11-17T17:00:00+00:00",
       "home": "Finland",
       "away": "Andorra",
-      "status": "NS",
+      "status": "1H",
       "markets": {
         "1x2": {
           "Home": 1.25,
@@ -37,7 +37,7 @@
       "kickoff_utc": "2025-11-17T17:00:00+00:00",
       "home": "Estoril U23",
       "away": "Portimonense U23",
-      "status": "NS",
+      "status": "1H",
       "markets": {
         "1x2": {
           "Home": 1.95,
@@ -63,7 +63,7 @@
       "kickoff_utc": "2025-11-17T17:00:00+00:00",
       "home": "Albania U21",
       "away": "Ukraine U21",
-      "status": "NS",
+      "status": "1H",
       "markets": {
         "1x2": {
           "Home": 3.35,
@@ -136,6 +136,28 @@
           "Home/Draw": 1.03,
           "Home/Away": 1.11,
           "Draw/Away": 3.25
+        }
+      }
+    },
+    {
+      "fixture_id": 1447091,
+      "league_id": 871,
+      "league": "Premier League Cup",
+      "kickoff_local": "2025-11-18T06:00:00+11:00",
+      "kickoff_utc": "2025-11-17T19:00:00+00:00",
+      "home": "Bromley U21",
+      "away": "Norwich City U21",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 2.3,
+          "Draw": 3.5,
+          "Away": 2.5
+        },
+        "dc": {
+          "Home/Draw": 1.42,
+          "Home/Away": 1.22,
+          "Draw/Away": 1.55
         }
       }
     }

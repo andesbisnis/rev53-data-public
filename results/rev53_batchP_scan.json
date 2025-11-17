@@ -1,96 +1,8 @@
 {
-  "generated_at_utc": "2025-11-17T16:58:07.784377+00:00",
+  "generated_at_utc": "2025-11-17T17:03:07.990776+00:00",
   "window_hours": 36,
   "max_fixtures": 60,
   "fixtures": [
-    {
-      "fixture_id": 1352906,
-      "league_id": 10,
-      "league": "Friendlies",
-      "kickoff_local": "2025-11-18T04:00:00+11:00",
-      "kickoff_utc": "2025-11-17T17:00:00+00:00",
-      "home": "Finland",
-      "away": "Andorra",
-      "status": "NS",
-      "markets": {
-        "1x2": {
-          "Home": 1.25,
-          "Draw": 4.8,
-          "Away": 10.75
-        },
-        "ou_2_5": {
-          "over": 1.83,
-          "under": 1.9
-        },
-        "dc": {
-          "Home/Draw": 1.02,
-          "Home/Away": 1.1,
-          "Draw/Away": 3.65
-        }
-      }
-    },
-    {
-      "fixture_id": 1423929,
-      "league_id": 701,
-      "league": "Liga Revelação U23",
-      "kickoff_local": "2025-11-18T04:00:00+11:00",
-      "kickoff_utc": "2025-11-17T17:00:00+00:00",
-      "home": "Estoril U23",
-      "away": "Portimonense U23",
-      "status": "NS",
-      "markets": {
-        "1x2": {
-          "Home": 1.95,
-          "Draw": 3.35,
-          "Away": 3.4
-        },
-        "ou_2_5": {
-          "over": 1.8,
-          "under": 1.93
-        },
-        "dc": {
-          "Home/Draw": 1.25,
-          "Home/Away": 1.25,
-          "Draw/Away": 1.75
-        }
-      }
-    },
-    {
-      "fixture_id": 1486543,
-      "league_id": 10,
-      "league": "Friendlies",
-      "kickoff_local": "2025-11-18T04:00:00+11:00",
-      "kickoff_utc": "2025-11-17T17:00:00+00:00",
-      "home": "Albania U21",
-      "away": "Ukraine U21",
-      "status": "NS",
-      "markets": {
-        "1x2": {
-          "Home": 3.35,
-          "Draw": 3.35,
-          "Away": 1.91
-        },
-        "ou_2_5": {
-          "over": 1.75,
-          "under": 1.83
-        },
-        "dc": {
-          "Home/Draw": 1.77,
-          "Home/Away": 1.22,
-          "Draw/Away": 1.28
-        }
-      }
-    },
-    {
-      "fixture_id": 1486544,
-      "league_id": 10,
-      "league": "Friendlies",
-      "kickoff_local": "2025-11-18T04:00:00+11:00",
-      "kickoff_utc": "2025-11-17T17:00:00+00:00",
-      "home": "Norway U19",
-      "away": "Netherlands U18",
-      "status": "NS"
-    },
     {
       "fixture_id": 1452940,
       "league_id": 890,
@@ -1027,18 +939,18 @@
       "status": "NS",
       "markets": {
         "1x2": {
-          "Home": 1.83,
-          "Draw": 3.4,
-          "Away": 3.95
+          "Home": 1.85,
+          "Draw": 3.35,
+          "Away": 3.85
         },
         "ou_2_5": {
           "over": 1.95,
           "under": 1.8
         },
         "dc": {
-          "Home/Draw": 1.18,
+          "Home/Draw": 1.2,
           "Home/Away": 1.25,
-          "Draw/Away": 1.9
+          "Draw/Away": 1.85
         }
       }
     },
@@ -1265,6 +1177,78 @@
       "kickoff_utc": "2025-11-18T13:00:00+00:00",
       "home": "Slovakia U19",
       "away": "Ukraine U19",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1366979,
+      "league_id": 893,
+      "league": "UEFA U19 Championship - Qualification",
+      "kickoff_local": "2025-11-19T00:00:00+11:00",
+      "kickoff_utc": "2025-11-18T13:00:00+00:00",
+      "home": "Albania U19",
+      "away": "Montenegro U19",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 1.5,
+          "Draw": 4.1,
+          "Away": 5.4
+        },
+        "ou_2_5": {
+          "over": 1.55,
+          "under": 2.35
+        },
+        "dc": {
+          "Home/Draw": 1.1,
+          "Home/Away": 1.17,
+          "Draw/Away": 2.45
+        }
+      }
+    },
+    {
+      "fixture_id": 1366986,
+      "league_id": 893,
+      "league": "UEFA U19 Championship - Qualification",
+      "kickoff_local": "2025-11-19T00:00:00+11:00",
+      "kickoff_utc": "2025-11-18T13:00:00+00:00",
+      "home": "Greece U19",
+      "away": "Turkey U19",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1434020,
+      "league_id": 703,
+      "league": "Professional Development League",
+      "kickoff_local": "2025-11-19T00:00:00+11:00",
+      "kickoff_utc": "2025-11-18T13:00:00+00:00",
+      "home": "Peterborough United U21",
+      "away": "Sheffield Wednesday U21",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 1.53,
+          "Draw": 4.75,
+          "Away": 4.0
+        },
+        "ou_2_5": {
+          "over": 1.25,
+          "under": 3.75
+        },
+        "dc": {
+          "Home/Draw": 1.17,
+          "Home/Away": 1.36,
+          "Draw/Away": 1.91
+        }
+      }
+    },
+    {
+      "fixture_id": 1434021,
+      "league_id": 703,
+      "league": "Professional Development League",
+      "kickoff_local": "2025-11-19T00:00:00+11:00",
+      "kickoff_utc": "2025-11-18T13:00:00+00:00",
+      "home": "Barnsley U21",
+      "away": "Wigan Athletic U21",
       "status": "NS"
     }
   ]
