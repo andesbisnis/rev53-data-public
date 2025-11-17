@@ -1,30 +1,8 @@
 {
-  "generated_at_utc": "2025-11-17T18:58:15.336825+00:00",
+  "generated_at_utc": "2025-11-17T19:03:19.226522+00:00",
   "window_hours": 36,
   "max_fixtures": 60,
   "fixtures": [
-    {
-      "fixture_id": 1447091,
-      "league_id": 871,
-      "league": "Premier League Cup",
-      "kickoff_local": "2025-11-18T06:00:00+11:00",
-      "kickoff_utc": "2025-11-17T19:00:00+00:00",
-      "home": "Bromley U21",
-      "away": "Norwich City U21",
-      "status": "NS",
-      "markets": {
-        "1x2": {
-          "Home": 2.3,
-          "Draw": 3.5,
-          "Away": 2.5
-        },
-        "dc": {
-          "Home/Draw": 1.42,
-          "Home/Away": 1.22,
-          "Draw/Away": 1.55
-        }
-      }
-    },
     {
       "fixture_id": 1391917,
       "league_id": 141,
@@ -658,18 +636,18 @@
       "status": "NS",
       "markets": {
         "1x2": {
-          "Home": 8.2,
-          "Draw": 5.75,
-          "Away": 1.25
+          "Home": 9.75,
+          "Draw": 6.6,
+          "Away": 1.18
         },
         "ou_2_5": {
-          "over": 2.35,
-          "under": 1.53
+          "over": 2.15,
+          "under": 1.62
         },
         "dc": {
-          "Home/Draw": 3.35,
-          "Home/Away": 1.07,
-          "Draw/Away": 1.03
+          "Home/Draw": 3.85,
+          "Home/Away": 1.04,
+          "Draw/Away": 1.02
         }
       }
     },
@@ -792,13 +770,13 @@
       "status": "NS",
       "markets": {
         "1x2": {
-          "Home": 13.5,
-          "Draw": 5.5,
-          "Away": 1.2
+          "Home": 14.5,
+          "Draw": 6.6,
+          "Away": 1.15
         },
         "ou_2_5": {
-          "over": 1.57,
-          "under": 2.3
+          "over": 1.5,
+          "under": 2.45
         },
         "dc": {
           "Home/Draw": 3.55,
@@ -885,7 +863,7 @@
       "status": "NS",
       "markets": {
         "1x2": {
-          "Home": 8.4,
+          "Home": 8.2,
           "Draw": 5.2,
           "Away": 1.28
         },
@@ -1106,17 +1084,13 @@
       "status": "NS",
       "markets": {
         "1x2": {
-          "Home": 126.0,
-          "Draw": 15.0,
-          "Away": 1.03
+          "Home": 51.0,
+          "Draw": 16.0,
+          "Away": 1.01
         },
         "ou_2_5": {
-          "over": 1.62,
-          "under": 2.2
-        },
-        "btts": {
-          "yes": 7.5,
-          "no": 1.08
+          "over": 1.53,
+          "under": 2.35
         }
       }
     },
@@ -1309,6 +1283,16 @@
       "kickoff_utc": "2025-11-18T13:00:00+00:00",
       "home": "Pomorac",
       "away": "Naprijed Hreljin",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1475340,
+      "league_id": 213,
+      "league": "Third NL - Istok",
+      "kickoff_local": "2025-11-19T00:00:00+11:00",
+      "kickoff_utc": "2025-11-18T13:00:00+00:00",
+      "home": "Kraljevica",
+      "away": "Nehaj",
       "status": "NS"
     }
   ]
