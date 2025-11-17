@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-18T05:03:23.250456+11:00",
+  "timestamp": "2025-11-18T05:08:23.246937+11:00",
   "payload": {
     "status": "ok",
     "count": 80,
@@ -27,6 +27,18 @@
         "status": "FT",
         "ft": "1-0",
         "result_1x2": "1"
+      },
+      {
+        "fixture_id": 1486714,
+        "league_id": 760,
+        "league": "LFA First Division",
+        "kickoff_local": "2025-11-18T03:00:00+11:00",
+        "kickoff_utc": "2025-11-17T16:00:00+00:00",
+        "home": "Heaven Eleven",
+        "away": "Borough",
+        "status": "FT",
+        "ft": "2-3",
+        "result_1x2": "2"
       },
       {
         "fixture_id": 1486536,
@@ -951,18 +963,6 @@
         "status": "FT",
         "ft": "2-0",
         "result_1x2": "1"
-      },
-      {
-        "fixture_id": 1353627,
-        "league_id": 72,
-        "league": "Serie B",
-        "kickoff_local": "2025-11-17T06:30:00+11:00",
-        "kickoff_utc": "2025-11-16T19:30:00+00:00",
-        "home": "America Mineiro",
-        "away": "Cuiaba",
-        "status": "FT",
-        "ft": "1-1",
-        "result_1x2": "X"
       }
     ]
   },

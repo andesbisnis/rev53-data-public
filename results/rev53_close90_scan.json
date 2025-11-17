@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2025-11-17T18:00:04.696315+00:00",
+  "generated_at_utc": "2025-11-17T18:05:05.340615+00:00",
   "window_before_min": 15,
   "window_after_min": 120,
   "fixtures": [
@@ -11,7 +11,7 @@
       "kickoff_utc": "2025-11-17T18:00:00+00:00",
       "home": "Ceara B",
       "away": "Caucaia",
-      "status": "NS",
+      "status": "1H",
       "markets": {
         "1x2": {
           "Home": 1.28,
@@ -350,6 +350,105 @@
           "Home/Draw": 1.62,
           "Home/Away": 1.22,
           "Draw/Away": 1.36
+        }
+      }
+    },
+    {
+      "fixture_id": 1350085,
+      "league_id": 850,
+      "league": "UEFA U21 Championship - Qualification",
+      "kickoff_local": "2025-11-18T07:00:00+11:00",
+      "kickoff_utc": "2025-11-17T20:00:00+00:00",
+      "home": "France U21",
+      "away": "Faroe Islands U21",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 1.01,
+          "Draw": 11.0,
+          "Away": 51.0
+        },
+        "ou_2_5": {
+          "over": 1.57,
+          "under": 2.25
+        }
+      }
+    },
+    {
+      "fixture_id": 1374289,
+      "league_id": 128,
+      "league": "Liga Profesional Argentina",
+      "kickoff_local": "2025-11-18T07:00:00+11:00",
+      "kickoff_utc": "2025-11-17T20:00:00+00:00",
+      "home": "Defensa Y Justicia",
+      "away": "Independ. Rivadavia",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 1.91,
+          "Draw": 3.2,
+          "Away": 4.45
+        },
+        "ou_2_5": {
+          "over": 5.8,
+          "under": 1.1
+        },
+        "dc": {
+          "Home/Draw": 1.2,
+          "Home/Away": 1.28,
+          "Draw/Away": 1.85
+        }
+      }
+    },
+    {
+      "fixture_id": 1374291,
+      "league_id": 128,
+      "league": "Liga Profesional Argentina",
+      "kickoff_local": "2025-11-18T07:00:00+11:00",
+      "kickoff_utc": "2025-11-17T20:00:00+00:00",
+      "home": "Barracas Central",
+      "away": "Huracan",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 3.05,
+          "Draw": 2.65,
+          "Away": 2.84
+        },
+        "ou_2_5": {
+          "over": 3.4,
+          "under": 1.3
+        },
+        "dc": {
+          "Home/Draw": 1.42,
+          "Home/Away": 1.42,
+          "Draw/Away": 1.38
+        }
+      }
+    },
+    {
+      "fixture_id": 1374292,
+      "league_id": 128,
+      "league": "Liga Profesional Argentina",
+      "kickoff_local": "2025-11-18T07:00:00+11:00",
+      "kickoff_utc": "2025-11-17T20:00:00+00:00",
+      "home": "Belgrano Cordoba",
+      "away": "Union Santa Fe",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 2.18,
+          "Draw": 3.0,
+          "Away": 3.75
+        },
+        "ou_2_5": {
+          "over": 6.25,
+          "under": 1.08
+        },
+        "dc": {
+          "Home/Draw": 1.25,
+          "Home/Away": 1.33,
+          "Draw/Away": 1.65
         }
       }
     }
