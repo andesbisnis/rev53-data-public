@@ -1,60 +1,8 @@
 {
-  "generated_at_utc": "2025-11-17T16:44:59.977656+00:00",
+  "generated_at_utc": "2025-11-17T16:49:59.123084+00:00",
   "window_before_min": 15,
   "window_after_min": 120,
   "fixtures": [
-    {
-      "fixture_id": 1483282,
-      "league_id": 236,
-      "league": "First League",
-      "kickoff_local": "2025-11-18T03:30:00+11:00",
-      "kickoff_utc": "2025-11-17T16:30:00+00:00",
-      "home": "Spartak Kostroma",
-      "away": "Rodina Moskva",
-      "status": "1H",
-      "markets": {
-        "1x2": {
-          "Home": 2.74,
-          "Draw": 2.93,
-          "Away": 2.68
-        },
-        "ou_2_5": {
-          "over": 6.45,
-          "under": 1.05
-        },
-        "dc": {
-          "Home/Draw": 1.42,
-          "Home/Away": 1.36,
-          "Draw/Away": 1.41
-        }
-      }
-    },
-    {
-      "fixture_id": 1486542,
-      "league_id": 10,
-      "league": "Friendlies",
-      "kickoff_local": "2025-11-18T03:30:00+11:00",
-      "kickoff_utc": "2025-11-17T16:30:00+00:00",
-      "home": "Qatar",
-      "away": "Zimbabwe",
-      "status": "1H",
-      "markets": {
-        "1x2": {
-          "Home": 1.9,
-          "Draw": 3.2,
-          "Away": 3.95
-        },
-        "ou_2_5": {
-          "over": 2.15,
-          "under": 1.65
-        },
-        "dc": {
-          "Home/Draw": 1.18,
-          "Home/Away": 1.28,
-          "Draw/Away": 1.83
-        }
-      }
-    },
     {
       "fixture_id": 1352906,
       "league_id": 10,
@@ -67,17 +15,17 @@
       "markets": {
         "1x2": {
           "Home": 1.25,
-          "Draw": 4.4,
-          "Away": 12.0
+          "Draw": 4.8,
+          "Away": 10.75
         },
         "ou_2_5": {
-          "over": 2.0,
-          "under": 1.77
+          "over": 1.83,
+          "under": 1.9
         },
         "dc": {
-          "Home/Draw": 1.01,
-          "Home/Away": 1.12,
-          "Draw/Away": 3.5
+          "Home/Draw": 1.02,
+          "Home/Away": 1.1,
+          "Draw/Away": 3.65
         }
       }
     },

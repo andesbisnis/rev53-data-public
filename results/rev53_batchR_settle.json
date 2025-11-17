@@ -1,9 +1,21 @@
 {
-  "timestamp": "2025-11-18T03:43:23.221991+11:00",
+  "timestamp": "2025-11-18T03:48:23.239050+11:00",
   "payload": {
     "status": "ok",
     "count": 80,
     "sample": [
+      {
+        "fixture_id": 1479878,
+        "league_id": 886,
+        "league": "UEFA U17 Championship - Qualification",
+        "kickoff_local": "2025-11-18T02:00:00+11:00",
+        "kickoff_utc": "2025-11-17T15:00:00+00:00",
+        "home": "Malta U17",
+        "away": "Bosnia-Herzegovina U17",
+        "status": "FT",
+        "ft": "2-2",
+        "result_1x2": "X"
+      },
       {
         "fixture_id": 1350084,
         "league_id": 850,
@@ -951,18 +963,6 @@
         "status": "FT",
         "ft": "1-1",
         "result_1x2": "X"
-      },
-      {
-        "fixture_id": 1485410,
-        "league_id": 300,
-        "league": "Segunda División",
-        "kickoff_local": "2025-11-17T06:00:00+11:00",
-        "kickoff_utc": "2025-11-16T19:00:00+00:00",
-        "home": "Trujillanos FC",
-        "away": "Titanes FC",
-        "status": "FT",
-        "ft": "2-1",
-        "result_1x2": "1"
       }
     ]
   },

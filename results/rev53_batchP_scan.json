@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2025-11-17T16:43:07.899480+00:00",
+  "generated_at_utc": "2025-11-17T16:48:09.057448+00:00",
   "window_hours": 36,
   "max_fixtures": 60,
   "fixtures": [
@@ -15,17 +15,17 @@
       "markets": {
         "1x2": {
           "Home": 1.25,
-          "Draw": 4.4,
-          "Away": 12.0
+          "Draw": 4.8,
+          "Away": 10.75
         },
         "ou_2_5": {
-          "over": 2.0,
-          "under": 1.77
+          "over": 1.83,
+          "under": 1.9
         },
         "dc": {
-          "Home/Draw": 1.01,
-          "Home/Away": 1.12,
-          "Draw/Away": 3.5
+          "Home/Draw": 1.02,
+          "Home/Away": 1.1,
+          "Draw/Away": 3.65
         }
       }
     },
@@ -826,9 +826,9 @@
       "status": "NS",
       "markets": {
         "1x2": {
-          "Home": 2.45,
-          "Draw": 3.2,
-          "Away": 2.5
+          "Home": 2.4,
+          "Draw": 3.3,
+          "Away": 2.45
         },
         "ou_2_5": {
           "over": 3.3,
@@ -1142,7 +1142,18 @@
       "kickoff_utc": "2025-11-18T12:00:00+00:00",
       "home": "Flamurtari",
       "away": "Tomori Berat",
-      "status": "NS"
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 1.06,
+          "Draw": 9.0,
+          "Away": 21.0
+        },
+        "ou_2_5": {
+          "over": 3.4,
+          "under": 1.25
+        }
+      }
     },
     {
       "fixture_id": 1482096,
