@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2025-11-17T19:30:04.571552+00:00",
+  "generated_at_utc": "2025-11-17T19:35:04.568076+00:00",
   "window_before_min": 15,
   "window_after_min": 120,
   "fixtures": [
@@ -11,7 +11,7 @@
       "kickoff_utc": "2025-11-17T19:30:00+00:00",
       "home": "Cultural Leonesa",
       "away": "Malaga",
-      "status": "NS",
+      "status": "1H",
       "markets": {
         "1x2": {
           "Home": 2.3,
@@ -37,7 +37,7 @@
       "kickoff_utc": "2025-11-17T19:30:00+00:00",
       "home": "Pergolettese",
       "away": "Giana Erminio",
-      "status": "NS",
+      "status": "1H",
       "markets": {
         "1x2": {
           "Home": 2.55,
@@ -63,7 +63,7 @@
       "kickoff_utc": "2025-11-17T19:30:00+00:00",
       "home": "Foggia",
       "away": "Cavese",
-      "status": "NS",
+      "status": "1H",
       "markets": {
         "1x2": {
           "Home": 3.3,
@@ -321,8 +321,8 @@
           "Away": 51.0
         },
         "ou_2_5": {
-          "over": 1.57,
-          "under": 2.25
+          "over": 1.62,
+          "under": 2.15
         }
       }
     },
