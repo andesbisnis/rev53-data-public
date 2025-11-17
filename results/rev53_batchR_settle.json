@@ -1,9 +1,21 @@
 {
-  "timestamp": "2025-11-17T23:28:23.336513+11:00",
+  "timestamp": "2025-11-17T23:33:23.565132+11:00",
   "payload": {
     "status": "ok",
     "count": 80,
     "sample": [
+      {
+        "fixture_id": 1412626,
+        "league_id": 336,
+        "league": "Druha Liga",
+        "kickoff_local": "2025-11-17T21:30:00+11:00",
+        "kickoff_utc": "2025-11-17T10:30:00+00:00",
+        "home": "Lokomotiv Kyiv",
+        "away": "Oleksandria II",
+        "status": "FT",
+        "ft": "1-2",
+        "result_1x2": "2"
+      },
       {
         "fixture_id": 1479879,
         "league_id": 886,
@@ -951,18 +963,6 @@
         "status": "PEN",
         "ft": "3-3",
         "result_1x2": "X"
-      },
-      {
-        "fixture_id": 1485801,
-        "league_id": 1114,
-        "league": "Carioca U20",
-        "kickoff_local": "2025-11-17T05:00:00+11:00",
-        "kickoff_utc": "2025-11-16T18:00:00+00:00",
-        "home": "Volta Redonda U20",
-        "away": "Bangu U20",
-        "status": "FT",
-        "ft": "4-0",
-        "result_1x2": "1"
       }
     ]
   },
