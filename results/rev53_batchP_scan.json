@@ -1,34 +1,8 @@
 {
-  "generated_at_utc": "2025-11-17T14:28:08.220433+00:00",
+  "generated_at_utc": "2025-11-17T14:33:09.454913+00:00",
   "window_hours": 36,
   "max_fixtures": 60,
   "fixtures": [
-    {
-      "fixture_id": 1350084,
-      "league_id": 850,
-      "league": "UEFA U21 Championship - Qualification",
-      "kickoff_local": "2025-11-18T01:30:00+11:00",
-      "kickoff_utc": "2025-11-17T14:30:00+00:00",
-      "home": "Kazakhstan U21",
-      "away": "Moldova U21",
-      "status": "NS",
-      "markets": {
-        "1x2": {
-          "Home": 1.65,
-          "Draw": 3.4,
-          "Away": 5.0
-        },
-        "ou_2_5": {
-          "over": 2.1,
-          "under": 1.7
-        },
-        "dc": {
-          "Home/Draw": 1.12,
-          "Home/Away": 1.22,
-          "Draw/Away": 2.1
-        }
-      }
-    },
     {
       "fixture_id": 1378501,
       "league_id": 117,
@@ -175,6 +149,26 @@
       "kickoff_utc": "2025-11-17T16:00:00+00:00",
       "home": "Egypt",
       "away": "Cape Verde Islands",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1486713,
+      "league_id": 760,
+      "league": "LFA First Division",
+      "kickoff_local": "2025-11-18T03:00:00+11:00",
+      "kickoff_utc": "2025-11-17T16:00:00+00:00",
+      "home": "LPRC Oilers",
+      "away": "Black Man Warrior",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1486714,
+      "league_id": 760,
+      "league": "LFA First Division",
+      "kickoff_local": "2025-11-18T03:00:00+11:00",
+      "kickoff_utc": "2025-11-17T16:00:00+00:00",
+      "home": "Heaven Eleven",
+      "away": "Borough",
       "status": "NS"
     },
     {
@@ -1151,32 +1145,6 @@
       "home": "Hayq",
       "away": "Andranik",
       "status": "NS"
-    },
-    {
-      "fixture_id": 1350100,
-      "league_id": 850,
-      "league": "UEFA U21 Championship - Qualification",
-      "kickoff_local": "2025-11-18T22:00:00+11:00",
-      "kickoff_utc": "2025-11-18T11:00:00+00:00",
-      "home": "Armenia U21",
-      "away": "Sweden U21",
-      "status": "NS",
-      "markets": {
-        "1x2": {
-          "Home": 8.2,
-          "Draw": 5.2,
-          "Away": 1.28
-        },
-        "ou_2_5": {
-          "over": 1.42,
-          "under": 2.75
-        },
-        "dc": {
-          "Home/Draw": 3.1,
-          "Home/Away": 1.1,
-          "Draw/Away": 1.03
-        }
-      }
     }
   ]
 }
