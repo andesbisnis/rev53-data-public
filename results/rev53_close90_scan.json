@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2025-11-17T15:40:03.500606+00:00",
+  "generated_at_utc": "2025-11-17T15:50:01.746200+00:00",
   "window_before_min": 15,
   "window_after_min": 120,
   "fixtures": [
@@ -12,16 +12,6 @@
       "home": "Ashanti GB",
       "away": "RCC Kamsar",
       "status": "NS"
-    },
-    {
-      "fixture_id": 1486536,
-      "league_id": 10,
-      "league": "Friendlies",
-      "kickoff_local": "2025-11-18T03:00:00+11:00",
-      "kickoff_utc": "2025-11-17T16:00:00+00:00",
-      "home": "Bahrain",
-      "away": "Somalia",
-      "status": "1H"
     },
     {
       "fixture_id": 1486537,
