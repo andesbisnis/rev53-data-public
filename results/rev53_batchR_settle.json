@@ -1,9 +1,21 @@
 {
-  "timestamp": "2025-11-17T23:48:23.336338+11:00",
+  "timestamp": "2025-11-17T23:53:23.467559+11:00",
   "payload": {
     "status": "ok",
     "count": 80,
     "sample": [
+      {
+        "fixture_id": 1400531,
+        "league_id": 334,
+        "league": "Persha Liga",
+        "kickoff_local": "2025-11-17T22:00:00+11:00",
+        "kickoff_utc": "2025-11-17T11:00:00+00:00",
+        "home": "Livyi Bereh",
+        "away": "Ahrobiznes Volochysk",
+        "status": "FT",
+        "ft": "4-1",
+        "result_1x2": "1"
+      },
       {
         "fixture_id": 1412626,
         "league_id": 336,
@@ -951,18 +963,6 @@
         "status": "FT",
         "ft": "3-2",
         "result_1x2": "1"
-      },
-      {
-        "fixture_id": 1485701,
-        "league_id": 1086,
-        "league": "Paulista - U20",
-        "kickoff_local": "2025-11-17T05:00:00+11:00",
-        "kickoff_utc": "2025-11-16T18:00:00+00:00",
-        "home": "São Paulo U20",
-        "away": "Santos U20",
-        "status": "PEN",
-        "ft": "3-3",
-        "result_1x2": "X"
       }
     ]
   },
