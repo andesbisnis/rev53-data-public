@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2025-11-17T15:30:01.648795+00:00",
+  "generated_at_utc": "2025-11-17T15:35:02.084077+00:00",
   "window_before_min": 15,
   "window_after_min": 120,
   "fixtures": [
@@ -170,6 +170,28 @@
       "home": "Norway U19",
       "away": "Netherlands U18",
       "status": "NS"
+    },
+    {
+      "fixture_id": 1452940,
+      "league_id": 890,
+      "league": "U20 Elite League",
+      "kickoff_local": "2025-11-18T04:30:00+11:00",
+      "kickoff_utc": "2025-11-17T17:30:00+00:00",
+      "home": "Portugal U20",
+      "away": "Romania U20",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 1.22,
+          "Draw": 5.5,
+          "Away": 8.6
+        },
+        "dc": {
+          "Home/Draw": 1.02,
+          "Home/Away": 1.11,
+          "Draw/Away": 3.1
+        }
+      }
     }
   ]
 }
