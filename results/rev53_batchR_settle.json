@@ -1,9 +1,21 @@
 {
-  "timestamp": "2025-11-18T05:13:23.245625+11:00",
+  "timestamp": "2025-11-18T05:18:23.273192+11:00",
   "payload": {
     "status": "ok",
     "count": 80,
     "sample": [
+      {
+        "fixture_id": 1486537,
+        "league_id": 10,
+        "league": "Friendlies",
+        "kickoff_local": "2025-11-18T03:00:00+11:00",
+        "kickoff_utc": "2025-11-17T16:00:00+00:00",
+        "home": "Comoros",
+        "away": "Namibia",
+        "status": "FT",
+        "ft": "4-0",
+        "result_1x2": "1"
+      },
       {
         "fixture_id": 1486541,
         "league_id": 10,
@@ -950,18 +962,6 @@
         "away": "Novorizontino",
         "status": "FT",
         "ft": "1-0",
-        "result_1x2": "1"
-      },
-      {
-        "fixture_id": 1353625,
-        "league_id": 72,
-        "league": "Serie B",
-        "kickoff_local": "2025-11-17T06:30:00+11:00",
-        "kickoff_utc": "2025-11-16T19:30:00+00:00",
-        "home": "Criciuma",
-        "away": "Botafogo SP",
-        "status": "FT",
-        "ft": "2-0",
         "result_1x2": "1"
       }
     ]
