@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-18T00:38:23.232893+11:00",
+  "timestamp": "2025-11-18T00:43:23.276677+11:00",
   "payload": {
     "status": "ok",
     "count": 80,
@@ -135,6 +135,18 @@
         "status": "FT",
         "ft": "2-0",
         "result_1x2": "1"
+      },
+      {
+        "fixture_id": 1486674,
+        "league_id": 666,
+        "league": "Friendlies Women",
+        "kickoff_local": "2025-11-17T14:00:00+11:00",
+        "kickoff_utc": "2025-11-17T03:00:00+00:00",
+        "home": "Solomon Islands W",
+        "away": "Fiji W",
+        "status": "FT",
+        "ft": "1-2",
+        "result_1x2": "2"
       },
       {
         "fixture_id": 1485904,
@@ -950,18 +962,6 @@
         "away": "Guarani RS",
         "status": "FT",
         "ft": "0-3",
-        "result_1x2": "2"
-      },
-      {
-        "fixture_id": 1477874,
-        "league_id": 1150,
-        "league": "Gaúcho - 3",
-        "kickoff_local": "2025-11-17T05:00:00+11:00",
-        "kickoff_utc": "2025-11-16T18:00:00+00:00",
-        "home": "São Gabriel",
-        "away": "São Paulo RS",
-        "status": "FT",
-        "ft": "0-5",
         "result_1x2": "2"
       }
     ]
