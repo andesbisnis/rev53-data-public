@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2025-11-17T17:29:57.992751+00:00",
+  "generated_at_utc": "2025-11-17T17:34:59.280751+00:00",
   "window_before_min": 15,
   "window_after_min": 120,
   "fixtures": [
@@ -11,7 +11,7 @@
       "kickoff_utc": "2025-11-17T17:30:00+00:00",
       "home": "Portugal U20",
       "away": "Romania U20",
-      "status": "NS",
+      "status": "1H",
       "markets": {
         "1x2": {
           "Home": 1.22,
@@ -70,6 +70,84 @@
           "Home/Draw": 1.42,
           "Home/Away": 1.22,
           "Draw/Away": 1.55
+        }
+      }
+    },
+    {
+      "fixture_id": 1391917,
+      "league_id": 141,
+      "league": "Segunda División",
+      "kickoff_local": "2025-11-18T06:30:00+11:00",
+      "kickoff_utc": "2025-11-17T19:30:00+00:00",
+      "home": "Cultural Leonesa",
+      "away": "Malaga",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 2.3,
+          "Draw": 3.05,
+          "Away": 3.25
+        },
+        "ou_2_5": {
+          "over": 2.25,
+          "under": 1.62
+        },
+        "dc": {
+          "Home/Draw": 1.33,
+          "Home/Away": 1.3,
+          "Draw/Away": 1.6
+        }
+      }
+    },
+    {
+      "fixture_id": 1439117,
+      "league_id": 138,
+      "league": "Serie C - Girone A",
+      "kickoff_local": "2025-11-18T06:30:00+11:00",
+      "kickoff_utc": "2025-11-17T19:30:00+00:00",
+      "home": "Pergolettese",
+      "away": "Giana Erminio",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 2.45,
+          "Draw": 2.85,
+          "Away": 2.95
+        },
+        "ou_2_5": {
+          "over": 2.65,
+          "under": 1.44
+        },
+        "dc": {
+          "Home/Draw": 1.3,
+          "Home/Away": 1.35,
+          "Draw/Away": 1.5
+        }
+      }
+    },
+    {
+      "fixture_id": 1439870,
+      "league_id": 943,
+      "league": "Serie C - Girone C",
+      "kickoff_local": "2025-11-18T06:30:00+11:00",
+      "kickoff_utc": "2025-11-17T19:30:00+00:00",
+      "home": "Foggia",
+      "away": "Cavese",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 3.1,
+          "Draw": 2.95,
+          "Away": 2.25
+        },
+        "ou_2_5": {
+          "over": 2.35,
+          "under": 1.55
+        },
+        "dc": {
+          "Home/Draw": 1.53,
+          "Home/Away": 1.3,
+          "Draw/Away": 1.33
         }
       }
     }
