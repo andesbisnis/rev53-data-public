@@ -1,9 +1,21 @@
 {
-  "timestamp": "2025-11-18T04:33:23.254911+11:00",
+  "timestamp": "2025-11-18T04:38:23.238959+11:00",
   "payload": {
     "status": "ok",
     "count": 80,
     "sample": [
+      {
+        "fixture_id": 1486536,
+        "league_id": 10,
+        "league": "Friendlies",
+        "kickoff_local": "2025-11-18T02:30:00+11:00",
+        "kickoff_utc": "2025-11-17T15:30:00+00:00",
+        "home": "Bahrain",
+        "away": "Somalia",
+        "status": "FT",
+        "ft": "1-2",
+        "result_1x2": "2"
+      },
       {
         "fixture_id": 1378501,
         "league_id": 117,
@@ -950,18 +962,6 @@
         "away": "Primero Mayo",
         "status": "FT",
         "ft": "2-0",
-        "result_1x2": "1"
-      },
-      {
-        "fixture_id": 1486284,
-        "league_id": 503,
-        "league": "Copa Perú",
-        "kickoff_local": "2025-11-17T06:30:00+11:00",
-        "kickoff_utc": "2025-11-16T19:30:00+00:00",
-        "home": "Minas",
-        "away": "ANBA Peru",
-        "status": "PEN",
-        "ft": "1-0",
         "result_1x2": "1"
       }
     ]
