@@ -1,58 +1,8 @@
 {
-  "generated_at_utc": "2025-11-17T15:58:09.059545+00:00",
+  "generated_at_utc": "2025-11-17T16:03:09.123203+00:00",
   "window_hours": 36,
   "max_fixtures": 60,
   "fixtures": [
-    {
-      "fixture_id": 1484135,
-      "league_id": 378,
-      "league": "Ligue 1",
-      "kickoff_local": "2025-11-18T03:00:00+11:00",
-      "kickoff_utc": "2025-11-17T16:00:00+00:00",
-      "home": "Ashanti GB",
-      "away": "RCC Kamsar",
-      "status": "NS"
-    },
-    {
-      "fixture_id": 1486537,
-      "league_id": 10,
-      "league": "Friendlies",
-      "kickoff_local": "2025-11-18T03:00:00+11:00",
-      "kickoff_utc": "2025-11-17T16:00:00+00:00",
-      "home": "Comoros",
-      "away": "Namibia",
-      "status": "NS"
-    },
-    {
-      "fixture_id": 1486541,
-      "league_id": 10,
-      "league": "Friendlies",
-      "kickoff_local": "2025-11-18T03:00:00+11:00",
-      "kickoff_utc": "2025-11-17T16:00:00+00:00",
-      "home": "Egypt",
-      "away": "Cape Verde Islands",
-      "status": "NS"
-    },
-    {
-      "fixture_id": 1486713,
-      "league_id": 760,
-      "league": "LFA First Division",
-      "kickoff_local": "2025-11-18T03:00:00+11:00",
-      "kickoff_utc": "2025-11-17T16:00:00+00:00",
-      "home": "LPRC Oilers",
-      "away": "Black Man Warrior",
-      "status": "NS"
-    },
-    {
-      "fixture_id": 1486714,
-      "league_id": 760,
-      "league": "LFA First Division",
-      "kickoff_local": "2025-11-18T03:00:00+11:00",
-      "kickoff_utc": "2025-11-17T16:00:00+00:00",
-      "home": "Heaven Eleven",
-      "away": "Borough",
-      "status": "NS"
-    },
     {
       "fixture_id": 1483282,
       "league_id": 236,
@@ -220,14 +170,14 @@
       "status": "NS",
       "markets": {
         "1x2": {
-          "Home": 2.33,
+          "Home": 2.3,
           "Draw": 3.5,
-          "Away": 2.45
+          "Away": 2.5
         },
         "dc": {
           "Home/Draw": 1.42,
           "Home/Away": 1.22,
-          "Draw/Away": 1.53
+          "Draw/Away": 1.55
         }
       }
     },
@@ -946,13 +896,13 @@
       "status": "NS",
       "markets": {
         "1x2": {
-          "Home": 12.5,
-          "Draw": 5.2,
-          "Away": 1.22
+          "Home": 13.5,
+          "Draw": 5.5,
+          "Away": 1.2
         },
         "ou_2_5": {
-          "over": 1.6,
-          "under": 2.25
+          "over": 1.57,
+          "under": 2.3
         },
         "dc": {
           "Home/Draw": 3.55,
@@ -1039,7 +989,7 @@
       "status": "NS",
       "markets": {
         "1x2": {
-          "Home": 8.2,
+          "Home": 8.4,
           "Draw": 5.2,
           "Away": 1.28
         },
@@ -1164,6 +1114,71 @@
       "kickoff_utc": "2025-11-18T12:00:00+00:00",
       "home": "Flamurtari",
       "away": "Tomori Berat",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1482096,
+      "league_id": 707,
+      "league": "Cup",
+      "kickoff_local": "2025-11-18T23:00:00+11:00",
+      "kickoff_utc": "2025-11-18T12:00:00+00:00",
+      "home": "Laci",
+      "away": "Luftëtari",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1483851,
+      "league_id": 680,
+      "league": "Cup",
+      "kickoff_local": "2025-11-18T23:00:00+11:00",
+      "kickoff_utc": "2025-11-18T12:00:00+00:00",
+      "home": "Púchov",
+      "away": "Tatran Prešov",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1321343,
+      "league_id": 35,
+      "league": "Asian Cup - Qualification",
+      "kickoff_local": "2025-11-18T23:15:00+11:00",
+      "kickoff_utc": "2025-11-18T12:15:00+00:00",
+      "home": "Brunei",
+      "away": "Lebanon",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 126.0,
+          "Draw": 15.0,
+          "Away": 1.03
+        },
+        "ou_2_5": {
+          "over": 1.62,
+          "under": 2.2
+        },
+        "btts": {
+          "yes": 7.5,
+          "no": 1.08
+        }
+      }
+    },
+    {
+      "fixture_id": 1486347,
+      "league_id": 587,
+      "league": "World Cup - U17",
+      "kickoff_local": "2025-11-18T23:30:00+11:00",
+      "kickoff_utc": "2025-11-18T12:30:00+00:00",
+      "home": "Italy U17",
+      "away": "Uzbekistan U17",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1486348,
+      "league_id": 587,
+      "league": "World Cup - U17",
+      "kickoff_local": "2025-11-18T23:30:00+11:00",
+      "kickoff_utc": "2025-11-18T12:30:00+00:00",
+      "home": "Uganda U17",
+      "away": "Burkina Faso U17",
       "status": "NS"
     }
   ]

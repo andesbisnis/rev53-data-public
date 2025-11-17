@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2025-11-17T15:55:01.575203+00:00",
+  "generated_at_utc": "2025-11-17T16:00:02.240545+00:00",
   "window_before_min": 15,
   "window_after_min": 120,
   "fixtures": [
@@ -41,7 +41,7 @@
       "kickoff_utc": "2025-11-17T16:00:00+00:00",
       "home": "LPRC Oilers",
       "away": "Black Man Warrior",
-      "status": "NS"
+      "status": "1H"
     },
     {
       "fixture_id": 1486714,
