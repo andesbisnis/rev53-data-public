@@ -1,9 +1,21 @@
 {
-  "timestamp": "2025-11-18T02:28:23.247648+11:00",
+  "timestamp": "2025-11-18T02:33:23.211953+11:00",
   "payload": {
     "status": "ok",
     "count": 80,
     "sample": [
+      {
+        "fixture_id": 1483112,
+        "league_id": 424,
+        "league": "Ligue 1",
+        "kickoff_local": "2025-11-18T01:00:00+11:00",
+        "kickoff_utc": "2025-11-17T14:00:00+00:00",
+        "home": "Simba",
+        "away": "Sanga Balende",
+        "status": "FT",
+        "ft": "1-0",
+        "result_1x2": "1"
+      },
       {
         "fixture_id": 1434017,
         "league_id": 703,
@@ -951,18 +963,6 @@
         "status": "FT",
         "ft": "2-1",
         "result_1x2": "1"
-      },
-      {
-        "fixture_id": 1486230,
-        "league_id": 29,
-        "league": "World Cup - Qualification Africa",
-        "kickoff_local": "2025-11-17T06:00:00+11:00",
-        "kickoff_utc": "2025-11-16T19:00:00+00:00",
-        "home": "Nigeria",
-        "away": "Congo DR",
-        "status": "PEN",
-        "ft": "1-1",
-        "result_1x2": "X"
       }
     ]
   },
