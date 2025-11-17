@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2025-11-17T16:33:07.526464+00:00",
+  "generated_at_utc": "2025-11-17T16:38:07.572522+00:00",
   "window_hours": 36,
   "max_fixtures": 60,
   "fixtures": [
@@ -668,7 +668,23 @@
       "kickoff_utc": "2025-11-18T07:30:00+00:00",
       "home": "Vietnam U22",
       "away": "South Korea U22",
-      "status": "NS"
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 7.4,
+          "Draw": 4.0,
+          "Away": 1.4
+        },
+        "ou_2_5": {
+          "over": 1.93,
+          "under": 1.8
+        },
+        "dc": {
+          "Home/Draw": 2.75,
+          "Home/Away": 1.17,
+          "Draw/Away": 1.04
+        }
+      }
     },
     {
       "fixture_id": 1470499,
@@ -944,13 +960,13 @@
       "status": "NS",
       "markets": {
         "1x2": {
-          "Home": 34.0,
-          "Draw": 10.25,
-          "Away": 1.02
+          "Home": 31.0,
+          "Draw": 10.5,
+          "Away": 1.03
         },
         "ou_2_5": {
-          "over": 2.45,
-          "under": 1.48
+          "over": 2.1,
+          "under": 1.65
         }
       }
     },
@@ -1064,7 +1080,23 @@
       "kickoff_utc": "2025-11-18T11:35:00+00:00",
       "home": "China U22",
       "away": "Uzbekistan U22",
-      "status": "NS"
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 2.45,
+          "Draw": 2.8,
+          "Away": 2.75
+        },
+        "ou_2_5": {
+          "over": 6.0,
+          "under": 1.11
+        },
+        "dc": {
+          "Home/Draw": 1.36,
+          "Home/Away": 1.36,
+          "Draw/Away": 1.44
+        }
+      }
     },
     {
       "fixture_id": 1321346,
@@ -1130,7 +1162,23 @@
       "kickoff_utc": "2025-11-18T12:00:00+00:00",
       "home": "Púchov",
       "away": "Tatran Prešov",
-      "status": "NS"
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 7.5,
+          "Draw": 4.33,
+          "Away": 1.35
+        },
+        "ou_2_5": {
+          "over": 4.75,
+          "under": 1.17
+        },
+        "dc": {
+          "Home/Draw": 2.9,
+          "Home/Away": 1.18,
+          "Draw/Away": 1.08
+        }
+      }
     },
     {
       "fixture_id": 1321343,
