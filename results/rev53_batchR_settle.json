@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-18T05:38:23.248014+11:00",
+  "timestamp": "2025-11-18T05:43:23.380845+11:00",
   "payload": {
     "status": "ok",
     "count": 80,
@@ -48,7 +48,7 @@
         "kickoff_utc": "2025-11-17T16:00:00+00:00",
         "home": "Egypt",
         "away": "Cape Verde Islands",
-        "status": "FT",
+        "status": "PEN",
         "ft": "1-1",
         "result_1x2": "X"
       },
