@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-17T23:58:23.361041+11:00",
+  "timestamp": "2025-11-18T00:03:23.457673+11:00",
   "payload": {
     "status": "ok",
     "count": 80,
@@ -15,6 +15,18 @@
         "status": "FT",
         "ft": "4-1",
         "result_1x2": "1"
+      },
+      {
+        "fixture_id": 1468979,
+        "league_id": 1140,
+        "league": "AFC Women's Champions League",
+        "kickoff_local": "2025-11-17T22:00:00+11:00",
+        "kickoff_utc": "2025-11-17T11:00:00+00:00",
+        "home": "Wuhan Jiangda W",
+        "away": "Nasaf W",
+        "status": "FT",
+        "ft": "1-1",
+        "result_1x2": "X"
       },
       {
         "fixture_id": 1412626,
@@ -950,18 +962,6 @@
         "away": "FBC Riograndense RS",
         "status": "FT",
         "ft": "2-1",
-        "result_1x2": "1"
-      },
-      {
-        "fixture_id": 1485157,
-        "league_id": 282,
-        "league": "Segunda División",
-        "kickoff_local": "2025-11-17T05:00:00+11:00",
-        "kickoff_utc": "2025-11-16T18:00:00+00:00",
-        "home": "UCV Moquegua",
-        "away": "Cesar Vallejo",
-        "status": "FT",
-        "ft": "3-2",
         "result_1x2": "1"
       }
     ]
