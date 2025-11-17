@@ -1,9 +1,21 @@
 {
-  "timestamp": "2025-11-18T06:23:23.240798+11:00",
+  "timestamp": "2025-11-18T06:28:23.240411+11:00",
   "payload": {
     "status": "ok",
     "count": 80,
     "sample": [
+      {
+        "fixture_id": 1452940,
+        "league_id": 890,
+        "league": "U20 Elite League",
+        "kickoff_local": "2025-11-18T04:30:00+11:00",
+        "kickoff_utc": "2025-11-17T17:30:00+00:00",
+        "home": "Portugal U20",
+        "away": "Romania U20",
+        "status": "FT",
+        "ft": "1-1",
+        "result_1x2": "X"
+      },
       {
         "fixture_id": 1352906,
         "league_id": 10,
@@ -951,18 +963,6 @@
         "status": "FT",
         "ft": "2-0",
         "result_1x2": "1"
-      },
-      {
-        "fixture_id": 1485247,
-        "league_id": 134,
-        "league": "Torneo Federal A",
-        "kickoff_local": "2025-11-17T07:00:00+11:00",
-        "kickoff_utc": "2025-11-16T20:00:00+00:00",
-        "home": "Gimnasia Chivilcoy",
-        "away": "9 de Julio Rafaela",
-        "status": "FT",
-        "ft": "1-2",
-        "result_1x2": "2"
       }
     ]
   },
