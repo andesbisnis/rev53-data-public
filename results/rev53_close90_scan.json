@@ -1,52 +1,8 @@
 {
-  "generated_at_utc": "2025-11-17T13:15:02.959660+00:00",
+  "generated_at_utc": "2025-11-17T13:20:02.128344+00:00",
   "window_before_min": 15,
   "window_after_min": 120,
   "fixtures": [
-    {
-      "fixture_id": 1434017,
-      "league_id": 703,
-      "league": "Professional Development League",
-      "kickoff_local": "2025-11-18T00:00:00+11:00",
-      "kickoff_utc": "2025-11-17T13:00:00+00:00",
-      "home": "Watford U21",
-      "away": "Bristol City U21",
-      "status": "1H",
-      "markets": {
-        "1x2": {
-          "Home": 1.8,
-          "Draw": 3.85,
-          "Away": 3.3
-        },
-        "dc": {
-          "Home/Draw": 1.25,
-          "Home/Away": 1.18,
-          "Draw/Away": 1.91
-        }
-      }
-    },
-    {
-      "fixture_id": 1434018,
-      "league_id": 703,
-      "league": "Professional Development League",
-      "kickoff_local": "2025-11-18T00:00:00+11:00",
-      "kickoff_utc": "2025-11-17T13:00:00+00:00",
-      "home": "Crewe Alexandra U21",
-      "away": "Huddersfield Town U21",
-      "status": "1H",
-      "markets": {
-        "1x2": {
-          "Home": 3.85,
-          "Draw": 4.33,
-          "Away": 1.6
-        },
-        "dc": {
-          "Home/Draw": 2.2,
-          "Home/Away": 1.14,
-          "Draw/Away": 1.18
-        }
-      }
-    },
     {
       "fixture_id": 1378604,
       "league_id": 117,

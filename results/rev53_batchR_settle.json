@@ -1,9 +1,21 @@
 {
-  "timestamp": "2025-11-18T00:18:23.224526+11:00",
+  "timestamp": "2025-11-18T00:23:23.225945+11:00",
   "payload": {
     "status": "ok",
     "count": 80,
     "sample": [
+      {
+        "fixture_id": 1412617,
+        "league_id": 336,
+        "league": "Druha Liga",
+        "kickoff_local": "2025-11-17T22:30:00+11:00",
+        "kickoff_utc": "2025-11-17T11:30:00+00:00",
+        "home": "Nyva Ternopil II",
+        "away": "Real Pharm",
+        "status": "FT",
+        "ft": "4-0",
+        "result_1x2": "1"
+      },
       {
         "fixture_id": 1400531,
         "league_id": 334,
@@ -951,18 +963,6 @@
         "status": "FT",
         "ft": "0-5",
         "result_1x2": "2"
-      },
-      {
-        "fixture_id": 1477875,
-        "league_id": 1150,
-        "league": "Gaúcho - 3",
-        "kickoff_local": "2025-11-17T05:00:00+11:00",
-        "kickoff_utc": "2025-11-16T18:00:00+00:00",
-        "home": "SC Rio Grande",
-        "away": "FBC Riograndense RS",
-        "status": "FT",
-        "ft": "2-1",
-        "result_1x2": "1"
       }
     ]
   },
