@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2025-11-17T18:18:06.964878+00:00",
+  "generated_at_utc": "2025-11-17T18:23:06.533475+00:00",
   "window_hours": 36,
   "max_fixtures": 60,
   "fixtures": [
@@ -591,13 +591,13 @@
       "status": "NS",
       "markets": {
         "1x2": {
-          "Home": 17.0,
-          "Draw": 6.6,
-          "Away": 1.14
+          "Home": 12.5,
+          "Draw": 6.25,
+          "Away": 1.18
         },
         "ou_2_5": {
-          "over": 1.42,
-          "under": 2.7
+          "over": 1.45,
+          "under": 2.62
         }
       }
     },
