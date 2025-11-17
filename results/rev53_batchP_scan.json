@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2025-11-17T17:53:19.522308+00:00",
+  "generated_at_utc": "2025-11-17T17:58:13.940751+00:00",
   "window_hours": 36,
   "max_fixtures": 60,
   "fixtures": [
@@ -1191,7 +1191,23 @@
       "kickoff_utc": "2025-11-18T13:00:00+00:00",
       "home": "Greece U19",
       "away": "Turkey U19",
-      "status": "NS"
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 2.95,
+          "Draw": 3.2,
+          "Away": 2.2
+        },
+        "ou_2_5": {
+          "over": 1.9,
+          "under": 1.85
+        },
+        "dc": {
+          "Home/Draw": 1.55,
+          "Home/Away": 1.28,
+          "Draw/Away": 1.36
+        }
+      }
     },
     {
       "fixture_id": 1434020,

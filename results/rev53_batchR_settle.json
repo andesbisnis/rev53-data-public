@@ -1,9 +1,33 @@
 {
-  "timestamp": "2025-11-18T04:53:23.217358+11:00",
+  "timestamp": "2025-11-18T04:58:23.223851+11:00",
   "payload": {
     "status": "ok",
     "count": 80,
     "sample": [
+      {
+        "fixture_id": 1486541,
+        "league_id": 10,
+        "league": "Friendlies",
+        "kickoff_local": "2025-11-18T03:00:00+11:00",
+        "kickoff_utc": "2025-11-17T16:00:00+00:00",
+        "home": "Egypt",
+        "away": "Cape Verde Islands",
+        "status": "FT",
+        "ft": "1-1",
+        "result_1x2": "X"
+      },
+      {
+        "fixture_id": 1486713,
+        "league_id": 760,
+        "league": "LFA First Division",
+        "kickoff_local": "2025-11-18T03:00:00+11:00",
+        "kickoff_utc": "2025-11-17T16:00:00+00:00",
+        "home": "LPRC Oilers",
+        "away": "Black Man Warrior",
+        "status": "FT",
+        "ft": "1-0",
+        "result_1x2": "1"
+      },
       {
         "fixture_id": 1486536,
         "league_id": 10,
@@ -939,30 +963,6 @@
         "status": "FT",
         "ft": "1-1",
         "result_1x2": "X"
-      },
-      {
-        "fixture_id": 1353628,
-        "league_id": 72,
-        "league": "Serie B",
-        "kickoff_local": "2025-11-17T06:30:00+11:00",
-        "kickoff_utc": "2025-11-16T19:30:00+00:00",
-        "home": "Ferroviária",
-        "away": "Atletico Paranaense",
-        "status": "FT",
-        "ft": "1-2",
-        "result_1x2": "2"
-      },
-      {
-        "fixture_id": 1485995,
-        "league_id": 710,
-        "league": "Nacional B",
-        "kickoff_local": "2025-11-17T06:30:00+11:00",
-        "kickoff_utc": "2025-11-16T19:30:00+00:00",
-        "home": "Real Potosí",
-        "away": "Primero Mayo",
-        "status": "FT",
-        "ft": "2-0",
-        "result_1x2": "1"
       }
     ]
   },
