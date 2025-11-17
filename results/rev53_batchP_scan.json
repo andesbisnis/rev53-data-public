@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2025-11-17T13:28:07.946775+00:00",
+  "generated_at_utc": "2025-11-17T13:33:09.061482+00:00",
   "window_hours": 36,
   "max_fixtures": 60,
   "fixtures": [
@@ -746,11 +746,11 @@
         "1x2": {
           "Home": 1.01,
           "Draw": 11.0,
-          "Away": 56.0
+          "Away": 51.0
         },
         "ou_2_5": {
-          "over": 1.75,
-          "under": 1.95
+          "over": 1.53,
+          "under": 2.35
         }
       }
     },
@@ -931,6 +931,16 @@
       "status": "NS"
     },
     {
+      "fixture_id": 1486590,
+      "league_id": 10,
+      "league": "Friendlies",
+      "kickoff_local": "2025-11-18T18:30:00+11:00",
+      "kickoff_utc": "2025-11-18T07:30:00+00:00",
+      "home": "Vietnam U22",
+      "away": "South Korea U22",
+      "status": "NS"
+    },
+    {
       "fixture_id": 1470499,
       "league_id": 275,
       "league": "Liga 2",
@@ -1102,32 +1112,6 @@
           "Home/Draw": 1.03,
           "Home/Away": 1.09,
           "Draw/Away": 4.5
-        }
-      }
-    },
-    {
-      "fixture_id": 1320889,
-      "league_id": 35,
-      "league": "Asian Cup - Qualification",
-      "kickoff_local": "2025-11-18T21:30:00+11:00",
-      "kickoff_utc": "2025-11-18T10:30:00+00:00",
-      "home": "Maldives",
-      "away": "Philippines",
-      "status": "NS",
-      "markets": {
-        "1x2": {
-          "Home": 12.5,
-          "Draw": 5.2,
-          "Away": 1.22
-        },
-        "ou_2_5": {
-          "over": 1.6,
-          "under": 2.25
-        },
-        "dc": {
-          "Home/Draw": 3.55,
-          "Home/Away": 1.12,
-          "Draw/Away": 1.03
         }
       }
     }
