@@ -1,9 +1,21 @@
 {
-  "timestamp": "2025-11-17T23:18:24.151254+11:00",
+  "timestamp": "2025-11-17T23:23:23.512611+11:00",
   "payload": {
     "status": "ok",
     "count": 80,
     "sample": [
+      {
+        "fixture_id": 1479880,
+        "league_id": 886,
+        "league": "UEFA U17 Championship - Qualification",
+        "kickoff_local": "2025-11-17T21:30:00+11:00",
+        "kickoff_utc": "2025-11-17T10:30:00+00:00",
+        "home": "Kazakhstan U17",
+        "away": "Albania U17",
+        "status": "FT",
+        "ft": "2-1",
+        "result_1x2": "1"
+      },
       {
         "fixture_id": 1412623,
         "league_id": 336,
@@ -951,18 +963,6 @@
         "status": "FT",
         "ft": "0-0",
         "result_1x2": "X"
-      },
-      {
-        "fixture_id": 1485940,
-        "league_id": 1155,
-        "league": "Carioca B2",
-        "kickoff_local": "2025-11-17T05:00:00+11:00",
-        "kickoff_utc": "2025-11-16T18:00:00+00:00",
-        "home": "Macaé",
-        "away": "Santa Cruz RJ",
-        "status": "FT",
-        "ft": "2-0",
-        "result_1x2": "1"
       }
     ]
   },
