@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2025-11-17T14:00:04.431057+00:00",
+  "generated_at_utc": "2025-11-17T14:05:04.989107+00:00",
   "window_before_min": 15,
   "window_after_min": 120,
   "fixtures": [
@@ -11,7 +11,7 @@
       "kickoff_utc": "2025-11-17T14:00:00+00:00",
       "home": "Dinamo Minsk II",
       "away": "Niva",
-      "status": "NS"
+      "status": "1H"
     },
     {
       "fixture_id": 1452899,
@@ -21,7 +21,7 @@
       "kickoff_utc": "2025-11-17T14:00:00+00:00",
       "home": "Germany U20",
       "away": "Italy U20",
-      "status": "NS",
+      "status": "1H",
       "markets": {
         "1x2": {
           "Home": 1.85,
@@ -77,7 +77,7 @@
       "kickoff_utc": "2025-11-17T14:00:00+00:00",
       "home": "Madagascar",
       "away": "Equatorial Guinea",
-      "status": "NS"
+      "status": "1H"
     },
     {
       "fixture_id": 1486540,
@@ -87,7 +87,7 @@
       "kickoff_utc": "2025-11-17T14:00:00+00:00",
       "home": "Egypt B",
       "away": "Algeria B",
-      "status": "NS"
+      "status": "1H"
     },
     {
       "fixture_id": 1350084,
@@ -221,6 +221,46 @@
       "kickoff_utc": "2025-11-17T15:00:00+00:00",
       "home": "Chad",
       "away": "Mozambique",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1484135,
+      "league_id": 378,
+      "league": "Ligue 1",
+      "kickoff_local": "2025-11-18T03:00:00+11:00",
+      "kickoff_utc": "2025-11-17T16:00:00+00:00",
+      "home": "Ashanti GB",
+      "away": "RCC Kamsar",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1486536,
+      "league_id": 10,
+      "league": "Friendlies",
+      "kickoff_local": "2025-11-18T03:00:00+11:00",
+      "kickoff_utc": "2025-11-17T16:00:00+00:00",
+      "home": "Bahrain",
+      "away": "Somalia",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1486537,
+      "league_id": 10,
+      "league": "Friendlies",
+      "kickoff_local": "2025-11-18T03:00:00+11:00",
+      "kickoff_utc": "2025-11-17T16:00:00+00:00",
+      "home": "Comoros",
+      "away": "Namibia",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1486541,
+      "league_id": 10,
+      "league": "Friendlies",
+      "kickoff_local": "2025-11-18T03:00:00+11:00",
+      "kickoff_utc": "2025-11-17T16:00:00+00:00",
+      "home": "Egypt",
+      "away": "Cape Verde Islands",
       "status": "NS"
     }
   ]
