@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2025-11-17T15:38:07.884935+00:00",
+  "generated_at_utc": "2025-11-17T15:43:08.760782+00:00",
   "window_hours": 36,
   "max_fixtures": 60,
   "fixtures": [
@@ -11,16 +11,6 @@
       "kickoff_utc": "2025-11-17T16:00:00+00:00",
       "home": "Ashanti GB",
       "away": "RCC Kamsar",
-      "status": "NS"
-    },
-    {
-      "fixture_id": 1486536,
-      "league_id": 10,
-      "league": "Friendlies",
-      "kickoff_local": "2025-11-18T03:00:00+11:00",
-      "kickoff_utc": "2025-11-17T16:00:00+00:00",
-      "home": "Bahrain",
-      "away": "Somalia",
       "status": "NS"
     },
     {
@@ -1164,6 +1154,16 @@
       "kickoff_utc": "2025-11-18T12:00:00+00:00",
       "home": "PSIS Semarang",
       "away": "Persipura Jayapura",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1482095,
+      "league_id": 707,
+      "league": "Cup",
+      "kickoff_local": "2025-11-18T23:00:00+11:00",
+      "kickoff_utc": "2025-11-18T12:00:00+00:00",
+      "home": "Flamurtari",
+      "away": "Tomori Berat",
       "status": "NS"
     }
   ]
