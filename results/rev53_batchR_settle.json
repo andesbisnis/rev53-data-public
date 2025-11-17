@@ -1,9 +1,21 @@
 {
-  "timestamp": "2025-11-18T01:43:23.211124+11:00",
+  "timestamp": "2025-11-18T01:48:23.224133+11:00",
   "payload": {
     "status": "ok",
     "count": 80,
     "sample": [
+      {
+        "fixture_id": 1434017,
+        "league_id": 703,
+        "league": "Professional Development League",
+        "kickoff_local": "2025-11-18T00:00:00+11:00",
+        "kickoff_utc": "2025-11-17T13:00:00+00:00",
+        "home": "Watford U21",
+        "away": "Bristol City U21",
+        "status": "FT",
+        "ft": "3-1",
+        "result_1x2": "1"
+      },
       {
         "fixture_id": 1395192,
         "league_id": 287,
@@ -950,18 +962,6 @@
         "away": "Warta Poznań",
         "status": "FT",
         "ft": "0-2",
-        "result_1x2": "2"
-      },
-      {
-        "fixture_id": 1398107,
-        "league_id": 95,
-        "league": "Segunda Liga",
-        "kickoff_local": "2025-11-17T05:00:00+11:00",
-        "kickoff_utc": "2025-11-16T18:00:00+00:00",
-        "home": "Leixoes",
-        "away": "Chaves",
-        "status": "FT",
-        "ft": "0-1",
         "result_1x2": "2"
       }
     ]
