@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-18T03:53:23.214906+11:00",
+  "timestamp": "2025-11-18T03:58:23.220579+11:00",
   "payload": {
     "status": "ok",
     "count": 80,
@@ -15,6 +15,30 @@
         "status": "FT",
         "ft": "0-2",
         "result_1x2": "2"
+      },
+      {
+        "fixture_id": 1422770,
+        "league_id": 186,
+        "league": "Ligue 1",
+        "kickoff_local": "2025-11-18T02:00:00+11:00",
+        "kickoff_utc": "2025-11-17T15:00:00+00:00",
+        "home": "Mostaganem",
+        "away": "USM Alger",
+        "status": "FT",
+        "ft": "2-2",
+        "result_1x2": "X"
+      },
+      {
+        "fixture_id": 1478676,
+        "league_id": 1196,
+        "league": "Division One League",
+        "kickoff_local": "2025-11-18T02:00:00+11:00",
+        "kickoff_utc": "2025-11-17T15:00:00+00:00",
+        "home": "Na God",
+        "away": "Hakla SC",
+        "status": "FT",
+        "ft": "1-0",
+        "result_1x2": "1"
       },
       {
         "fixture_id": 1479878,
@@ -938,30 +962,6 @@
         "away": "Quepos Cambute",
         "status": "FT",
         "ft": "5-0",
-        "result_1x2": "1"
-      },
-      {
-        "fixture_id": 1436718,
-        "league_id": 163,
-        "league": "Liga de Ascenso",
-        "kickoff_local": "2025-11-17T06:00:00+11:00",
-        "kickoff_utc": "2025-11-16T19:00:00+00:00",
-        "home": "AD Carmelita",
-        "away": "Santa Ana",
-        "status": "FT",
-        "ft": "2-0",
-        "result_1x2": "1"
-      },
-      {
-        "fixture_id": 1436720,
-        "league_id": 163,
-        "league": "Liga de Ascenso",
-        "kickoff_local": "2025-11-17T06:00:00+11:00",
-        "kickoff_utc": "2025-11-16T19:00:00+00:00",
-        "home": "Cariari Pococi",
-        "away": "Aserri FC",
-        "status": "FT",
-        "ft": "3-0",
         "result_1x2": "1"
       }
     ]
