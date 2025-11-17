@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2025-11-17T15:08:08.721914+00:00",
+  "generated_at_utc": "2025-11-17T15:13:08.074115+00:00",
   "window_hours": 36,
   "max_fixtures": 60,
   "fixtures": [
@@ -575,18 +575,18 @@
       "status": "NS",
       "markets": {
         "1x2": {
-          "Home": 1.98,
-          "Draw": 3.1,
-          "Away": 4.33
+          "Home": 1.91,
+          "Draw": 3.2,
+          "Away": 4.45
         },
         "ou_2_5": {
-          "over": 6.0,
-          "under": 1.09
+          "over": 5.8,
+          "under": 1.1
         },
         "dc": {
           "Home/Draw": 1.2,
-          "Home/Away": 1.3,
-          "Draw/Away": 1.8
+          "Home/Away": 1.28,
+          "Draw/Away": 1.85
         }
       }
     },
@@ -601,18 +601,18 @@
       "status": "NS",
       "markets": {
         "1x2": {
-          "Home": 3.1,
-          "Draw": 2.64,
-          "Away": 2.78
+          "Home": 3.05,
+          "Draw": 2.65,
+          "Away": 2.84
         },
         "ou_2_5": {
-          "over": 3.45,
+          "over": 3.4,
           "under": 1.3
         },
         "dc": {
           "Home/Draw": 1.42,
           "Home/Away": 1.42,
-          "Draw/Away": 1.36
+          "Draw/Away": 1.38
         }
       }
     },
@@ -627,18 +627,18 @@
       "status": "NS",
       "markets": {
         "1x2": {
-          "Home": 2.26,
-          "Draw": 2.98,
-          "Away": 3.55
+          "Home": 2.18,
+          "Draw": 3.0,
+          "Away": 3.75
         },
         "ou_2_5": {
           "over": 6.25,
           "under": 1.08
         },
         "dc": {
-          "Home/Draw": 1.3,
+          "Home/Draw": 1.25,
           "Home/Away": 1.33,
-          "Draw/Away": 1.62
+          "Draw/Away": 1.65
         }
       }
     },
@@ -653,9 +653,9 @@
       "status": "NS",
       "markets": {
         "1x2": {
-          "Home": 2.3,
-          "Draw": 3.1,
-          "Away": 3.3
+          "Home": 2.46,
+          "Draw": 2.96,
+          "Away": 3.15
         },
         "ou_2_5": {
           "over": 6.8,
@@ -663,8 +663,8 @@
         },
         "dc": {
           "Home/Draw": 1.3,
-          "Home/Away": 1.33,
-          "Draw/Away": 1.62
+          "Home/Away": 1.36,
+          "Draw/Away": 1.55
         }
       }
     },
