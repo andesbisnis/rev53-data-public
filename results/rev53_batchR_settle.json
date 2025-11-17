@@ -1,9 +1,21 @@
 {
-  "timestamp": "2025-11-18T06:58:23.254033+11:00",
+  "timestamp": "2025-11-18T07:03:23.253703+11:00",
   "payload": {
     "status": "ok",
-    "count": 80,
+    "count": 73,
     "sample": [
+      {
+        "fixture_id": 1483875,
+        "league_id": 1165,
+        "league": "Copa Fares Lopes",
+        "kickoff_local": "2025-11-18T05:00:00+11:00",
+        "kickoff_utc": "2025-11-17T18:00:00+00:00",
+        "home": "Ceara B",
+        "away": "Caucaia",
+        "status": "FT",
+        "ft": "2-1",
+        "result_1x2": "1"
+      },
       {
         "fixture_id": 1452940,
         "league_id": 890,
@@ -866,102 +878,6 @@
         "away": "Deportivo Moron",
         "status": "FT",
         "ft": "1-0",
-        "result_1x2": "1"
-      },
-      {
-        "fixture_id": 1374299,
-        "league_id": 128,
-        "league": "Liga Profesional Argentina",
-        "kickoff_local": "2025-11-17T07:00:00+11:00",
-        "kickoff_utc": "2025-11-16T20:00:00+00:00",
-        "home": "Instituto Cordoba",
-        "away": "Talleres Cordoba",
-        "status": "FT",
-        "ft": "0-0",
-        "result_1x2": "X"
-      },
-      {
-        "fixture_id": 1374301,
-        "league_id": 128,
-        "league": "Liga Profesional Argentina",
-        "kickoff_local": "2025-11-17T07:00:00+11:00",
-        "kickoff_utc": "2025-11-16T20:00:00+00:00",
-        "home": "Velez Sarsfield",
-        "away": "River Plate",
-        "status": "FT",
-        "ft": "0-0",
-        "result_1x2": "X"
-      },
-      {
-        "fixture_id": 1385721,
-        "league_id": 131,
-        "league": "Primera B Metropolitana",
-        "kickoff_local": "2025-11-17T07:00:00+11:00",
-        "kickoff_utc": "2025-11-16T20:00:00+00:00",
-        "home": "San Martín Burzaco",
-        "away": "Deportivo Merlo",
-        "status": "FT",
-        "ft": "1-3",
-        "result_1x2": "2"
-      },
-      {
-        "fixture_id": 1385722,
-        "league_id": 131,
-        "league": "Primera B Metropolitana",
-        "kickoff_local": "2025-11-17T07:00:00+11:00",
-        "kickoff_utc": "2025-11-16T20:00:00+00:00",
-        "home": "Deportivo Laferrere",
-        "away": "UAI Urquiza",
-        "status": "FT",
-        "ft": "1-1",
-        "result_1x2": "X"
-      },
-      {
-        "fixture_id": 1385723,
-        "league_id": 131,
-        "league": "Primera B Metropolitana",
-        "kickoff_local": "2025-11-17T07:00:00+11:00",
-        "kickoff_utc": "2025-11-16T20:00:00+00:00",
-        "home": "Argentino Quilmes",
-        "away": "Acassuso",
-        "status": "FT",
-        "ft": "2-0",
-        "result_1x2": "1"
-      },
-      {
-        "fixture_id": 1387693,
-        "league_id": 131,
-        "league": "Primera B Metropolitana",
-        "kickoff_local": "2025-11-17T07:00:00+11:00",
-        "kickoff_utc": "2025-11-16T20:00:00+00:00",
-        "home": "Argentino de Merlo",
-        "away": "Brown DE Adrogue",
-        "status": "FT",
-        "ft": "2-4",
-        "result_1x2": "2"
-      },
-      {
-        "fixture_id": 1391918,
-        "league_id": 141,
-        "league": "Segunda División",
-        "kickoff_local": "2025-11-17T07:00:00+11:00",
-        "kickoff_utc": "2025-11-16T20:00:00+00:00",
-        "home": "Zaragoza",
-        "away": "Huesca",
-        "status": "FT",
-        "ft": "1-0",
-        "result_1x2": "1"
-      },
-      {
-        "fixture_id": 1431242,
-        "league_id": 436,
-        "league": "Primera División RFEF - Group 2",
-        "kickoff_local": "2025-11-17T07:00:00+11:00",
-        "kickoff_utc": "2025-11-16T20:00:00+00:00",
-        "home": "Europa Fc",
-        "away": "FC Cartagena",
-        "status": "FT",
-        "ft": "2-0",
         "result_1x2": "1"
       }
     ]
