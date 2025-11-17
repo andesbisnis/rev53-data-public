@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2025-11-17T19:48:06.974018+00:00",
+  "generated_at_utc": "2025-11-17T19:53:06.742737+00:00",
   "window_hours": 36,
   "max_fixtures": 60,
   "fixtures": [
@@ -949,13 +949,13 @@
           "Away": 4.0
         },
         "ou_2_5": {
-          "over": 1.25,
-          "under": 3.75
+          "over": 1.28,
+          "under": 3.5
         },
         "dc": {
-          "Home/Draw": 1.17,
-          "Home/Away": 1.36,
-          "Draw/Away": 1.91
+          "Home/Draw": 1.22,
+          "Home/Away": 1.4,
+          "Draw/Away": 1.8
         }
       }
     },
