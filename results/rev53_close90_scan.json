@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2025-11-17T14:55:02.983684+00:00",
+  "generated_at_utc": "2025-11-17T15:00:04.956333+00:00",
   "window_before_min": 15,
   "window_after_min": 120,
   "fixtures": [
@@ -24,18 +24,18 @@
       "status": "NS",
       "markets": {
         "1x2": {
-          "Home": 3.75,
-          "Draw": 2.85,
-          "Away": 2.1
+          "Home": 4.1,
+          "Draw": 2.88,
+          "Away": 1.95
         },
         "ou_2_5": {
           "over": 2.8,
           "under": 1.4
         },
         "dc": {
-          "Home/Draw": 1.67,
+          "Home/Draw": 1.77,
           "Home/Away": 1.33,
-          "Draw/Away": 1.25
+          "Draw/Away": 1.2
         }
       }
     },
@@ -99,7 +99,7 @@
       "kickoff_utc": "2025-11-17T15:00:00+00:00",
       "home": "Malta U17",
       "away": "Bosnia-Herzegovina U17",
-      "status": "NS"
+      "status": "1H"
     },
     {
       "fixture_id": 1486539,

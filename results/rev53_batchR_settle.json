@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-18T01:58:23.230428+11:00",
+  "timestamp": "2025-11-18T02:03:23.276385+11:00",
   "payload": {
     "status": "ok",
     "count": 80,
@@ -15,6 +15,18 @@
         "status": "FT",
         "ft": "3-1",
         "result_1x2": "1"
+      },
+      {
+        "fixture_id": 1434018,
+        "league_id": 703,
+        "league": "Professional Development League",
+        "kickoff_local": "2025-11-18T00:00:00+11:00",
+        "kickoff_utc": "2025-11-17T13:00:00+00:00",
+        "home": "Crewe Alexandra U21",
+        "away": "Huddersfield Town U21",
+        "status": "FT",
+        "ft": "0-5",
+        "result_1x2": "2"
       },
       {
         "fixture_id": 1395192,
@@ -951,18 +963,6 @@
         "status": "PEN",
         "ft": "1-1",
         "result_1x2": "X"
-      },
-      {
-        "fixture_id": 1395959,
-        "league_id": 109,
-        "league": "II Liga - East",
-        "kickoff_local": "2025-11-17T05:30:00+11:00",
-        "kickoff_utc": "2025-11-16T18:30:00+00:00",
-        "home": "Resovia Rzeszów",
-        "away": "Warta Poznań",
-        "status": "FT",
-        "ft": "0-2",
-        "result_1x2": "2"
       }
     ]
   },
