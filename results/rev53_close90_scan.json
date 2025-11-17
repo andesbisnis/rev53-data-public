@@ -1,63 +1,157 @@
 {
-  "generated_at_utc": "2025-11-17T08:51:02.124312+00:00",
+  "generated_at_utc": "2025-11-17T11:27:43.259855+00:00",
   "window_before_min": 15,
   "window_after_min": 120,
   "fixtures": [
     {
-      "fixture_id": 1412623,
+      "fixture_id": 1412617,
       "league_id": 336,
       "league": "Druha Liga",
-      "kickoff_local": "2025-11-17T21:00:00+11:00",
-      "kickoff_utc": "2025-11-17T10:00:00+00:00",
-      "home": "Kolos Kovalivka II",
-      "away": "Hirnyk-Sport",
+      "kickoff_local": "2025-11-17T22:30:00+11:00",
+      "kickoff_utc": "2025-11-17T11:30:00+00:00",
+      "home": "Nyva Ternopil II",
+      "away": "Real Pharm",
       "status": "NS"
     },
     {
-      "fixture_id": 1412626,
-      "league_id": 336,
-      "league": "Druha Liga",
-      "kickoff_local": "2025-11-17T21:30:00+11:00",
-      "kickoff_utc": "2025-11-17T10:30:00+00:00",
-      "home": "Lokomotiv Kyiv",
-      "away": "Oleksandria II",
+      "fixture_id": 1395192,
+      "league_id": 287,
+      "league": "Prva Liga",
+      "kickoff_local": "2025-11-17T23:00:00+11:00",
+      "kickoff_utc": "2025-11-17T12:00:00+00:00",
+      "home": "Tekstilac Odžaci",
+      "away": "Kabel Novi Sad",
       "status": "NS",
       "markets": {
         "1x2": {
-          "Home": 1.73,
-          "Draw": 3.7,
+          "Home": 1.95,
+          "Draw": 2.9,
           "Away": 3.8
         },
         "ou_2_5": {
-          "over": 6.5,
-          "under": 1.08
+          "over": 6.0,
+          "under": 1.1
         },
         "dc": {
-          "Home/Draw": 1.2,
-          "Home/Away": 1.25,
-          "Draw/Away": 1.95
+          "Home/Draw": 1.22,
+          "Home/Away": 1.36,
+          "Draw/Away": 1.7
+        },
+        "btts": {
+          "yes": 4.0,
+          "no": 1.2
         }
       }
     },
     {
-      "fixture_id": 1479879,
-      "league_id": 886,
-      "league": "UEFA U17 Championship - Qualification",
-      "kickoff_local": "2025-11-17T21:30:00+11:00",
-      "kickoff_utc": "2025-11-17T10:30:00+00:00",
-      "home": "Netherlands U17",
-      "away": "Croatia U17",
+      "fixture_id": 1395195,
+      "league_id": 287,
+      "league": "Prva Liga",
+      "kickoff_local": "2025-11-17T23:00:00+11:00",
+      "kickoff_utc": "2025-11-17T12:00:00+00:00",
+      "home": "OFK Vršac",
+      "away": "Macva",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 2.7,
+          "Draw": 2.7,
+          "Away": 2.62
+        },
+        "ou_2_5": {
+          "over": 7.0,
+          "under": 1.08
+        },
+        "dc": {
+          "Home/Draw": 1.4,
+          "Home/Away": 1.4,
+          "Draw/Away": 1.4
+        },
+        "btts": {
+          "yes": 4.0,
+          "no": 1.2
+        }
+      }
+    },
+    {
+      "fixture_id": 1441665,
+      "league_id": 205,
+      "league": "2. Lig",
+      "kickoff_local": "2025-11-17T23:00:00+11:00",
+      "kickoff_utc": "2025-11-17T12:00:00+00:00",
+      "home": "Bursaspor",
+      "away": "Fethiyespor",
       "status": "NS"
     },
     {
-      "fixture_id": 1479880,
-      "league_id": 886,
-      "league": "UEFA U17 Championship - Qualification",
-      "kickoff_local": "2025-11-17T21:30:00+11:00",
-      "kickoff_utc": "2025-11-17T10:30:00+00:00",
-      "home": "Kazakhstan U17",
-      "away": "Albania U17",
-      "status": "NS"
+      "fixture_id": 1470417,
+      "league_id": 275,
+      "league": "Liga 2",
+      "kickoff_local": "2025-11-17T23:00:00+11:00",
+      "kickoff_utc": "2025-11-17T12:00:00+00:00",
+      "home": "PSS Sleman",
+      "away": "Persiku Kudus",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 1.25,
+          "Draw": 5.0,
+          "Away": 8.4
+        },
+        "ou_2_5": {
+          "over": 1.5,
+          "under": 2.2
+        },
+        "dc": {
+          "Home/Draw": 1.02,
+          "Home/Away": 1.13,
+          "Draw/Away": 3.55
+        }
+      }
+    },
+    {
+      "fixture_id": 1434017,
+      "league_id": 703,
+      "league": "Professional Development League",
+      "kickoff_local": "2025-11-18T00:00:00+11:00",
+      "kickoff_utc": "2025-11-17T13:00:00+00:00",
+      "home": "Watford U21",
+      "away": "Bristol City U21",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 1.8,
+          "Draw": 3.85,
+          "Away": 3.3
+        },
+        "dc": {
+          "Home/Draw": 1.25,
+          "Home/Away": 1.18,
+          "Draw/Away": 1.91
+        }
+      }
+    },
+    {
+      "fixture_id": 1434018,
+      "league_id": 703,
+      "league": "Professional Development League",
+      "kickoff_local": "2025-11-18T00:00:00+11:00",
+      "kickoff_utc": "2025-11-17T13:00:00+00:00",
+      "home": "Crewe Alexandra U21",
+      "away": "Huddersfield Town U21",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 3.85,
+          "Draw": 4.33,
+          "Away": 1.6
+        },
+        "dc": {
+          "Home/Draw": 2.2,
+          "Home/Away": 1.14,
+          "Draw/Away": 1.18
+        }
+      }
     }
   ]
 }
