@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2025-11-17T12:43:08.620097+00:00",
+  "generated_at_utc": "2025-11-17T12:48:09.836426+00:00",
   "window_hours": 36,
   "max_fixtures": 60,
   "fixtures": [
@@ -953,7 +953,23 @@
       "kickoff_utc": "2025-11-18T10:00:00+00:00",
       "home": "Northern Ireland U19",
       "away": "Czech Republic U19",
-      "status": "NS"
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 5.5,
+          "Draw": 4.6,
+          "Away": 1.4
+        },
+        "ou_2_5": {
+          "over": 1.38,
+          "under": 2.9
+        },
+        "dc": {
+          "Home/Draw": 2.7,
+          "Home/Away": 1.13,
+          "Draw/Away": 1.09
+        }
+      }
     },
     {
       "fixture_id": 1366985,
