@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2025-11-17T15:00:04.956333+00:00",
+  "generated_at_utc": "2025-11-17T15:05:05.121132+00:00",
   "window_before_min": 15,
   "window_after_min": 120,
   "fixtures": [
@@ -11,7 +11,7 @@
       "kickoff_utc": "2025-11-17T15:00:00+00:00",
       "home": "FC Dnepr Mogilev",
       "away": "Orsha",
-      "status": "NS"
+      "status": "1H"
     },
     {
       "fixture_id": 1422770,
@@ -21,7 +21,7 @@
       "kickoff_utc": "2025-11-17T15:00:00+00:00",
       "home": "Mostaganem",
       "away": "USM Alger",
-      "status": "NS",
+      "status": "1H",
       "markets": {
         "1x2": {
           "Home": 4.1,
@@ -69,7 +69,7 @@
       "kickoff_utc": "2025-11-17T15:00:00+00:00",
       "home": "Na God",
       "away": "Hakla SC",
-      "status": "NS"
+      "status": "1H"
     },
     {
       "fixture_id": 1478685,
@@ -89,7 +89,7 @@
       "kickoff_utc": "2025-11-17T15:00:00+00:00",
       "home": "Turkey U17",
       "away": "Serbia U17",
-      "status": "NS"
+      "status": "1H"
     },
     {
       "fixture_id": 1479878,
@@ -109,7 +109,7 @@
       "kickoff_utc": "2025-11-17T15:00:00+00:00",
       "home": "Chad",
       "away": "Mozambique",
-      "status": "NS"
+      "status": "1H"
     },
     {
       "fixture_id": 1484135,
@@ -205,6 +205,78 @@
       "kickoff_utc": "2025-11-17T16:30:00+00:00",
       "home": "Qatar",
       "away": "Zimbabwe",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1352906,
+      "league_id": 10,
+      "league": "Friendlies",
+      "kickoff_local": "2025-11-18T04:00:00+11:00",
+      "kickoff_utc": "2025-11-17T17:00:00+00:00",
+      "home": "Finland",
+      "away": "Andorra",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 1.25,
+          "Draw": 4.4,
+          "Away": 12.0
+        },
+        "ou_2_5": {
+          "over": 2.0,
+          "under": 1.77
+        },
+        "dc": {
+          "Home/Draw": 1.01,
+          "Home/Away": 1.12,
+          "Draw/Away": 3.5
+        }
+      }
+    },
+    {
+      "fixture_id": 1423929,
+      "league_id": 701,
+      "league": "Liga Revelação U23",
+      "kickoff_local": "2025-11-18T04:00:00+11:00",
+      "kickoff_utc": "2025-11-17T17:00:00+00:00",
+      "home": "Estoril U23",
+      "away": "Portimonense U23",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 1.95,
+          "Draw": 3.35,
+          "Away": 3.4
+        },
+        "ou_2_5": {
+          "over": 1.8,
+          "under": 1.93
+        },
+        "dc": {
+          "Home/Draw": 1.25,
+          "Home/Away": 1.25,
+          "Draw/Away": 1.75
+        }
+      }
+    },
+    {
+      "fixture_id": 1486543,
+      "league_id": 10,
+      "league": "Friendlies",
+      "kickoff_local": "2025-11-18T04:00:00+11:00",
+      "kickoff_utc": "2025-11-17T17:00:00+00:00",
+      "home": "Albania U21",
+      "away": "Ukraine U21",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1486544,
+      "league_id": 10,
+      "league": "Friendlies",
+      "kickoff_local": "2025-11-18T04:00:00+11:00",
+      "kickoff_utc": "2025-11-17T17:00:00+00:00",
+      "home": "Norway U19",
+      "away": "Netherlands U18",
       "status": "NS"
     }
   ]
