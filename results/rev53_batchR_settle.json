@@ -1,9 +1,33 @@
 {
-  "timestamp": "2025-11-18T02:48:23.227049+11:00",
+  "timestamp": "2025-11-18T02:53:23.243660+11:00",
   "payload": {
     "status": "ok",
     "count": 80,
     "sample": [
+      {
+        "fixture_id": 1378604,
+        "league_id": 117,
+        "league": "1. Division",
+        "kickoff_local": "2025-11-18T01:00:00+11:00",
+        "kickoff_utc": "2025-11-17T14:00:00+00:00",
+        "home": "Dinamo Minsk II",
+        "away": "Niva",
+        "status": "FT",
+        "ft": "1-1",
+        "result_1x2": "X"
+      },
+      {
+        "fixture_id": 1452899,
+        "league_id": 890,
+        "league": "U20 Elite League",
+        "kickoff_local": "2025-11-18T01:00:00+11:00",
+        "kickoff_utc": "2025-11-17T14:00:00+00:00",
+        "home": "Germany U20",
+        "away": "Italy U20",
+        "status": "FT",
+        "ft": "5-0",
+        "result_1x2": "1"
+      },
       {
         "fixture_id": 1483112,
         "league_id": 424,
@@ -14,6 +38,18 @@
         "away": "Sanga Balende",
         "status": "FT",
         "ft": "1-0",
+        "result_1x2": "1"
+      },
+      {
+        "fixture_id": 1486538,
+        "league_id": 10,
+        "league": "Friendlies",
+        "kickoff_local": "2025-11-18T01:00:00+11:00",
+        "kickoff_utc": "2025-11-17T14:00:00+00:00",
+        "home": "Madagascar",
+        "away": "Equatorial Guinea",
+        "status": "FT",
+        "ft": "2-0",
         "result_1x2": "1"
       },
       {
@@ -927,42 +963,6 @@
         "status": "FT",
         "ft": "1-4",
         "result_1x2": "2"
-      },
-      {
-        "fixture_id": 1485987,
-        "league_id": 964,
-        "league": "Copa de la División Profesional",
-        "kickoff_local": "2025-11-17T06:00:00+11:00",
-        "kickoff_utc": "2025-11-16T19:00:00+00:00",
-        "home": "Blooming",
-        "away": "Universitario de Vinto",
-        "status": "FT",
-        "ft": "3-1",
-        "result_1x2": "1"
-      },
-      {
-        "fixture_id": 1486088,
-        "league_id": 1158,
-        "league": "Copa Gaúcha",
-        "kickoff_local": "2025-11-17T06:00:00+11:00",
-        "kickoff_utc": "2025-11-16T19:00:00+00:00",
-        "home": "Esportivo",
-        "away": "Aimoré",
-        "status": "FT",
-        "ft": "0-1",
-        "result_1x2": "2"
-      },
-      {
-        "fixture_id": 1486089,
-        "league_id": 1158,
-        "league": "Copa Gaúcha",
-        "kickoff_local": "2025-11-17T06:00:00+11:00",
-        "kickoff_utc": "2025-11-16T19:00:00+00:00",
-        "home": "Brasil DE Pelotas",
-        "away": "Juventude II",
-        "status": "FT",
-        "ft": "2-1",
-        "result_1x2": "1"
       }
     ]
   },
