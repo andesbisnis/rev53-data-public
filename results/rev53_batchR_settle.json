@@ -1,9 +1,45 @@
 {
-  "timestamp": "2025-11-18T05:53:23.229427+11:00",
+  "timestamp": "2025-11-18T05:58:23.251552+11:00",
   "payload": {
     "status": "ok",
     "count": 80,
     "sample": [
+      {
+        "fixture_id": 1352906,
+        "league_id": 10,
+        "league": "Friendlies",
+        "kickoff_local": "2025-11-18T04:00:00+11:00",
+        "kickoff_utc": "2025-11-17T17:00:00+00:00",
+        "home": "Finland",
+        "away": "Andorra",
+        "status": "FT",
+        "ft": "4-0",
+        "result_1x2": "1"
+      },
+      {
+        "fixture_id": 1423929,
+        "league_id": 701,
+        "league": "Liga Revelação U23",
+        "kickoff_local": "2025-11-18T04:00:00+11:00",
+        "kickoff_utc": "2025-11-17T17:00:00+00:00",
+        "home": "Estoril U23",
+        "away": "Portimonense U23",
+        "status": "FT",
+        "ft": "0-0",
+        "result_1x2": "X"
+      },
+      {
+        "fixture_id": 1486543,
+        "league_id": 10,
+        "league": "Friendlies",
+        "kickoff_local": "2025-11-18T04:00:00+11:00",
+        "kickoff_utc": "2025-11-17T17:00:00+00:00",
+        "home": "Albania U21",
+        "away": "Ukraine U21",
+        "status": "FT",
+        "ft": "2-0",
+        "result_1x2": "1"
+      },
       {
         "fixture_id": 1483282,
         "league_id": 236,
@@ -927,42 +963,6 @@
         "status": "FT",
         "ft": "3-1",
         "result_1x2": "1"
-      },
-      {
-        "fixture_id": 1485249,
-        "league_id": 134,
-        "league": "Torneo Federal A",
-        "kickoff_local": "2025-11-17T07:00:00+11:00",
-        "kickoff_utc": "2025-11-16T20:00:00+00:00",
-        "home": "Olimpo Bahia Blanca",
-        "away": "Douglas Haig",
-        "status": "FT",
-        "ft": "0-1",
-        "result_1x2": "2"
-      },
-      {
-        "fixture_id": 1485938,
-        "league_id": 254,
-        "league": "NWSL Women",
-        "kickoff_local": "2025-11-17T07:00:00+11:00",
-        "kickoff_utc": "2025-11-16T20:00:00+00:00",
-        "home": "Orlando Pride W",
-        "away": "NJ/NY Gotham FC W",
-        "status": "FT",
-        "ft": "0-1",
-        "result_1x2": "2"
-      },
-      {
-        "fixture_id": 1486101,
-        "league_id": 281,
-        "league": "Primera División",
-        "kickoff_local": "2025-11-17T07:00:00+11:00",
-        "kickoff_utc": "2025-11-16T20:00:00+00:00",
-        "home": "Sport Boys",
-        "away": "Alianza Atletico",
-        "status": "FT",
-        "ft": "0-1",
-        "result_1x2": "2"
       }
     ]
   },
