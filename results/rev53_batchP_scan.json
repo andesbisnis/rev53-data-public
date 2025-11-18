@@ -1,18 +1,8 @@
 {
-  "generated_at_utc": "2025-11-18T05:58:07.598826+00:00",
+  "generated_at_utc": "2025-11-18T06:03:06.163618+00:00",
   "window_hours": 36,
   "max_fixtures": 60,
   "fixtures": [
-    {
-      "fixture_id": 1483054,
-      "league_id": 424,
-      "league": "Ligue 1",
-      "kickoff_local": "2025-11-18T17:00:00+11:00",
-      "kickoff_utc": "2025-11-18T06:00:00+00:00",
-      "home": "Maniema Union",
-      "away": "Renaissance",
-      "status": "NS"
-    },
     {
       "fixture_id": 1320896,
       "league_id": 35,
@@ -60,18 +50,18 @@
       "status": "NS",
       "markets": {
         "1x2": {
-          "Home": 2.38,
-          "Draw": 3.0,
-          "Away": 2.75
+          "Home": 2.5,
+          "Draw": 3.1,
+          "Away": 2.5
         },
         "ou_2_5": {
-          "over": 2.05,
-          "under": 1.57
+          "over": 1.95,
+          "under": 1.65
         },
         "dc": {
-          "Home/Draw": 1.35,
-          "Home/Away": 1.3,
-          "Draw/Away": 1.5
+          "Home/Draw": 1.48,
+          "Home/Away": 1.28,
+          "Draw/Away": 1.48
         }
       }
     },
@@ -504,18 +494,18 @@
       "status": "NS",
       "markets": {
         "1x2": {
-          "Home": 7.0,
-          "Draw": 3.65,
-          "Away": 1.44
+          "Home": 7.75,
+          "Draw": 3.75,
+          "Away": 1.36
         },
         "ou_2_5": {
-          "over": 2.05,
-          "under": 1.57
+          "over": 1.95,
+          "under": 1.65
         },
         "dc": {
-          "Home/Draw": 2.62,
-          "Home/Away": 1.2,
-          "Draw/Away": 1.05
+          "Home/Draw": 2.8,
+          "Home/Away": 1.18,
+          "Draw/Away": 1.03
         }
       }
     },
@@ -640,13 +630,13 @@
       "status": "NS",
       "markets": {
         "1x2": {
-          "Home": 29.0,
-          "Draw": 7.75,
-          "Away": 1.08
+          "Home": 33.0,
+          "Draw": 8.1,
+          "Away": 1.07
         },
         "ou_2_5": {
-          "over": 1.48,
-          "under": 2.55
+          "over": 1.45,
+          "under": 2.6
         }
       }
     },
@@ -761,18 +751,14 @@
       "status": "NS",
       "markets": {
         "1x2": {
-          "Home": 2.05,
-          "Draw": 4.2,
-          "Away": 2.5
-        },
-        "ou_2_5": {
-          "over": 3.9,
-          "under": 1.22
+          "Home": 2.0,
+          "Draw": 3.9,
+          "Away": 2.75
         },
         "dc": {
-          "Home/Draw": 1.4,
-          "Home/Away": 1.22,
-          "Draw/Away": 1.67
+          "Home/Draw": 1.33,
+          "Home/Away": 1.18,
+          "Draw/Away": 1.73
         }
       }
     },
@@ -952,17 +938,17 @@
       "markets": {
         "1x2": {
           "Home": 1.6,
-          "Draw": 3.3,
-          "Away": 5.25
+          "Draw": 3.2,
+          "Away": 5.6
         },
         "ou_2_5": {
-          "over": 2.38,
-          "under": 1.53
+          "over": 2.3,
+          "under": 1.45
         },
         "dc": {
-          "Home/Draw": 1.11,
-          "Home/Away": 1.73,
-          "Draw/Away": 1.57
+          "Home/Draw": 1.08,
+          "Home/Away": 1.25,
+          "Draw/Away": 2.2
         }
       }
     },
@@ -1036,17 +1022,13 @@
       "markets": {
         "1x2": {
           "Home": 1.75,
-          "Draw": 3.2,
-          "Away": 4.5
-        },
-        "ou_2_5": {
-          "over": 2.62,
-          "under": 1.44
+          "Draw": 3.0,
+          "Away": 4.6
         },
         "dc": {
           "Home/Draw": 1.12,
-          "Home/Away": 1.8,
-          "Draw/Away": 1.5
+          "Home/Away": 1.3,
+          "Draw/Away": 1.95
         }
       }
     },
@@ -1083,18 +1065,18 @@
       "status": "NS",
       "markets": {
         "1x2": {
-          "Home": 1.65,
-          "Draw": 3.0,
-          "Away": 5.25
+          "Home": 1.68,
+          "Draw": 3.1,
+          "Away": 4.8
         },
         "ou_2_5": {
-          "over": 2.75,
-          "under": 1.4
+          "over": 2.2,
+          "under": 1.5
         },
         "dc": {
-          "Home/Draw": 1.1,
-          "Home/Away": 1.83,
-          "Draw/Away": 1.53
+          "Home/Draw": 1.12,
+          "Home/Away": 1.25,
+          "Draw/Away": 2.05
         }
       }
     },
@@ -1153,6 +1135,32 @@
           "Home/Draw": 1.25,
           "Home/Away": 1.38,
           "Draw/Away": 1.55
+        }
+      }
+    },
+    {
+      "fixture_id": 1485774,
+      "league_id": 187,
+      "league": "Ligue 2",
+      "kickoff_local": "2025-11-19T00:00:00+11:00",
+      "kickoff_utc": "2025-11-18T13:00:00+00:00",
+      "home": "WA Mostaganem",
+      "away": "JS Tixeraine",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 1.45,
+          "Draw": 3.5,
+          "Away": 6.6
+        },
+        "ou_2_5": {
+          "over": 2.1,
+          "under": 1.55
+        },
+        "dc": {
+          "Home/Draw": 1.06,
+          "Home/Away": 1.2,
+          "Draw/Away": 2.5
         }
       }
     }

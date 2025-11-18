@@ -1,8 +1,8 @@
 {
-  "timestamp": "2025-11-18T16:58:23.209645+11:00",
+  "timestamp": "2025-11-18T17:03:23.241712+11:00",
   "payload": {
     "status": "ok",
-    "count": 64,
+    "count": 63,
     "sample": [
       {
         "fixture_id": 1445503,
@@ -759,18 +759,6 @@
         "status": "FT",
         "ft": "0-2",
         "result_1x2": "2"
-      },
-      {
-        "fixture_id": 1485015,
-        "league_id": 10,
-        "league": "Friendlies",
-        "kickoff_local": "2025-11-17T17:00:00+11:00",
-        "kickoff_utc": "2025-11-17T06:00:00+00:00",
-        "home": "Vanuatu",
-        "away": "Fiji",
-        "status": "FT",
-        "ft": "2-0",
-        "result_1x2": "1"
       }
     ]
   },
