@@ -1,34 +1,8 @@
 {
-  "generated_at_utc": "2025-11-18T02:03:05.723641+00:00",
+  "generated_at_utc": "2025-11-18T02:08:06.669454+00:00",
   "window_hours": 36,
   "max_fixtures": 60,
   "fixtures": [
-    {
-      "fixture_id": 1445503,
-      "league_id": 722,
-      "league": "Liga Premier Serie A",
-      "kickoff_local": "2025-11-18T13:05:00+11:00",
-      "kickoff_utc": "2025-11-18T02:05:00+00:00",
-      "home": "Reboceros La Piedad",
-      "away": "Mineros de Fresnillo",
-      "status": "NS",
-      "markets": {
-        "1x2": {
-          "Home": 1.85,
-          "Draw": 3.65,
-          "Away": 3.5
-        },
-        "ou_2_5": {
-          "over": 1.55,
-          "under": 2.35
-        },
-        "dc": {
-          "Home/Draw": 1.22,
-          "Home/Away": 1.22,
-          "Draw/Away": 1.85
-        }
-      }
-    },
     {
       "fixture_id": 1483054,
       "league_id": 424,
@@ -439,7 +413,7 @@
       "markets": {
         "1x2": {
           "Home": 1.77,
-          "Draw": 3.4,
+          "Draw": 3.45,
           "Away": 4.1
         },
         "ou_2_5": {
@@ -447,8 +421,8 @@
           "under": 1.85
         },
         "dc": {
-          "Home/Draw": 1.17,
-          "Home/Away": 1.25,
+          "Home/Draw": 1.18,
+          "Home/Away": 1.22,
           "Draw/Away": 1.95
         }
       }
@@ -1183,6 +1157,32 @@
       "home": "MO Bejaia",
       "away": "Teleghma",
       "status": "NS"
+    },
+    {
+      "fixture_id": 1485773,
+      "league_id": 187,
+      "league": "Ligue 2",
+      "kickoff_local": "2025-11-19T00:00:00+11:00",
+      "kickoff_utc": "2025-11-18T13:00:00+00:00",
+      "home": "Témouchent",
+      "away": "JS El Biar",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 2.2,
+          "Draw": 2.8,
+          "Away": 3.25
+        },
+        "ou_2_5": {
+          "over": 3.0,
+          "under": 1.36
+        },
+        "dc": {
+          "Home/Draw": 1.2,
+          "Home/Away": 1.83,
+          "Draw/Away": 1.36
+        }
+      }
     }
   ]
 }

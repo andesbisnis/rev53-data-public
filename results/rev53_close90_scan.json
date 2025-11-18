@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2025-11-18T02:04:56.507942+00:00",
+  "generated_at_utc": "2025-11-18T02:09:56.469698+00:00",
   "window_before_min": 15,
   "window_after_min": 120,
   "fixtures": [
@@ -11,7 +11,7 @@
       "kickoff_utc": "2025-11-18T02:05:00+00:00",
       "home": "Reboceros La Piedad",
       "away": "Mineros de Fresnillo",
-      "status": "NS",
+      "status": "1H",
       "markets": {
         "1x2": {
           "Home": 1.85,
