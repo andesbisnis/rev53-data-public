@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2025-11-18T06:29:57.026031+00:00",
+  "generated_at_utc": "2025-11-18T06:34:57.432719+00:00",
   "window_before_min": 15,
   "window_after_min": 120,
   "fixtures": [
@@ -11,7 +11,7 @@
       "kickoff_utc": "2025-11-18T06:30:00+00:00",
       "home": "Timor-Leste",
       "away": "Tajikistan",
-      "status": "NS"
+      "status": "1H"
     },
     {
       "fixture_id": 1486590,
@@ -36,6 +36,32 @@
           "Home/Draw": 2.8,
           "Home/Away": 1.18,
           "Draw/Away": 1.03
+        }
+      }
+    },
+    {
+      "fixture_id": 1470499,
+      "league_id": 275,
+      "league": "Liga 2",
+      "kickoff_local": "2025-11-18T19:30:00+11:00",
+      "kickoff_utc": "2025-11-18T08:30:00+00:00",
+      "home": "Bekasi City",
+      "away": "Adhyaksa",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 2.5,
+          "Draw": 3.1,
+          "Away": 2.5
+        },
+        "ou_2_5": {
+          "over": 1.95,
+          "under": 1.65
+        },
+        "dc": {
+          "Home/Draw": 1.48,
+          "Home/Away": 1.28,
+          "Draw/Away": 1.48
         }
       }
     }

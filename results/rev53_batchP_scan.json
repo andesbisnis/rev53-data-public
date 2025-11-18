@@ -1,18 +1,8 @@
 {
-  "generated_at_utc": "2025-11-18T06:28:06.761581+00:00",
+  "generated_at_utc": "2025-11-18T06:33:07.355770+00:00",
   "window_hours": 36,
   "max_fixtures": 60,
   "fixtures": [
-    {
-      "fixture_id": 1320896,
-      "league_id": 35,
-      "league": "Asian Cup - Qualification",
-      "kickoff_local": "2025-11-18T17:30:00+11:00",
-      "kickoff_utc": "2025-11-18T06:30:00+00:00",
-      "home": "Timor-Leste",
-      "away": "Tajikistan",
-      "status": "NS"
-    },
     {
       "fixture_id": 1486590,
       "league_id": 10,
@@ -242,17 +232,17 @@
       "markets": {
         "1x2": {
           "Home": 1.15,
-          "Draw": 6.8,
-          "Away": 18.5
+          "Draw": 7.0,
+          "Away": 17.5
         },
         "ou_2_5": {
-          "over": 1.44,
-          "under": 2.75
+          "over": 1.55,
+          "under": 2.4
         },
         "dc": {
           "Home/Draw": 1.03,
-          "Home/Away": 1.08,
-          "Draw/Away": 4.75
+          "Home/Away": 1.07,
+          "Draw/Away": 5.0
         }
       }
     },
@@ -1157,6 +1147,32 @@
           "Home/Draw": 1.06,
           "Home/Away": 1.2,
           "Draw/Away": 2.5
+        }
+      }
+    },
+    {
+      "fixture_id": 1485775,
+      "league_id": 187,
+      "league": "Ligue 2",
+      "kickoff_local": "2025-11-19T00:00:00+11:00",
+      "kickoff_utc": "2025-11-18T13:00:00+00:00",
+      "home": "CR Béni Thour",
+      "away": "US Chaouia",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 3.1,
+          "Draw": 2.85,
+          "Away": 2.25
+        },
+        "ou_2_5": {
+          "over": 2.3,
+          "under": 1.45
+        },
+        "dc": {
+          "Home/Draw": 1.5,
+          "Home/Away": 1.33,
+          "Draw/Away": 1.33
         }
       }
     }
