@@ -1,18 +1,8 @@
 {
-  "generated_at_utc": "2025-11-18T06:44:57.544680+00:00",
+  "generated_at_utc": "2025-11-18T06:49:57.076970+00:00",
   "window_before_min": 15,
   "window_after_min": 120,
   "fixtures": [
-    {
-      "fixture_id": 1320896,
-      "league_id": 35,
-      "league": "Asian Cup - Qualification",
-      "kickoff_local": "2025-11-18T17:30:00+11:00",
-      "kickoff_utc": "2025-11-18T06:30:00+00:00",
-      "home": "Timor-Leste",
-      "away": "Tajikistan",
-      "status": "1H"
-    },
     {
       "fixture_id": 1486590,
       "league_id": 10,
