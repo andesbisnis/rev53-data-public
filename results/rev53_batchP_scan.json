@@ -1,34 +1,8 @@
 {
-  "generated_at_utc": "2025-11-18T08:28:07.155127+00:00",
+  "generated_at_utc": "2025-11-18T08:33:09.280430+00:00",
   "window_hours": 36,
   "max_fixtures": 60,
   "fixtures": [
-    {
-      "fixture_id": 1470499,
-      "league_id": 275,
-      "league": "Liga 2",
-      "kickoff_local": "2025-11-18T19:30:00+11:00",
-      "kickoff_utc": "2025-11-18T08:30:00+00:00",
-      "home": "Bekasi City",
-      "away": "Adhyaksa",
-      "status": "NS",
-      "markets": {
-        "1x2": {
-          "Home": 2.5,
-          "Draw": 3.1,
-          "Away": 2.5
-        },
-        "ou_2_5": {
-          "over": 1.95,
-          "under": 1.65
-        },
-        "dc": {
-          "Home/Draw": 1.48,
-          "Home/Away": 1.28,
-          "Draw/Away": 1.48
-        }
-      }
-    },
     {
       "fixture_id": 1321349,
       "league_id": 35,
@@ -1181,6 +1155,32 @@
       "home": "FAR Rabat W",
       "away": "TP Mazembe W",
       "status": "NS"
+    },
+    {
+      "fixture_id": 1486549,
+      "league_id": 10,
+      "league": "Friendlies",
+      "kickoff_local": "2025-11-19T00:00:00+11:00",
+      "kickoff_utc": "2025-11-18T13:00:00+00:00",
+      "home": "Kyrgyz Republic U23",
+      "away": "Russia U21",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 7.1,
+          "Draw": 4.1,
+          "Away": 1.38
+        },
+        "ou_2_5": {
+          "over": 3.6,
+          "under": 1.22
+        },
+        "dc": {
+          "Home/Draw": 2.6,
+          "Home/Away": 1.16,
+          "Draw/Away": 1.03
+        }
+      }
     }
   ]
 }
