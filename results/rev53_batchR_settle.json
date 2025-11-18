@@ -1,9 +1,21 @@
 {
-  "timestamp": "2025-11-18T12:58:23.228978+11:00",
+  "timestamp": "2025-11-18T13:03:23.255986+11:00",
   "payload": {
     "status": "ok",
     "count": 63,
     "sample": [
+      {
+        "fixture_id": 1486231,
+        "league_id": 917,
+        "league": "Copa Ecuador",
+        "kickoff_local": "2025-11-18T11:00:00+11:00",
+        "kickoff_utc": "2025-11-18T00:00:00+00:00",
+        "home": "Emelec",
+        "away": "LDU de Quito",
+        "status": "FT",
+        "ft": "1-2",
+        "result_1x2": "2"
+      },
       {
         "fixture_id": 1374300,
         "league_id": 128,
@@ -747,18 +759,6 @@
         "status": "FT",
         "ft": "1-2",
         "result_1x2": "2"
-      },
-      {
-        "fixture_id": 1485904,
-        "league_id": 263,
-        "league": "Liga de Expansión MX",
-        "kickoff_local": "2025-11-17T13:00:00+11:00",
-        "kickoff_utc": "2025-11-17T02:00:00+00:00",
-        "home": "CDS Tampico Madero",
-        "away": "Leones Negros UDG",
-        "status": "FT",
-        "ft": "4-1",
-        "result_1x2": "1"
       }
     ]
   },
