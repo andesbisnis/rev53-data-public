@@ -1,34 +1,8 @@
 {
-  "generated_at_utc": "2025-11-18T00:14:56.700224+00:00",
+  "generated_at_utc": "2025-11-18T00:19:56.516656+00:00",
   "window_before_min": 15,
   "window_after_min": 120,
   "fixtures": [
-    {
-      "fixture_id": 1486231,
-      "league_id": 917,
-      "league": "Copa Ecuador",
-      "kickoff_local": "2025-11-18T11:00:00+11:00",
-      "kickoff_utc": "2025-11-18T00:00:00+00:00",
-      "home": "Emelec",
-      "away": "LDU de Quito",
-      "status": "1H",
-      "markets": {
-        "1x2": {
-          "Home": 3.55,
-          "Draw": 2.95,
-          "Away": 2.1
-        },
-        "ou_2_5": {
-          "over": 2.4,
-          "under": 1.53
-        },
-        "dc": {
-          "Home/Draw": 1.62,
-          "Home/Away": 1.3,
-          "Draw/Away": 1.25
-        }
-      }
-    },
     {
       "fixture_id": 1445503,
       "league_id": 722,
