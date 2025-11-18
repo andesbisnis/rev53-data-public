@@ -1,33 +1,6 @@
 {
-  "generated_at_utc": "2025-11-18T02:19:56.752099+00:00",
+  "generated_at_utc": "2025-11-18T02:24:55.913958+00:00",
   "window_before_min": 15,
   "window_after_min": 120,
-  "fixtures": [
-    {
-      "fixture_id": 1445503,
-      "league_id": 722,
-      "league": "Liga Premier Serie A",
-      "kickoff_local": "2025-11-18T13:05:00+11:00",
-      "kickoff_utc": "2025-11-18T02:05:00+00:00",
-      "home": "Reboceros La Piedad",
-      "away": "Mineros de Fresnillo",
-      "status": "1H",
-      "markets": {
-        "1x2": {
-          "Home": 1.85,
-          "Draw": 3.65,
-          "Away": 3.5
-        },
-        "ou_2_5": {
-          "over": 1.55,
-          "under": 2.35
-        },
-        "dc": {
-          "Home/Draw": 1.22,
-          "Home/Away": 1.22,
-          "Draw/Away": 1.85
-        }
-      }
-    }
-  ]
+  "fixtures": []
 }
