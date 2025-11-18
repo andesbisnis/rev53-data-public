@@ -1,8 +1,8 @@
 {
-  "timestamp": "2025-11-18T11:58:23.297732+11:00",
+  "timestamp": "2025-11-18T12:03:23.235652+11:00",
   "payload": {
     "status": "ok",
-    "count": 64,
+    "count": 63,
     "sample": [
       {
         "fixture_id": 1374300,
@@ -758,18 +758,6 @@
         "away": "Leones Negros UDG",
         "status": "FT",
         "ft": "4-1",
-        "result_1x2": "1"
-      },
-      {
-        "fixture_id": 1485991,
-        "league_id": 673,
-        "league": "Liga MX Femenil",
-        "kickoff_local": "2025-11-17T12:00:00+11:00",
-        "kickoff_utc": "2025-11-17T01:00:00+00:00",
-        "home": "América W",
-        "away": "Guadalajara W",
-        "status": "FT",
-        "ft": "2-0",
         "result_1x2": "1"
       }
     ]

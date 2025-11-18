@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2025-11-18T00:58:05.219760+00:00",
+  "generated_at_utc": "2025-11-18T01:03:05.485112+00:00",
   "window_hours": 36,
   "max_fixtures": 60,
   "fixtures": [
@@ -190,8 +190,8 @@
           "Away": 1.18
         },
         "ou_2_5": {
-          "over": 2.15,
-          "under": 1.62
+          "over": 2.3,
+          "under": 1.55
         },
         "dc": {
           "Home/Draw": 3.85,
@@ -267,13 +267,13 @@
       "status": "NS",
       "markets": {
         "1x2": {
-          "Home": 7.7,
-          "Draw": 4.45,
+          "Home": 7.9,
+          "Draw": 4.4,
           "Away": 1.36
         },
         "ou_2_5": {
-          "over": 1.8,
-          "under": 1.93
+          "over": 1.9,
+          "under": 1.85
         },
         "dc": {
           "Home/Draw": 2.95,
@@ -1000,7 +1000,23 @@
       "kickoff_utc": "2025-11-18T13:00:00+00:00",
       "home": "MO Constantine",
       "away": "JS Bordj Ménaïel",
-      "status": "NS"
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 1.91,
+          "Draw": 3.1,
+          "Away": 3.75
+        },
+        "ou_2_5": {
+          "over": 2.62,
+          "under": 1.44
+        },
+        "dc": {
+          "Home/Draw": 1.17,
+          "Home/Away": 1.8,
+          "Draw/Away": 1.4
+        }
+      }
     },
     {
       "fixture_id": 1485765,
@@ -1020,7 +1036,23 @@
       "kickoff_utc": "2025-11-18T13:00:00+00:00",
       "home": "Usm El Harrach",
       "away": "RC Arba",
-      "status": "NS"
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 1.22,
+          "Draw": 4.75,
+          "Away": 12.0
+        },
+        "ou_2_5": {
+          "over": 1.95,
+          "under": 1.85
+        },
+        "dc": {
+          "Home/Draw": 1.01,
+          "Home/Away": 1.53,
+          "Draw/Away": 2.1
+        }
+      }
     },
     {
       "fixture_id": 1485768,
