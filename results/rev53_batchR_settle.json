@@ -1,8 +1,8 @@
 {
-  "timestamp": "2025-11-18T11:28:23.188893+11:00",
+  "timestamp": "2025-11-18T11:33:23.235404+11:00",
   "payload": {
     "status": "ok",
-    "count": 65,
+    "count": 64,
     "sample": [
       {
         "fixture_id": 1374300,
@@ -771,18 +771,6 @@
         "status": "FT",
         "ft": "2-0",
         "result_1x2": "1"
-      },
-      {
-        "fixture_id": 1485591,
-        "league_id": 240,
-        "league": "Primera B",
-        "kickoff_local": "2025-11-17T11:30:00+11:00",
-        "kickoff_utc": "2025-11-17T00:30:00+00:00",
-        "home": "Real Soacha",
-        "away": "Real Cartagena",
-        "status": "FT",
-        "ft": "1-2",
-        "result_1x2": "2"
       }
     ]
   },
