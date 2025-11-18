@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2025-11-18T01:13:05.621545+00:00",
+  "generated_at_utc": "2025-11-18T01:18:05.682416+00:00",
   "window_hours": 36,
   "max_fixtures": 60,
   "fixtures": [
@@ -954,7 +954,23 @@
       "kickoff_utc": "2025-11-18T13:00:00+00:00",
       "home": "US Biskra",
       "away": "USM Annaba",
-      "status": "NS"
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 1.85,
+          "Draw": 3.0,
+          "Away": 4.2
+        },
+        "ou_2_5": {
+          "over": 2.75,
+          "under": 1.4
+        },
+        "dc": {
+          "Home/Draw": 1.14,
+          "Home/Away": 1.8,
+          "Draw/Away": 1.44
+        }
+      }
     },
     {
       "fixture_id": 1485762,
