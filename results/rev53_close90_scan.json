@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2025-11-18T05:29:56.859212+00:00",
+  "generated_at_utc": "2025-11-18T05:34:57.389738+00:00",
   "window_before_min": 15,
   "window_after_min": 120,
   "fixtures": [
@@ -22,6 +22,32 @@
       "home": "Timor-Leste",
       "away": "Tajikistan",
       "status": "NS"
+    },
+    {
+      "fixture_id": 1486590,
+      "league_id": 10,
+      "league": "Friendlies",
+      "kickoff_local": "2025-11-18T18:30:00+11:00",
+      "kickoff_utc": "2025-11-18T07:30:00+00:00",
+      "home": "Vietnam U22",
+      "away": "South Korea U22",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 8.2,
+          "Draw": 3.9,
+          "Away": 1.4
+        },
+        "ou_2_5": {
+          "over": 2.0,
+          "under": 1.77
+        },
+        "dc": {
+          "Home/Draw": 2.8,
+          "Home/Away": 1.18,
+          "Draw/Away": 1.03
+        }
+      }
     }
   ]
 }
