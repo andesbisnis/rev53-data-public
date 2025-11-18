@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2025-11-18T07:39:58.600165+00:00",
+  "generated_at_utc": "2025-11-18T07:44:58.381374+00:00",
   "window_before_min": 15,
   "window_after_min": 120,
   "fixtures": [
@@ -11,7 +11,7 @@
       "kickoff_utc": "2025-11-18T07:30:00+00:00",
       "home": "Vietnam U22",
       "away": "South Korea U22",
-      "status": "NS",
+      "status": "1H",
       "markets": {
         "1x2": {
           "Home": 8.2,
