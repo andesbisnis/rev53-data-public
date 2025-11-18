@@ -1,8 +1,8 @@
 {
-  "timestamp": "2025-11-18T18:28:23.239040+11:00",
+  "timestamp": "2025-11-18T18:33:23.229305+11:00",
   "payload": {
     "status": "ok",
-    "count": 61,
+    "count": 60,
     "sample": [
       {
         "fixture_id": 1445503,
@@ -723,18 +723,6 @@
         "status": "FT",
         "ft": "8-1",
         "result_1x2": "1"
-      },
-      {
-        "fixture_id": 1470416,
-        "league_id": 275,
-        "league": "Liga 2",
-        "kickoff_local": "2025-11-17T18:30:00+11:00",
-        "kickoff_utc": "2025-11-17T07:30:00+00:00",
-        "home": "Persipal",
-        "away": "Persiba Balikpapan",
-        "status": "FT",
-        "ft": "1-1",
-        "result_1x2": "X"
       }
     ]
   },

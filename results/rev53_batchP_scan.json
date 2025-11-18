@@ -1,34 +1,8 @@
 {
-  "generated_at_utc": "2025-11-18T07:28:06.987877+00:00",
+  "generated_at_utc": "2025-11-18T07:33:08.559535+00:00",
   "window_hours": 36,
   "max_fixtures": 60,
   "fixtures": [
-    {
-      "fixture_id": 1486590,
-      "league_id": 10,
-      "league": "Friendlies",
-      "kickoff_local": "2025-11-18T18:30:00+11:00",
-      "kickoff_utc": "2025-11-18T07:30:00+00:00",
-      "home": "Vietnam U22",
-      "away": "South Korea U22",
-      "status": "NS",
-      "markets": {
-        "1x2": {
-          "Home": 8.2,
-          "Draw": 3.9,
-          "Away": 1.4
-        },
-        "ou_2_5": {
-          "over": 2.0,
-          "under": 1.77
-        },
-        "dc": {
-          "Home/Draw": 2.8,
-          "Home/Away": 1.18,
-          "Draw/Away": 1.03
-        }
-      }
-    },
     {
       "fixture_id": 1470499,
       "league_id": 275,
@@ -547,18 +521,18 @@
       "status": "NS",
       "markets": {
         "1x2": {
-          "Home": 1.29,
-          "Draw": 4.75,
-          "Away": 8.5
+          "Home": 1.25,
+          "Draw": 4.4,
+          "Away": 10.0
         },
         "ou_2_5": {
-          "over": 5.0,
-          "under": 1.12
+          "over": 1.65,
+          "under": 1.95
         },
         "dc": {
-          "Home/Draw": 1.05,
+          "Home/Draw": 1.02,
           "Home/Away": 1.15,
-          "Draw/Away": 3.5
+          "Draw/Away": 2.85
         }
       }
     },
@@ -1045,9 +1019,9 @@
       "status": "NS",
       "markets": {
         "1x2": {
-          "Home": 2.62,
-          "Draw": 2.8,
-          "Away": 2.62
+          "Home": 2.6,
+          "Draw": 2.85,
+          "Away": 2.6
         },
         "dc": {
           "Home/Draw": 1.42,
@@ -1191,6 +1165,16 @@
           "Draw/Away": 1.33
         }
       }
+    },
+    {
+      "fixture_id": 1486334,
+      "league_id": 587,
+      "league": "World Cup - U17",
+      "kickoff_local": "2025-11-19T00:00:00+11:00",
+      "kickoff_utc": "2025-11-18T13:00:00+00:00",
+      "home": "Mexico W U17",
+      "away": "Portugal U17",
+      "status": "NS"
     }
   ]
 }
