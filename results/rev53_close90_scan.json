@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2025-11-18T08:30:01.780021+00:00",
+  "generated_at_utc": "2025-11-18T08:35:12.171388+00:00",
   "window_before_min": 15,
   "window_after_min": 120,
   "fixtures": [
@@ -11,7 +11,7 @@
       "kickoff_utc": "2025-11-18T08:30:00+00:00",
       "home": "Bekasi City",
       "away": "Adhyaksa",
-      "status": "NS",
+      "status": "1H",
       "markets": {
         "1x2": {
           "Home": 2.5,
@@ -225,6 +225,99 @@
           "Draw/Away": 5.0
         }
       }
+    },
+    {
+      "fixture_id": 1320889,
+      "league_id": 35,
+      "league": "Asian Cup - Qualification",
+      "kickoff_local": "2025-11-18T21:30:00+11:00",
+      "kickoff_utc": "2025-11-18T10:30:00+00:00",
+      "home": "Maldives",
+      "away": "Philippines",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 21.0,
+          "Draw": 7.25,
+          "Away": 1.11
+        },
+        "ou_2_5": {
+          "over": 1.45,
+          "under": 2.62
+        },
+        "dc": {
+          "Home/Draw": 3.55,
+          "Home/Away": 1.12,
+          "Draw/Away": 1.03
+        }
+      }
+    },
+    {
+      "fixture_id": 1366980,
+      "league_id": 893,
+      "league": "UEFA U19 Championship - Qualification",
+      "kickoff_local": "2025-11-18T21:30:00+11:00",
+      "kickoff_utc": "2025-11-18T10:30:00+00:00",
+      "home": "Croatia U19",
+      "away": "Serbia U19",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 1.8,
+          "Draw": 3.7,
+          "Away": 3.6
+        },
+        "ou_2_5": {
+          "over": 1.53,
+          "under": 2.38
+        },
+        "dc": {
+          "Home/Draw": 1.22,
+          "Home/Away": 1.2,
+          "Draw/Away": 1.91
+        }
+      }
+    },
+    {
+      "fixture_id": 1366981,
+      "league_id": 893,
+      "league": "UEFA U19 Championship - Qualification",
+      "kickoff_local": "2025-11-18T21:30:00+11:00",
+      "kickoff_utc": "2025-11-18T10:30:00+00:00",
+      "home": "Gibraltar U19",
+      "away": "Georgia U19",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 31.0,
+          "Draw": 9.6,
+          "Away": 1.04
+        },
+        "ou_2_5": {
+          "over": 2.2,
+          "under": 1.6
+        }
+      }
+    },
+    {
+      "fixture_id": 1482721,
+      "league_id": 343,
+      "league": "First League",
+      "kickoff_local": "2025-11-18T21:30:00+11:00",
+      "kickoff_utc": "2025-11-18T10:30:00+00:00",
+      "home": "Ararat II",
+      "away": "Bentonit Ijevan",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1482722,
+      "league_id": 343,
+      "league": "First League",
+      "kickoff_local": "2025-11-18T21:30:00+11:00",
+      "kickoff_utc": "2025-11-18T10:30:00+00:00",
+      "home": "Hayq",
+      "away": "Andranik",
+      "status": "NS"
     }
   ]
 }

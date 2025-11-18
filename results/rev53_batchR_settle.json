@@ -1,8 +1,8 @@
 {
-  "timestamp": "2025-11-18T19:33:23.265676+11:00",
+  "timestamp": "2025-11-18T19:38:23.253581+11:00",
   "payload": {
     "status": "ok",
-    "count": 61,
+    "count": 62,
     "sample": [
       {
         "fixture_id": 1320896,
@@ -15,6 +15,18 @@
         "status": "FT",
         "ft": "0-5",
         "result_1x2": "2"
+      },
+      {
+        "fixture_id": 1483054,
+        "league_id": 424,
+        "league": "Ligue 1",
+        "kickoff_local": "2025-11-18T17:00:00+11:00",
+        "kickoff_utc": "2025-11-18T06:00:00+00:00",
+        "home": "Maniema Union",
+        "away": "Renaissance",
+        "status": "FT",
+        "ft": "1-1",
+        "result_1x2": "X"
       },
       {
         "fixture_id": 1445503,
