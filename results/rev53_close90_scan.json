@@ -1,18 +1,8 @@
 {
-  "generated_at_utc": "2025-11-18T06:14:57.336782+00:00",
+  "generated_at_utc": "2025-11-18T06:19:56.900101+00:00",
   "window_before_min": 15,
   "window_after_min": 120,
   "fixtures": [
-    {
-      "fixture_id": 1483054,
-      "league_id": 424,
-      "league": "Ligue 1",
-      "kickoff_local": "2025-11-18T17:00:00+11:00",
-      "kickoff_utc": "2025-11-18T06:00:00+00:00",
-      "home": "Maniema Union",
-      "away": "Renaissance",
-      "status": "NS"
-    },
     {
       "fixture_id": 1320896,
       "league_id": 35,
