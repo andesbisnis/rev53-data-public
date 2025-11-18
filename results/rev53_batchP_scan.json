@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2025-11-18T07:03:07.469435+00:00",
+  "generated_at_utc": "2025-11-18T07:08:07.767468+00:00",
   "window_hours": 36,
   "max_fixtures": 60,
   "fixtures": [
@@ -600,8 +600,8 @@
           "Away": 1.02
         },
         "ou_2_5": {
-          "over": 1.57,
-          "under": 2.25
+          "over": 1.62,
+          "under": 2.15
         }
       }
     },
