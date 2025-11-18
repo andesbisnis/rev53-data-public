@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2025-11-18T08:04:59.588089+00:00",
+  "generated_at_utc": "2025-11-18T08:10:00.699296+00:00",
   "window_before_min": 15,
   "window_after_min": 120,
   "fixtures": [
@@ -94,7 +94,7 @@
       "kickoff_utc": "2025-11-18T10:00:00+00:00",
       "home": "Afghanistan",
       "away": "Myanmar",
-      "status": "NS"
+      "status": "PST"
     },
     {
       "fixture_id": 1366965,

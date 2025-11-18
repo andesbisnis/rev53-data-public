@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2025-11-18T08:03:07.868646+00:00",
+  "generated_at_utc": "2025-11-18T08:08:07.713250+00:00",
   "window_hours": 36,
   "max_fixtures": 60,
   "fixtures": [
@@ -356,18 +356,18 @@
       "status": "NS",
       "markets": {
         "1x2": {
-          "Home": 1.7,
+          "Home": 1.55,
           "Draw": 3.55,
-          "Away": 4.33
+          "Away": 5.8
         },
         "ou_2_5": {
-          "over": 1.85,
-          "under": 1.9
+          "over": 1.73,
+          "under": 2.05
         },
         "dc": {
-          "Home/Draw": 1.15,
+          "Home/Draw": 1.08,
           "Home/Away": 1.22,
-          "Draw/Away": 2.0
+          "Draw/Away": 2.3
         }
       }
     },
