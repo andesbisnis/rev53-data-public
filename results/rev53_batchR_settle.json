@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-18T15:13:23.249590+11:00",
+  "timestamp": "2025-11-18T15:18:23.251014+11:00",
   "payload": {
     "status": "ok",
     "count": 64,
@@ -12,7 +12,7 @@
         "kickoff_utc": "2025-11-18T02:05:00+00:00",
         "home": "Reboceros La Piedad",
         "away": "Mineros de Fresnillo",
-        "status": "FT",
+        "status": "PEN",
         "ft": "2-2",
         "result_1x2": "X"
       },
