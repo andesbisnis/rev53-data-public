@@ -1,6 +1,1108 @@
 {
-  "generated_at_utc": "2025-11-17T23:57:41.110092+00:00",
+  "generated_at_utc": "2025-11-18T00:03:05.938623+00:00",
   "window_hours": 36,
   "max_fixtures": 60,
-  "fixtures": []
+  "fixtures": [
+    {
+      "fixture_id": 1445503,
+      "league_id": 722,
+      "league": "Liga Premier Serie A",
+      "kickoff_local": "2025-11-18T13:05:00+11:00",
+      "kickoff_utc": "2025-11-18T02:05:00+00:00",
+      "home": "Reboceros La Piedad",
+      "away": "Mineros de Fresnillo",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 1.77,
+          "Draw": 3.7,
+          "Away": 3.75
+        },
+        "ou_2_5": {
+          "over": 1.53,
+          "under": 2.38
+        },
+        "dc": {
+          "Home/Draw": 1.2,
+          "Home/Away": 1.2,
+          "Draw/Away": 1.95
+        }
+      }
+    },
+    {
+      "fixture_id": 1483054,
+      "league_id": 424,
+      "league": "Ligue 1",
+      "kickoff_local": "2025-11-18T17:00:00+11:00",
+      "kickoff_utc": "2025-11-18T06:00:00+00:00",
+      "home": "Maniema Union",
+      "away": "Renaissance",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1320896,
+      "league_id": 35,
+      "league": "Asian Cup - Qualification",
+      "kickoff_local": "2025-11-18T17:30:00+11:00",
+      "kickoff_utc": "2025-11-18T06:30:00+00:00",
+      "home": "Timor-Leste",
+      "away": "Tajikistan",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1486590,
+      "league_id": 10,
+      "league": "Friendlies",
+      "kickoff_local": "2025-11-18T18:30:00+11:00",
+      "kickoff_utc": "2025-11-18T07:30:00+00:00",
+      "home": "Vietnam U22",
+      "away": "South Korea U22",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 7.4,
+          "Draw": 4.0,
+          "Away": 1.4
+        },
+        "ou_2_5": {
+          "over": 1.93,
+          "under": 1.8
+        },
+        "dc": {
+          "Home/Draw": 2.75,
+          "Home/Away": 1.17,
+          "Draw/Away": 1.04
+        }
+      }
+    },
+    {
+      "fixture_id": 1470499,
+      "league_id": 275,
+      "league": "Liga 2",
+      "kickoff_local": "2025-11-18T19:30:00+11:00",
+      "kickoff_utc": "2025-11-18T08:30:00+00:00",
+      "home": "Bekasi City",
+      "away": "Adhyaksa",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 2.38,
+          "Draw": 3.0,
+          "Away": 2.75
+        },
+        "ou_2_5": {
+          "over": 1.95,
+          "under": 1.65
+        },
+        "dc": {
+          "Home/Draw": 1.35,
+          "Home/Away": 1.3,
+          "Draw/Away": 1.5
+        }
+      }
+    },
+    {
+      "fixture_id": 1321349,
+      "league_id": 35,
+      "league": "Asian Cup - Qualification",
+      "kickoff_local": "2025-11-18T20:00:00+11:00",
+      "kickoff_utc": "2025-11-18T09:00:00+00:00",
+      "home": "Pakistan",
+      "away": "Syria",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 13.5,
+          "Draw": 5.6,
+          "Away": 1.19
+        },
+        "ou_2_5": {
+          "over": 1.48,
+          "under": 2.55
+        }
+      }
+    },
+    {
+      "fixture_id": 1396153,
+      "league_id": 668,
+      "league": "1. Liga U19",
+      "kickoff_local": "2025-11-18T20:00:00+11:00",
+      "kickoff_utc": "2025-11-18T09:00:00+00:00",
+      "home": "Baník Ostrava U19",
+      "away": "Viktoria Plzeň U19",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1486545,
+      "league_id": 10,
+      "league": "Friendlies",
+      "kickoff_local": "2025-11-18T20:00:00+11:00",
+      "kickoff_utc": "2025-11-18T09:00:00+00:00",
+      "home": "Iran U23",
+      "away": "Bahrain U23",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 1.57,
+          "Draw": 3.75,
+          "Away": 4.75
+        },
+        "ou_2_5": {
+          "over": 5.0,
+          "under": 1.17
+        },
+        "dc": {
+          "Home/Draw": 1.12,
+          "Home/Away": 1.57,
+          "Draw/Away": 1.62
+        },
+        "btts": {
+          "o/yes 2.5": 2.6,
+          "o/no 2.5": 6.5,
+          "u/yes 2.5": 8.0,
+          "u/no 2.5": 2.2
+        }
+      }
+    },
+    {
+      "fixture_id": 1321350,
+      "league_id": 35,
+      "league": "Asian Cup - Qualification",
+      "kickoff_local": "2025-11-18T21:00:00+11:00",
+      "kickoff_utc": "2025-11-18T10:00:00+00:00",
+      "home": "Afghanistan",
+      "away": "Myanmar",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1366965,
+      "league_id": 893,
+      "league": "UEFA U19 Championship - Qualification",
+      "kickoff_local": "2025-11-18T21:00:00+11:00",
+      "kickoff_utc": "2025-11-18T10:00:00+00:00",
+      "home": "Scotland U19",
+      "away": "England U19",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 9.75,
+          "Draw": 6.6,
+          "Away": 1.18
+        },
+        "ou_2_5": {
+          "over": 2.15,
+          "under": 1.62
+        },
+        "dc": {
+          "Home/Draw": 3.85,
+          "Home/Away": 1.04,
+          "Draw/Away": 1.02
+        }
+      }
+    },
+    {
+      "fixture_id": 1366984,
+      "league_id": 893,
+      "league": "UEFA U19 Championship - Qualification",
+      "kickoff_local": "2025-11-18T21:00:00+11:00",
+      "kickoff_utc": "2025-11-18T10:00:00+00:00",
+      "home": "Northern Ireland U19",
+      "away": "Czech Republic U19",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 5.5,
+          "Draw": 4.6,
+          "Away": 1.4
+        },
+        "ou_2_5": {
+          "over": 1.38,
+          "under": 2.9
+        },
+        "dc": {
+          "Home/Draw": 2.7,
+          "Home/Away": 1.13,
+          "Draw/Away": 1.09
+        }
+      }
+    },
+    {
+      "fixture_id": 1366985,
+      "league_id": 893,
+      "league": "UEFA U19 Championship - Qualification",
+      "kickoff_local": "2025-11-18T21:00:00+11:00",
+      "kickoff_utc": "2025-11-18T10:00:00+00:00",
+      "home": "Azerbaijan U19",
+      "away": "Malta U19",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 2.5,
+          "Draw": 3.3,
+          "Away": 2.4
+        },
+        "ou_2_5": {
+          "over": 3.3,
+          "under": 1.25
+        },
+        "dc": {
+          "Home/Draw": 1.5,
+          "Home/Away": 1.29,
+          "Draw/Away": 1.44
+        },
+        "btts": {
+          "yes": 2.5,
+          "no": 1.44
+        }
+      }
+    },
+    {
+      "fixture_id": 1321347,
+      "league_id": 35,
+      "league": "Asian Cup - Qualification",
+      "kickoff_local": "2025-11-18T21:15:00+11:00",
+      "kickoff_utc": "2025-11-18T10:15:00+00:00",
+      "home": "Sri Lanka",
+      "away": "Thailand",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 7.7,
+          "Draw": 4.45,
+          "Away": 1.36
+        },
+        "ou_2_5": {
+          "over": 1.8,
+          "under": 1.93
+        },
+        "dc": {
+          "Home/Draw": 2.95,
+          "Home/Away": 1.14,
+          "Draw/Away": 1.04
+        }
+      }
+    },
+    {
+      "fixture_id": 1469293,
+      "league_id": 10,
+      "league": "Friendlies",
+      "kickoff_local": "2025-11-18T21:15:00+11:00",
+      "kickoff_utc": "2025-11-18T10:15:00+00:00",
+      "home": "Japan",
+      "away": "Bolivia",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 1.17,
+          "Draw": 6.8,
+          "Away": 15.0
+        },
+        "ou_2_5": {
+          "over": 1.45,
+          "under": 2.7
+        },
+        "dc": {
+          "Home/Draw": 1.03,
+          "Home/Away": 1.08,
+          "Draw/Away": 4.75
+        }
+      }
+    },
+    {
+      "fixture_id": 1320889,
+      "league_id": 35,
+      "league": "Asian Cup - Qualification",
+      "kickoff_local": "2025-11-18T21:30:00+11:00",
+      "kickoff_utc": "2025-11-18T10:30:00+00:00",
+      "home": "Maldives",
+      "away": "Philippines",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 14.5,
+          "Draw": 6.6,
+          "Away": 1.15
+        },
+        "ou_2_5": {
+          "over": 1.5,
+          "under": 2.45
+        },
+        "dc": {
+          "Home/Draw": 3.55,
+          "Home/Away": 1.12,
+          "Draw/Away": 1.03
+        }
+      }
+    },
+    {
+      "fixture_id": 1366980,
+      "league_id": 893,
+      "league": "UEFA U19 Championship - Qualification",
+      "kickoff_local": "2025-11-18T21:30:00+11:00",
+      "kickoff_utc": "2025-11-18T10:30:00+00:00",
+      "home": "Croatia U19",
+      "away": "Serbia U19",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 1.73,
+          "Draw": 3.75,
+          "Away": 4.0
+        },
+        "ou_2_5": {
+          "over": 1.55,
+          "under": 2.35
+        },
+        "dc": {
+          "Home/Draw": 1.18,
+          "Home/Away": 1.2,
+          "Draw/Away": 2.0
+        }
+      }
+    },
+    {
+      "fixture_id": 1366981,
+      "league_id": 893,
+      "league": "UEFA U19 Championship - Qualification",
+      "kickoff_local": "2025-11-18T21:30:00+11:00",
+      "kickoff_utc": "2025-11-18T10:30:00+00:00",
+      "home": "Gibraltar U19",
+      "away": "Georgia U19",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 31.0,
+          "Draw": 10.5,
+          "Away": 1.03
+        },
+        "ou_2_5": {
+          "over": 2.1,
+          "under": 1.65
+        }
+      }
+    },
+    {
+      "fixture_id": 1482721,
+      "league_id": 343,
+      "league": "First League",
+      "kickoff_local": "2025-11-18T21:30:00+11:00",
+      "kickoff_utc": "2025-11-18T10:30:00+00:00",
+      "home": "Ararat II",
+      "away": "Bentonit Ijevan",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1482722,
+      "league_id": 343,
+      "league": "First League",
+      "kickoff_local": "2025-11-18T21:30:00+11:00",
+      "kickoff_utc": "2025-11-18T10:30:00+00:00",
+      "home": "Hayq",
+      "away": "Andranik",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1350100,
+      "league_id": 850,
+      "league": "UEFA U21 Championship - Qualification",
+      "kickoff_local": "2025-11-18T22:00:00+11:00",
+      "kickoff_utc": "2025-11-18T11:00:00+00:00",
+      "home": "Armenia U21",
+      "away": "Sweden U21",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 8.2,
+          "Draw": 5.2,
+          "Away": 1.28
+        },
+        "ou_2_5": {
+          "over": 1.42,
+          "under": 2.75
+        },
+        "dc": {
+          "Home/Draw": 3.1,
+          "Home/Away": 1.1,
+          "Draw/Away": 1.03
+        }
+      }
+    },
+    {
+      "fixture_id": 1485019,
+      "league_id": 10,
+      "league": "Friendlies",
+      "kickoff_local": "2025-11-18T22:00:00+11:00",
+      "kickoff_utc": "2025-11-18T11:00:00+00:00",
+      "home": "South Korea",
+      "away": "Ghana",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 1.77,
+          "Draw": 3.4,
+          "Away": 4.1
+        },
+        "ou_2_5": {
+          "over": 1.9,
+          "under": 1.85
+        },
+        "dc": {
+          "Home/Draw": 1.17,
+          "Home/Away": 1.25,
+          "Draw/Away": 1.95
+        }
+      }
+    },
+    {
+      "fixture_id": 1485020,
+      "league_id": 10,
+      "league": "Friendlies",
+      "kickoff_local": "2025-11-18T22:00:00+11:00",
+      "kickoff_utc": "2025-11-18T11:00:00+00:00",
+      "home": "Wales U19",
+      "away": "Germany U19",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1485980,
+      "league_id": 486,
+      "league": "Coppa",
+      "kickoff_local": "2025-11-18T22:00:00+11:00",
+      "kickoff_utc": "2025-11-18T11:00:00+00:00",
+      "home": "Smorgon",
+      "away": "Torpedo Zhodino",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1486546,
+      "league_id": 10,
+      "league": "Friendlies",
+      "kickoff_local": "2025-11-18T22:00:00+11:00",
+      "kickoff_utc": "2025-11-18T11:00:00+00:00",
+      "home": "Japan U19",
+      "away": "USA U19",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1486591,
+      "league_id": 10,
+      "league": "Friendlies",
+      "kickoff_local": "2025-11-18T22:35:00+11:00",
+      "kickoff_utc": "2025-11-18T11:35:00+00:00",
+      "home": "China U22",
+      "away": "Uzbekistan U22",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 2.45,
+          "Draw": 2.8,
+          "Away": 2.75
+        },
+        "ou_2_5": {
+          "over": 6.0,
+          "under": 1.11
+        },
+        "dc": {
+          "Home/Draw": 1.36,
+          "Home/Away": 1.36,
+          "Draw/Away": 1.44
+        }
+      }
+    },
+    {
+      "fixture_id": 1321346,
+      "league_id": 35,
+      "league": "Asian Cup - Qualification",
+      "kickoff_local": "2025-11-18T23:00:00+11:00",
+      "kickoff_utc": "2025-11-18T12:00:00+00:00",
+      "home": "Hong Kong",
+      "away": "Singapore",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 2.08,
+          "Draw": 3.2,
+          "Away": 3.35
+        },
+        "ou_2_5": {
+          "over": 2.1,
+          "under": 1.7
+        },
+        "dc": {
+          "Home/Draw": 1.3,
+          "Home/Away": 1.28,
+          "Draw/Away": 1.7
+        }
+      }
+    },
+    {
+      "fixture_id": 1470418,
+      "league_id": 275,
+      "league": "Liga 2",
+      "kickoff_local": "2025-11-18T23:00:00+11:00",
+      "kickoff_utc": "2025-11-18T12:00:00+00:00",
+      "home": "PSIS Semarang",
+      "away": "Persipura Jayapura",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 5.0,
+          "Draw": 3.4,
+          "Away": 1.62
+        },
+        "ou_2_5": {
+          "over": 8.5,
+          "under": 1.06
+        },
+        "dc": {
+          "Home/Draw": 2.2,
+          "Home/Away": 1.29,
+          "Draw/Away": 1.12
+        },
+        "btts": {
+          "yes": 4.4,
+          "no": 1.18
+        }
+      }
+    },
+    {
+      "fixture_id": 1482095,
+      "league_id": 707,
+      "league": "Cup",
+      "kickoff_local": "2025-11-18T23:00:00+11:00",
+      "kickoff_utc": "2025-11-18T12:00:00+00:00",
+      "home": "Flamurtari",
+      "away": "Tomori Berat",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 1.06,
+          "Draw": 9.0,
+          "Away": 21.0
+        },
+        "ou_2_5": {
+          "over": 3.4,
+          "under": 1.25
+        }
+      }
+    },
+    {
+      "fixture_id": 1482096,
+      "league_id": 707,
+      "league": "Cup",
+      "kickoff_local": "2025-11-18T23:00:00+11:00",
+      "kickoff_utc": "2025-11-18T12:00:00+00:00",
+      "home": "Laci",
+      "away": "Luftëtari",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 1.29,
+          "Draw": 4.75,
+          "Away": 8.5
+        },
+        "ou_2_5": {
+          "over": 5.0,
+          "under": 1.12
+        },
+        "dc": {
+          "Home/Draw": 1.05,
+          "Home/Away": 1.15,
+          "Draw/Away": 3.5
+        }
+      }
+    },
+    {
+      "fixture_id": 1483851,
+      "league_id": 680,
+      "league": "Cup",
+      "kickoff_local": "2025-11-18T23:00:00+11:00",
+      "kickoff_utc": "2025-11-18T12:00:00+00:00",
+      "home": "Púchov",
+      "away": "Tatran Prešov",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 7.5,
+          "Draw": 4.33,
+          "Away": 1.35
+        },
+        "ou_2_5": {
+          "over": 4.75,
+          "under": 1.17
+        },
+        "dc": {
+          "Home/Draw": 2.9,
+          "Home/Away": 1.18,
+          "Draw/Away": 1.08
+        }
+      }
+    },
+    {
+      "fixture_id": 1321343,
+      "league_id": 35,
+      "league": "Asian Cup - Qualification",
+      "kickoff_local": "2025-11-18T23:15:00+11:00",
+      "kickoff_utc": "2025-11-18T12:15:00+00:00",
+      "home": "Brunei",
+      "away": "Lebanon",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 45.0,
+          "Draw": 12.5,
+          "Away": 1.01
+        },
+        "ou_2_5": {
+          "over": 1.5,
+          "under": 2.4
+        }
+      }
+    },
+    {
+      "fixture_id": 1486347,
+      "league_id": 587,
+      "league": "World Cup - U17",
+      "kickoff_local": "2025-11-18T23:30:00+11:00",
+      "kickoff_utc": "2025-11-18T12:30:00+00:00",
+      "home": "Italy U17",
+      "away": "Uzbekistan U17",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1486348,
+      "league_id": 587,
+      "league": "World Cup - U17",
+      "kickoff_local": "2025-11-18T23:30:00+11:00",
+      "kickoff_utc": "2025-11-18T12:30:00+00:00",
+      "home": "Uganda U17",
+      "away": "Burkina Faso U17",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1321312,
+      "league_id": 35,
+      "league": "Asian Cup - Qualification",
+      "kickoff_local": "2025-11-19T00:00:00+11:00",
+      "kickoff_utc": "2025-11-18T13:00:00+00:00",
+      "home": "Nepal",
+      "away": "Malaysia",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 33.0,
+          "Draw": 8.1,
+          "Away": 1.07
+        },
+        "ou_2_5": {
+          "over": 1.45,
+          "under": 2.6
+        }
+      }
+    },
+    {
+      "fixture_id": 1366978,
+      "league_id": 893,
+      "league": "UEFA U19 Championship - Qualification",
+      "kickoff_local": "2025-11-19T00:00:00+11:00",
+      "kickoff_utc": "2025-11-18T13:00:00+00:00",
+      "home": "Slovakia U19",
+      "away": "Ukraine U19",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 4.0,
+          "Draw": 3.45,
+          "Away": 1.77
+        },
+        "ou_2_5": {
+          "over": 1.77,
+          "under": 2.0
+        },
+        "dc": {
+          "Home/Draw": 1.95,
+          "Home/Away": 1.22,
+          "Draw/Away": 1.18
+        }
+      }
+    },
+    {
+      "fixture_id": 1366979,
+      "league_id": 893,
+      "league": "UEFA U19 Championship - Qualification",
+      "kickoff_local": "2025-11-19T00:00:00+11:00",
+      "kickoff_utc": "2025-11-18T13:00:00+00:00",
+      "home": "Albania U19",
+      "away": "Montenegro U19",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 1.44,
+          "Draw": 4.2,
+          "Away": 6.0
+        },
+        "ou_2_5": {
+          "over": 1.55,
+          "under": 2.35
+        },
+        "dc": {
+          "Home/Draw": 1.08,
+          "Home/Away": 1.15,
+          "Draw/Away": 2.62
+        }
+      }
+    },
+    {
+      "fixture_id": 1366986,
+      "league_id": 893,
+      "league": "UEFA U19 Championship - Qualification",
+      "kickoff_local": "2025-11-19T00:00:00+11:00",
+      "kickoff_utc": "2025-11-18T13:00:00+00:00",
+      "home": "Greece U19",
+      "away": "Turkey U19",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 2.9,
+          "Draw": 3.2,
+          "Away": 2.25
+        },
+        "ou_2_5": {
+          "over": 1.85,
+          "under": 1.9
+        },
+        "dc": {
+          "Home/Draw": 1.5,
+          "Home/Away": 1.28,
+          "Draw/Away": 1.38
+        }
+      }
+    },
+    {
+      "fixture_id": 1434020,
+      "league_id": 703,
+      "league": "Professional Development League",
+      "kickoff_local": "2025-11-19T00:00:00+11:00",
+      "kickoff_utc": "2025-11-18T13:00:00+00:00",
+      "home": "Peterborough United U21",
+      "away": "Sheffield Wednesday U21",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 1.53,
+          "Draw": 5.0,
+          "Away": 3.8
+        },
+        "ou_2_5": {
+          "over": 2.9,
+          "under": 1.36
+        },
+        "dc": {
+          "Home/Draw": 1.2,
+          "Home/Away": 1.17,
+          "Draw/Away": 2.4
+        }
+      }
+    },
+    {
+      "fixture_id": 1434021,
+      "league_id": 703,
+      "league": "Professional Development League",
+      "kickoff_local": "2025-11-19T00:00:00+11:00",
+      "kickoff_utc": "2025-11-18T13:00:00+00:00",
+      "home": "Barnsley U21",
+      "away": "Wigan Athletic U21",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 2.05,
+          "Draw": 4.2,
+          "Away": 2.5
+        },
+        "ou_2_5": {
+          "over": 3.9,
+          "under": 1.22
+        },
+        "dc": {
+          "Home/Draw": 1.4,
+          "Home/Away": 1.22,
+          "Draw/Away": 1.67
+        }
+      }
+    },
+    {
+      "fixture_id": 1475338,
+      "league_id": 213,
+      "league": "Third NL - Istok",
+      "kickoff_local": "2025-11-19T00:00:00+11:00",
+      "kickoff_utc": "2025-11-18T13:00:00+00:00",
+      "home": "OŠK Omišalj",
+      "away": "Novalja",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1475339,
+      "league_id": 213,
+      "league": "Third NL - Istok",
+      "kickoff_local": "2025-11-19T00:00:00+11:00",
+      "kickoff_utc": "2025-11-18T13:00:00+00:00",
+      "home": "Pomorac",
+      "away": "Naprijed Hreljin",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1475340,
+      "league_id": 213,
+      "league": "Third NL - Istok",
+      "kickoff_local": "2025-11-19T00:00:00+11:00",
+      "kickoff_utc": "2025-11-18T13:00:00+00:00",
+      "home": "Kraljevica",
+      "away": "Nehaj",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1475341,
+      "league_id": 213,
+      "league": "Third NL - Istok",
+      "kickoff_local": "2025-11-19T00:00:00+11:00",
+      "kickoff_utc": "2025-11-18T13:00:00+00:00",
+      "home": "Crikvenica",
+      "away": "Halubjan Viškovo",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1475342,
+      "league_id": 213,
+      "league": "Third NL - Istok",
+      "kickoff_local": "2025-11-19T00:00:00+11:00",
+      "kickoff_utc": "2025-11-18T13:00:00+00:00",
+      "home": "Rudar Labin",
+      "away": "Jadran Poreč",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1475343,
+      "league_id": 213,
+      "league": "Third NL - Istok",
+      "kickoff_local": "2025-11-19T00:00:00+11:00",
+      "kickoff_utc": "2025-11-18T13:00:00+00:00",
+      "home": "Banjole",
+      "away": "Vinodol",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1475344,
+      "league_id": 213,
+      "league": "Third NL - Istok",
+      "kickoff_local": "2025-11-19T00:00:00+11:00",
+      "kickoff_utc": "2025-11-18T13:00:00+00:00",
+      "home": "Buje",
+      "away": "Pazinka",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1475345,
+      "league_id": 213,
+      "league": "Third NL - Istok",
+      "kickoff_local": "2025-11-19T00:00:00+11:00",
+      "kickoff_utc": "2025-11-18T13:00:00+00:00",
+      "home": "Lokomotiva R",
+      "away": "Krk",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1481762,
+      "league_id": 893,
+      "league": "UEFA U19 Championship - Qualification",
+      "kickoff_local": "2025-11-19T00:00:00+11:00",
+      "kickoff_utc": "2025-11-18T13:00:00+00:00",
+      "home": "Liechtenstein U19",
+      "away": "ABFF U19",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1485760,
+      "league_id": 187,
+      "league": "Ligue 2",
+      "kickoff_local": "2025-11-19T00:00:00+11:00",
+      "kickoff_utc": "2025-11-18T13:00:00+00:00",
+      "home": "CRB Adrar",
+      "away": "WA Tlemcen",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 2.2,
+          "Draw": 2.88,
+          "Away": 3.1
+        },
+        "ou_2_5": {
+          "over": 2.62,
+          "under": 1.44
+        },
+        "dc": {
+          "Home/Draw": 1.22,
+          "Home/Away": 1.83,
+          "Draw/Away": 1.36
+        }
+      }
+    },
+    {
+      "fixture_id": 1485761,
+      "league_id": 187,
+      "league": "Ligue 2",
+      "kickoff_local": "2025-11-19T00:00:00+11:00",
+      "kickoff_utc": "2025-11-18T13:00:00+00:00",
+      "home": "US Biskra",
+      "away": "USM Annaba",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1485762,
+      "league_id": 187,
+      "league": "Ligue 2",
+      "kickoff_local": "2025-11-19T00:00:00+11:00",
+      "kickoff_utc": "2025-11-18T13:00:00+00:00",
+      "home": "Béchar Djedid",
+      "away": "Koléa",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1485763,
+      "league_id": 187,
+      "league": "Ligue 2",
+      "kickoff_local": "2025-11-19T00:00:00+11:00",
+      "kickoff_utc": "2025-11-18T13:00:00+00:00",
+      "home": "JS Jijel",
+      "away": "Nrb Beni Oulbene",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 1.6,
+          "Draw": 3.3,
+          "Away": 5.25
+        },
+        "ou_2_5": {
+          "over": 2.38,
+          "under": 1.53
+        },
+        "dc": {
+          "Home/Draw": 1.11,
+          "Home/Away": 1.73,
+          "Draw/Away": 1.57
+        }
+      }
+    },
+    {
+      "fixture_id": 1485764,
+      "league_id": 187,
+      "league": "Ligue 2",
+      "kickoff_local": "2025-11-19T00:00:00+11:00",
+      "kickoff_utc": "2025-11-18T13:00:00+00:00",
+      "home": "MO Constantine",
+      "away": "JS Bordj Ménaïel",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1485765,
+      "league_id": 187,
+      "league": "Ligue 2",
+      "kickoff_local": "2025-11-19T00:00:00+11:00",
+      "kickoff_utc": "2025-11-18T13:00:00+00:00",
+      "home": "GC Mascara",
+      "away": "Tiaret",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1485766,
+      "league_id": 187,
+      "league": "Ligue 2",
+      "kickoff_local": "2025-11-19T00:00:00+11:00",
+      "kickoff_utc": "2025-11-18T13:00:00+00:00",
+      "home": "Usm El Harrach",
+      "away": "RC Arba",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1485768,
+      "league_id": 187,
+      "league": "Ligue 2",
+      "kickoff_local": "2025-11-19T00:00:00+11:00",
+      "kickoff_utc": "2025-11-18T13:00:00+00:00",
+      "home": "CA Batna",
+      "away": "NC Magra",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 1.75,
+          "Draw": 3.2,
+          "Away": 4.5
+        },
+        "ou_2_5": {
+          "over": 2.62,
+          "under": 1.44
+        },
+        "dc": {
+          "Home/Draw": 1.12,
+          "Home/Away": 1.8,
+          "Draw/Away": 1.5
+        }
+      }
+    },
+    {
+      "fixture_id": 1485769,
+      "league_id": 187,
+      "league": "Ligue 2",
+      "kickoff_local": "2025-11-19T00:00:00+11:00",
+      "kickoff_utc": "2025-11-18T13:00:00+00:00",
+      "home": "HB Chelghoum Laïd",
+      "away": "MSP Batna",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1485770,
+      "league_id": 187,
+      "league": "Ligue 2",
+      "kickoff_local": "2025-11-19T00:00:00+11:00",
+      "kickoff_utc": "2025-11-18T13:00:00+00:00",
+      "home": "RC Kouba",
+      "away": "Hussein Dey",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 1.65,
+          "Draw": 3.0,
+          "Away": 5.25
+        },
+        "ou_2_5": {
+          "over": 2.75,
+          "under": 1.4
+        },
+        "dc": {
+          "Home/Draw": 1.1,
+          "Home/Away": 1.83,
+          "Draw/Away": 1.53
+        }
+      }
+    },
+    {
+      "fixture_id": 1485771,
+      "league_id": 187,
+      "league": "Ligue 2",
+      "kickoff_local": "2025-11-19T00:00:00+11:00",
+      "kickoff_utc": "2025-11-18T13:00:00+00:00",
+      "home": "MC Saida",
+      "away": "ASM Oran",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1485772,
+      "league_id": 187,
+      "league": "Ligue 2",
+      "kickoff_local": "2025-11-19T00:00:00+11:00",
+      "kickoff_utc": "2025-11-18T13:00:00+00:00",
+      "home": "MO Bejaia",
+      "away": "Teleghma",
+      "status": "NS"
+    }
+  ]
 }
