@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2025-11-18T06:59:57.203505+00:00",
+  "generated_at_utc": "2025-11-18T07:04:58.281387+00:00",
   "window_before_min": 15,
   "window_after_min": 120,
   "fixtures": [
@@ -52,6 +52,69 @@
           "Home/Draw": 1.48,
           "Home/Away": 1.28,
           "Draw/Away": 1.48
+        }
+      }
+    },
+    {
+      "fixture_id": 1321349,
+      "league_id": 35,
+      "league": "Asian Cup - Qualification",
+      "kickoff_local": "2025-11-18T20:00:00+11:00",
+      "kickoff_utc": "2025-11-18T09:00:00+00:00",
+      "home": "Pakistan",
+      "away": "Syria",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 12.0,
+          "Draw": 5.7,
+          "Away": 1.2
+        },
+        "ou_2_5": {
+          "over": 1.62,
+          "under": 2.2
+        }
+      }
+    },
+    {
+      "fixture_id": 1396153,
+      "league_id": 668,
+      "league": "1. Liga U19",
+      "kickoff_local": "2025-11-18T20:00:00+11:00",
+      "kickoff_utc": "2025-11-18T09:00:00+00:00",
+      "home": "Baník Ostrava U19",
+      "away": "Viktoria Plzeň U19",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1486545,
+      "league_id": 10,
+      "league": "Friendlies",
+      "kickoff_local": "2025-11-18T20:00:00+11:00",
+      "kickoff_utc": "2025-11-18T09:00:00+00:00",
+      "home": "Iran U23",
+      "away": "Bahrain U23",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 1.57,
+          "Draw": 3.75,
+          "Away": 4.75
+        },
+        "ou_2_5": {
+          "over": 5.0,
+          "under": 1.17
+        },
+        "dc": {
+          "Home/Draw": 1.12,
+          "Home/Away": 1.57,
+          "Draw/Away": 1.62
+        },
+        "btts": {
+          "o/yes 2.5": 2.6,
+          "o/no 2.5": 6.5,
+          "u/yes 2.5": 8.0,
+          "u/no 2.5": 2.2
         }
       }
     }
