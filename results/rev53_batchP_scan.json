@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2025-11-18T02:48:05.783784+00:00",
+  "generated_at_utc": "2025-11-18T02:53:06.537381+00:00",
   "window_hours": 36,
   "max_fixtures": 60,
   "fixtures": [
@@ -1156,7 +1156,23 @@
       "kickoff_utc": "2025-11-18T13:00:00+00:00",
       "home": "MO Bejaia",
       "away": "Teleghma",
-      "status": "NS"
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 1.53,
+          "Draw": 3.5,
+          "Away": 6.0
+        },
+        "ou_2_5": {
+          "over": 2.35,
+          "under": 1.57
+        },
+        "dc": {
+          "Home/Draw": 1.1,
+          "Home/Away": 1.73,
+          "Draw/Away": 1.67
+        }
+      }
     },
     {
       "fixture_id": 1485773,
