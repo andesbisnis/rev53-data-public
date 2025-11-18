@@ -1,8 +1,8 @@
 {
-  "timestamp": "2025-11-18T13:58:23.230902+11:00",
+  "timestamp": "2025-11-18T14:03:23.233458+11:00",
   "payload": {
     "status": "ok",
-    "count": 63,
+    "count": 62,
     "sample": [
       {
         "fixture_id": 1486231,
@@ -747,18 +747,6 @@
         "status": "FT",
         "ft": "2-0",
         "result_1x2": "1"
-      },
-      {
-        "fixture_id": 1486674,
-        "league_id": 666,
-        "league": "Friendlies Women",
-        "kickoff_local": "2025-11-17T14:00:00+11:00",
-        "kickoff_utc": "2025-11-17T03:00:00+00:00",
-        "home": "Solomon Islands W",
-        "away": "Fiji W",
-        "status": "FT",
-        "ft": "1-2",
-        "result_1x2": "2"
       }
     ]
   },

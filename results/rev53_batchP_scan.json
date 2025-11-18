@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2025-11-18T02:58:05.613631+00:00",
+  "generated_at_utc": "2025-11-18T03:03:06.224844+00:00",
   "window_hours": 36,
   "max_fixtures": 60,
   "fixtures": [
@@ -65,8 +65,8 @@
           "Away": 2.75
         },
         "ou_2_5": {
-          "over": 1.95,
-          "under": 1.65
+          "over": 2.05,
+          "under": 1.57
         },
         "dc": {
           "Home/Draw": 1.35,
@@ -520,22 +520,18 @@
       "status": "NS",
       "markets": {
         "1x2": {
-          "Home": 5.0,
-          "Draw": 3.4,
-          "Away": 1.62
+          "Home": 7.0,
+          "Draw": 3.65,
+          "Away": 1.44
         },
         "ou_2_5": {
-          "over": 8.5,
-          "under": 1.06
+          "over": 2.05,
+          "under": 1.57
         },
         "dc": {
-          "Home/Draw": 2.2,
-          "Home/Away": 1.29,
-          "Draw/Away": 1.12
-        },
-        "btts": {
-          "yes": 4.4,
-          "no": 1.18
+          "Home/Draw": 2.62,
+          "Home/Away": 1.2,
+          "Draw/Away": 1.05
         }
       }
     },
@@ -664,13 +660,13 @@
       "status": "NS",
       "markets": {
         "1x2": {
-          "Home": 33.0,
-          "Draw": 8.1,
-          "Away": 1.07
+          "Home": 29.0,
+          "Draw": 7.75,
+          "Away": 1.08
         },
         "ou_2_5": {
-          "over": 1.45,
-          "under": 2.6
+          "over": 1.48,
+          "under": 2.55
         }
       }
     },
