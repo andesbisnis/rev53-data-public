@@ -1,9 +1,21 @@
 {
-  "timestamp": "2025-11-18T11:18:23.219648+11:00",
+  "timestamp": "2025-11-18T11:23:23.235482+11:00",
   "payload": {
     "status": "ok",
-    "count": 64,
+    "count": 65,
     "sample": [
+      {
+        "fixture_id": 1374300,
+        "league_id": 128,
+        "league": "Liga Profesional Argentina",
+        "kickoff_local": "2025-11-18T09:30:00+11:00",
+        "kickoff_utc": "2025-11-17T22:30:00+00:00",
+        "home": "Platense",
+        "away": "Gimnasia L.P.",
+        "status": "FT",
+        "ft": "0-3",
+        "result_1x2": "2"
+      },
       {
         "fixture_id": 1350085,
         "league_id": 850,
