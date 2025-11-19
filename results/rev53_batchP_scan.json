@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2025-11-19T01:43:05.165560+00:00",
+  "generated_at_utc": "2025-11-19T02:43:05.571876+00:00",
   "window_hours": 36,
   "max_fixtures": 60,
   "fixtures": [
@@ -202,9 +202,9 @@
       "status": "NS",
       "markets": {
         "1x2": {
-          "Home": 32.0,
-          "Draw": 8.9,
-          "Away": 1.06
+          "Home": 33.0,
+          "Draw": 9.1,
+          "Away": 1.05
         },
         "ou_2_5": {
           "over": 2.45,
@@ -435,18 +435,14 @@
       "status": "NS",
       "markets": {
         "1x2": {
-          "Home": 17.0,
-          "Draw": 6.0,
-          "Away": 1.15
-        },
-        "ou_2_5": {
-          "over": 4.4,
-          "under": 1.18
+          "Home": 12.0,
+          "Draw": 6.2,
+          "Away": 1.14
         },
         "dc": {
-          "Home/Draw": 4.8,
-          "Home/Away": 1.11,
-          "Draw/Away": 1.02
+          "Home/Draw": 3.45,
+          "Home/Away": 1.08,
+          "Draw/Away": 1.01
         }
       }
     },
@@ -554,7 +550,23 @@
       "kickoff_utc": "2025-11-19T13:00:00+00:00",
       "home": "Entebbe UPPC",
       "away": "Police",
-      "status": "NS"
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 2.15,
+          "Draw": 3.1,
+          "Away": 3.1
+        },
+        "ou_2_5": {
+          "over": 10.0,
+          "under": 1.05
+        },
+        "dc": {
+          "Home/Draw": 1.29,
+          "Home/Away": 1.36,
+          "Draw/Away": 1.57
+        }
+      }
     },
     {
       "fixture_id": 1483145,
@@ -604,7 +616,23 @@
       "kickoff_utc": "2025-11-19T13:00:00+00:00",
       "home": "IB Khémis El Khechna",
       "away": "Khroub",
-      "status": "NS"
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 2.7,
+          "Draw": 3.0,
+          "Away": 2.45
+        },
+        "ou_2_5": {
+          "over": 2.62,
+          "under": 1.44
+        },
+        "dc": {
+          "Home/Draw": 1.33,
+          "Home/Away": 1.8,
+          "Draw/Away": 1.28
+        }
+      }
     },
     {
       "fixture_id": 1486046,
@@ -842,7 +870,23 @@
       "kickoff_utc": "2025-11-19T15:00:00+00:00",
       "home": "Asante Kotoko",
       "away": "Young Apostles",
-      "status": "NS"
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 1.4,
+          "Draw": 3.75,
+          "Away": 7.5
+        },
+        "ou_2_5": {
+          "over": 8.5,
+          "under": 1.06
+        },
+        "dc": {
+          "Home/Draw": 1.06,
+          "Home/Away": 1.22,
+          "Draw/Away": 2.8
+        }
+      }
     },
     {
       "fixture_id": 1475027,
