@@ -1,6 +1,1037 @@
 {
-  "generated_at_utc": "2025-11-18T23:42:41.218169+00:00",
+  "generated_at_utc": "2025-11-19T00:43:07.064000+00:00",
   "window_hours": 36,
   "max_fixtures": 60,
-  "fixtures": []
+  "fixtures": [
+    {
+      "fixture_id": 1397467,
+      "league_id": 31,
+      "league": "World Cup - Qualification CONCACAF",
+      "kickoff_local": "2025-11-19T12:00:00+11:00",
+      "kickoff_utc": "2025-11-19T01:00:00+00:00",
+      "home": "Panama",
+      "away": "El Salvador",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 1.13,
+          "Draw": 8.0,
+          "Away": 16.5
+        },
+        "ou_2_5": {
+          "over": 1.48,
+          "under": 2.65
+        },
+        "dc": {
+          "Home/Draw": 1.03,
+          "Home/Away": 1.09,
+          "Draw/Away": 4.75
+        }
+      }
+    },
+    {
+      "fixture_id": 1397468,
+      "league_id": 31,
+      "league": "World Cup - Qualification CONCACAF",
+      "kickoff_local": "2025-11-19T12:00:00+11:00",
+      "kickoff_utc": "2025-11-19T01:00:00+00:00",
+      "home": "Guatemala",
+      "away": "Suriname",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 2.78,
+          "Draw": 3.2,
+          "Away": 2.52
+        },
+        "ou_2_5": {
+          "over": 2.4,
+          "under": 1.55
+        },
+        "dc": {
+          "Home/Draw": 1.5,
+          "Home/Away": 1.28,
+          "Draw/Away": 1.42
+        }
+      }
+    },
+    {
+      "fixture_id": 1397470,
+      "league_id": 31,
+      "league": "World Cup - Qualification CONCACAF",
+      "kickoff_local": "2025-11-19T12:00:00+11:00",
+      "kickoff_utc": "2025-11-19T01:00:00+00:00",
+      "home": "Trinidad and Tobago",
+      "away": "Bermuda",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 1.08,
+          "Draw": 9.4,
+          "Away": 28.0
+        },
+        "ou_2_5": {
+          "over": 1.28,
+          "under": 3.55
+        }
+      }
+    },
+    {
+      "fixture_id": 1397471,
+      "league_id": 31,
+      "league": "World Cup - Qualification CONCACAF",
+      "kickoff_local": "2025-11-19T12:00:00+11:00",
+      "kickoff_utc": "2025-11-19T01:00:00+00:00",
+      "home": "Costa Rica",
+      "away": "Honduras",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 1.72,
+          "Draw": 3.5,
+          "Away": 4.9
+        },
+        "ou_2_5": {
+          "over": 2.1,
+          "under": 1.7
+        },
+        "dc": {
+          "Home/Draw": 1.17,
+          "Home/Away": 1.25,
+          "Draw/Away": 2.05
+        }
+      }
+    },
+    {
+      "fixture_id": 1397472,
+      "league_id": 31,
+      "league": "World Cup - Qualification CONCACAF",
+      "kickoff_local": "2025-11-19T12:00:00+11:00",
+      "kickoff_utc": "2025-11-19T01:00:00+00:00",
+      "home": "Haiti",
+      "away": "Nicaragua",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 1.22,
+          "Draw": 5.6,
+          "Away": 14.0
+        },
+        "ou_2_5": {
+          "over": 1.62,
+          "under": 2.25
+        },
+        "dc": {
+          "Home/Draw": 1.03,
+          "Home/Away": 1.11,
+          "Draw/Away": 4.0
+        }
+      }
+    },
+    {
+      "fixture_id": 1453336,
+      "league_id": 31,
+      "league": "World Cup - Qualification CONCACAF",
+      "kickoff_local": "2025-11-19T12:00:00+11:00",
+      "kickoff_utc": "2025-11-19T01:00:00+00:00",
+      "home": "Jamaica",
+      "away": "Curaçao",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 1.91,
+          "Draw": 3.25,
+          "Away": 4.2
+        },
+        "ou_2_5": {
+          "over": 2.2,
+          "under": 1.65
+        },
+        "dc": {
+          "Home/Draw": 1.22,
+          "Home/Away": 1.28,
+          "Draw/Away": 1.85
+        }
+      }
+    },
+    {
+      "fixture_id": 1469294,
+      "league_id": 10,
+      "league": "Friendlies",
+      "kickoff_local": "2025-11-19T12:30:00+11:00",
+      "kickoff_utc": "2025-11-19T01:30:00+00:00",
+      "home": "Ecuador",
+      "away": "New Zealand",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 1.36,
+          "Draw": 3.9,
+          "Away": 8.75
+        },
+        "ou_2_5": {
+          "over": 2.1,
+          "under": 1.7
+        },
+        "dc": {
+          "Home/Draw": 1.03,
+          "Home/Away": 1.17,
+          "Draw/Away": 2.9
+        }
+      }
+    },
+    {
+      "fixture_id": 1472256,
+      "league_id": 10,
+      "league": "Friendlies",
+      "kickoff_local": "2025-11-19T12:30:00+11:00",
+      "kickoff_utc": "2025-11-19T01:30:00+00:00",
+      "home": "Mexico",
+      "away": "Paraguay",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 2.1,
+          "Draw": 3.2,
+          "Away": 3.65
+        },
+        "ou_2_5": {
+          "over": 6.0,
+          "under": 1.09
+        },
+        "dc": {
+          "Home/Draw": 1.28,
+          "Home/Away": 1.3,
+          "Draw/Away": 1.7
+        }
+      }
+    },
+    {
+      "fixture_id": 1485025,
+      "league_id": 10,
+      "league": "Friendlies",
+      "kickoff_local": "2025-11-19T12:30:00+11:00",
+      "kickoff_utc": "2025-11-19T01:30:00+00:00",
+      "home": "Colombia",
+      "away": "Australia",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 1.42,
+          "Draw": 4.4,
+          "Away": 9.25
+        },
+        "ou_2_5": {
+          "over": 2.15,
+          "under": 1.65
+        },
+        "dc": {
+          "Home/Draw": 1.03,
+          "Home/Away": 1.2,
+          "Draw/Away": 2.88
+        }
+      }
+    },
+    {
+      "fixture_id": 1468981,
+      "league_id": 1140,
+      "league": "AFC Women's Champions League",
+      "kickoff_local": "2025-11-19T19:00:00+11:00",
+      "kickoff_utc": "2025-11-19T08:00:00+00:00",
+      "home": "Stallion W",
+      "away": "Lion City W",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1470501,
+      "league_id": 275,
+      "league": "Liga 2",
+      "kickoff_local": "2025-11-19T19:30:00+11:00",
+      "kickoff_utc": "2025-11-19T08:30:00+00:00",
+      "home": "Persekat",
+      "away": "Garudayaksa",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1470502,
+      "league_id": 275,
+      "league": "Liga 2",
+      "kickoff_local": "2025-11-19T19:30:00+11:00",
+      "kickoff_utc": "2025-11-19T08:30:00+00:00",
+      "home": "Sriwijaya FC",
+      "away": "Persikad Depok FC",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 3.75,
+          "Draw": 3.4,
+          "Away": 1.8
+        },
+        "ou_2_5": {
+          "over": 1.65,
+          "under": 1.95
+        },
+        "dc": {
+          "Home/Draw": 1.91,
+          "Home/Away": 1.22,
+          "Draw/Away": 1.2
+        }
+      }
+    },
+    {
+      "fixture_id": 1470608,
+      "league_id": 276,
+      "league": "FKF Premier League",
+      "kickoff_local": "2025-11-19T21:00:00+11:00",
+      "kickoff_utc": "2025-11-19T10:00:00+00:00",
+      "home": "APS Bomet",
+      "away": "Ulinzi Stars",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 2.1,
+          "Draw": 2.9,
+          "Away": 3.4
+        },
+        "dc": {
+          "Home/Draw": 1.25,
+          "Home/Away": 1.3,
+          "Draw/Away": 1.67
+        }
+      }
+    },
+    {
+      "fixture_id": 1482724,
+      "league_id": 343,
+      "league": "First League",
+      "kickoff_local": "2025-11-19T21:30:00+11:00",
+      "kickoff_utc": "2025-11-19T10:30:00+00:00",
+      "home": "Araks Ararat",
+      "away": "Syunik",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1482725,
+      "league_id": 343,
+      "league": "First League",
+      "kickoff_local": "2025-11-19T21:30:00+11:00",
+      "kickoff_utc": "2025-11-19T10:30:00+00:00",
+      "home": "BKMA II",
+      "away": "Noah II",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1482726,
+      "league_id": 343,
+      "league": "First League",
+      "kickoff_local": "2025-11-19T21:30:00+11:00",
+      "kickoff_utc": "2025-11-19T10:30:00+00:00",
+      "home": "Lernayin Artsakh",
+      "away": "Shirak II",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1482727,
+      "league_id": 343,
+      "league": "First League",
+      "kickoff_local": "2025-11-19T21:30:00+11:00",
+      "kickoff_utc": "2025-11-19T10:30:00+00:00",
+      "home": "Mika",
+      "away": "Ararat-Armenia II",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1482728,
+      "league_id": 343,
+      "league": "First League",
+      "kickoff_local": "2025-11-19T21:30:00+11:00",
+      "kickoff_utc": "2025-11-19T10:30:00+00:00",
+      "home": "Pyunik II",
+      "away": "Banants II",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1400383,
+      "league_id": 369,
+      "league": "Super League",
+      "kickoff_local": "2025-11-19T22:00:00+11:00",
+      "kickoff_utc": "2025-11-19T11:00:00+00:00",
+      "home": "Shortan",
+      "away": "Buxoro",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 4.5,
+          "Draw": 3.8,
+          "Away": 1.57
+        },
+        "ou_2_5": {
+          "over": 6.0,
+          "under": 1.1
+        },
+        "dc": {
+          "Home/Draw": 2.2,
+          "Home/Away": 1.25,
+          "Draw/Away": 1.15
+        },
+        "btts": {
+          "yes": 3.4,
+          "no": 1.25
+        }
+      }
+    },
+    {
+      "fixture_id": 1429183,
+      "league_id": 410,
+      "league": "C-League",
+      "kickoff_local": "2025-11-19T22:00:00+11:00",
+      "kickoff_utc": "2025-11-19T11:00:00+00:00",
+      "home": "NagaWorld",
+      "away": "Phnom Penh Crown",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 4.6,
+          "Draw": 4.1,
+          "Away": 1.53
+        },
+        "dc": {
+          "Home/Draw": 2.35,
+          "Home/Away": 1.15,
+          "Draw/Away": 1.13
+        }
+      }
+    },
+    {
+      "fixture_id": 1430641,
+      "league_id": 410,
+      "league": "C-League",
+      "kickoff_local": "2025-11-19T22:00:00+11:00",
+      "kickoff_utc": "2025-11-19T11:00:00+00:00",
+      "home": "Dangkor Senchey",
+      "away": "Svay Rieng",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 18.0,
+          "Draw": 8.0,
+          "Away": 1.06
+        },
+        "dc": {
+          "Home/Draw": 4.0,
+          "Home/Away": 1.04,
+          "Draw/Away": 1.01
+        }
+      }
+    },
+    {
+      "fixture_id": 1321351,
+      "league_id": 35,
+      "league": "Asian Cup - Qualification",
+      "kickoff_local": "2025-11-19T23:00:00+11:00",
+      "kickoff_utc": "2025-11-19T12:00:00+00:00",
+      "home": "Laos",
+      "away": "Vietnam",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 32.0,
+          "Draw": 8.9,
+          "Away": 1.06
+        },
+        "ou_2_5": {
+          "over": 2.45,
+          "under": 1.48
+        }
+      }
+    },
+    {
+      "fixture_id": 1468980,
+      "league_id": 1140,
+      "league": "AFC Women's Champions League",
+      "kickoff_local": "2025-11-19T23:00:00+11:00",
+      "kickoff_utc": "2025-11-19T12:00:00+00:00",
+      "home": "Melbourne City W",
+      "away": "Hồ Chí Minh City W",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 1.13,
+          "Draw": 6.8,
+          "Away": 13.0
+        },
+        "ou_2_5": {
+          "over": 2.38,
+          "under": 1.53
+        },
+        "dc": {
+          "Home/Draw": 1.01,
+          "Home/Away": 1.03,
+          "Draw/Away": 4.33
+        }
+      }
+    },
+    {
+      "fixture_id": 1470503,
+      "league_id": 275,
+      "league": "Liga 2",
+      "kickoff_local": "2025-11-19T23:00:00+11:00",
+      "kickoff_utc": "2025-11-19T12:00:00+00:00",
+      "home": "PSMS Medan",
+      "away": "PSPS",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1471046,
+      "league_id": 756,
+      "league": "Cup",
+      "kickoff_local": "2025-11-19T23:00:00+11:00",
+      "kickoff_utc": "2025-11-19T12:00:00+00:00",
+      "home": "Shkendija",
+      "away": "Tikveš",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 1.36,
+          "Draw": 4.5,
+          "Away": 6.0
+        },
+        "ou_2_5": {
+          "over": 5.5,
+          "under": 1.12
+        },
+        "dc": {
+          "Home/Draw": 1.07,
+          "Home/Away": 1.18,
+          "Draw/Away": 2.9
+        }
+      }
+    },
+    {
+      "fixture_id": 1482092,
+      "league_id": 707,
+      "league": "Cup",
+      "kickoff_local": "2025-11-19T23:00:00+11:00",
+      "kickoff_utc": "2025-11-19T12:00:00+00:00",
+      "home": "Apolonia Fier",
+      "away": "Lushnja",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 1.7,
+          "Draw": 3.4,
+          "Away": 4.33
+        },
+        "ou_2_5": {
+          "over": 10.0,
+          "under": 1.05
+        },
+        "dc": {
+          "Home/Draw": 1.15,
+          "Home/Away": 1.33,
+          "Draw/Away": 2.0
+        }
+      }
+    },
+    {
+      "fixture_id": 1482093,
+      "league_id": 707,
+      "league": "Cup",
+      "kickoff_local": "2025-11-19T23:00:00+11:00",
+      "kickoff_utc": "2025-11-19T12:00:00+00:00",
+      "home": "Besa Kavajë",
+      "away": "FK Kukesi",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 1.12,
+          "Draw": 6.0,
+          "Away": 15.0
+        },
+        "ou_2_5": {
+          "over": 4.8,
+          "under": 1.15
+        },
+        "dc": {
+          "Home/Draw": 1.02,
+          "Home/Away": 1.08,
+          "Draw/Away": 5.5
+        }
+      }
+    },
+    {
+      "fixture_id": 1482094,
+      "league_id": 707,
+      "league": "Cup",
+      "kickoff_local": "2025-11-19T23:00:00+11:00",
+      "kickoff_utc": "2025-11-19T12:00:00+00:00",
+      "home": "Burreli",
+      "away": "Kastrioti Krujë",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 1.53,
+          "Draw": 3.8,
+          "Away": 5.0
+        },
+        "ou_2_5": {
+          "over": 7.5,
+          "under": 1.08
+        },
+        "dc": {
+          "Home/Draw": 1.11,
+          "Home/Away": 1.25,
+          "Draw/Away": 2.3
+        }
+      }
+    },
+    {
+      "fixture_id": 1482097,
+      "league_id": 707,
+      "league": "Cup",
+      "kickoff_local": "2025-11-19T23:00:00+11:00",
+      "kickoff_utc": "2025-11-19T12:00:00+00:00",
+      "home": "Pogradeci",
+      "away": "Korabi Peshkopi",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 1.14,
+          "Draw": 6.0,
+          "Away": 13.0
+        },
+        "ou_2_5": {
+          "over": 4.8,
+          "under": 1.15
+        },
+        "dc": {
+          "Home/Draw": 1.02,
+          "Home/Away": 1.08,
+          "Draw/Away": 5.0
+        }
+      }
+    },
+    {
+      "fixture_id": 1482098,
+      "league_id": 707,
+      "league": "Cup",
+      "kickoff_local": "2025-11-19T23:00:00+11:00",
+      "kickoff_utc": "2025-11-19T12:00:00+00:00",
+      "home": "Skenderbeu Korce",
+      "away": "Iliria Fushë-Krujë",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 1.33,
+          "Draw": 4.75,
+          "Away": 6.5
+        },
+        "ou_2_5": {
+          "over": 5.5,
+          "under": 1.11
+        },
+        "dc": {
+          "Home/Draw": 1.06,
+          "Home/Away": 1.17,
+          "Draw/Away": 3.1
+        }
+      }
+    },
+    {
+      "fixture_id": 1482099,
+      "league_id": 707,
+      "league": "Cup",
+      "kickoff_local": "2025-11-19T23:00:00+11:00",
+      "kickoff_utc": "2025-11-19T12:00:00+00:00",
+      "home": "Vora",
+      "away": "Sopoti Librazhd",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1483113,
+      "league_id": 424,
+      "league": "Ligue 1",
+      "kickoff_local": "2025-11-19T23:00:00+11:00",
+      "kickoff_utc": "2025-11-19T12:00:00+00:00",
+      "home": "Renaissance",
+      "away": "FC MK",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1483848,
+      "league_id": 680,
+      "league": "Cup",
+      "kickoff_local": "2025-11-19T23:00:00+11:00",
+      "kickoff_utc": "2025-11-19T12:00:00+00:00",
+      "home": "Fiľakovo",
+      "away": "AS Trencin",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 17.0,
+          "Draw": 6.0,
+          "Away": 1.15
+        },
+        "ou_2_5": {
+          "over": 4.4,
+          "under": 1.18
+        },
+        "dc": {
+          "Home/Draw": 4.8,
+          "Home/Away": 1.11,
+          "Draw/Away": 1.02
+        }
+      }
+    },
+    {
+      "fixture_id": 1484330,
+      "league_id": 732,
+      "league": "Cup",
+      "kickoff_local": "2025-11-19T23:00:00+11:00",
+      "kickoff_utc": "2025-11-19T12:00:00+00:00",
+      "home": "Sloven Ruma",
+      "away": "FK Crvena Zvezda",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1485635,
+      "league_id": 375,
+      "league": "Cup",
+      "kickoff_local": "2025-11-19T23:00:00+11:00",
+      "kickoff_utc": "2025-11-19T12:00:00+00:00",
+      "home": "Dekani",
+      "away": "Malečnik",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1365389,
+      "league_id": 391,
+      "league": "Super League",
+      "kickoff_local": "2025-11-19T23:30:00+11:00",
+      "kickoff_utc": "2025-11-19T12:30:00+00:00",
+      "home": "Creck",
+      "away": "Karonga United",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1365395,
+      "league_id": 391,
+      "league": "Super League",
+      "kickoff_local": "2025-11-19T23:30:00+11:00",
+      "kickoff_utc": "2025-11-19T12:30:00+00:00",
+      "home": "Mighty Tigers",
+      "away": "Kamuzu Barracks",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1365444,
+      "league_id": 391,
+      "league": "Super League",
+      "kickoff_local": "2025-11-19T23:30:00+11:00",
+      "kickoff_utc": "2025-11-19T12:30:00+00:00",
+      "home": "Songwe Border United",
+      "away": "Ekwendeni Hammers",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1366131,
+      "league_id": 391,
+      "league": "Super League",
+      "kickoff_local": "2025-11-19T23:30:00+11:00",
+      "kickoff_utc": "2025-11-19T12:30:00+00:00",
+      "home": "MAFCO",
+      "away": "Blue Eagles",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1421111,
+      "league_id": 685,
+      "league": "3. liga - CFL B",
+      "kickoff_local": "2025-11-19T23:30:00+11:00",
+      "kickoff_utc": "2025-11-19T12:30:00+00:00",
+      "home": "Sokol Zápy",
+      "away": "Velké Hamry",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 1.44,
+          "Draw": 4.0,
+          "Away": 5.5
+        },
+        "ou_2_5": {
+          "over": 5.0,
+          "under": 1.15
+        },
+        "dc": {
+          "Home/Draw": 1.12,
+          "Home/Away": 1.22,
+          "Draw/Away": 2.45
+        }
+      }
+    },
+    {
+      "fixture_id": 1476704,
+      "league_id": 585,
+      "league": "Premier League",
+      "kickoff_local": "2025-11-20T00:00:00+11:00",
+      "kickoff_utc": "2025-11-19T13:00:00+00:00",
+      "home": "Calvary",
+      "away": "UPDF",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1476763,
+      "league_id": 585,
+      "league": "Premier League",
+      "kickoff_local": "2025-11-20T00:00:00+11:00",
+      "kickoff_utc": "2025-11-19T13:00:00+00:00",
+      "home": "Entebbe UPPC",
+      "away": "Police",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1483145,
+      "league_id": 424,
+      "league": "Ligue 1",
+      "kickoff_local": "2025-11-20T00:00:00+11:00",
+      "kickoff_utc": "2025-11-19T13:00:00+00:00",
+      "home": "AS New Soger",
+      "away": "Groupe Bazano",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1483204,
+      "league_id": 424,
+      "league": "Ligue 1",
+      "kickoff_local": "2025-11-20T00:00:00+11:00",
+      "kickoff_utc": "2025-11-19T13:00:00+00:00",
+      "home": "Etoile de Kivu",
+      "away": "Bukavu Dawa",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1483899,
+      "league_id": 847,
+      "league": "Premier League",
+      "kickoff_local": "2025-11-20T00:00:00+11:00",
+      "kickoff_utc": "2025-11-19T13:00:00+00:00",
+      "home": "Malanti Chiefs",
+      "away": "Nsingizini Hotspurs",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1483900,
+      "league_id": 847,
+      "league": "Premier League",
+      "kickoff_local": "2025-11-20T00:00:00+11:00",
+      "kickoff_utc": "2025-11-19T13:00:00+00:00",
+      "home": "Tabankulu",
+      "away": "Young Buffaloes",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1485767,
+      "league_id": 187,
+      "league": "Ligue 2",
+      "kickoff_local": "2025-11-20T00:00:00+11:00",
+      "kickoff_utc": "2025-11-19T13:00:00+00:00",
+      "home": "IB Khémis El Khechna",
+      "away": "Khroub",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1486046,
+      "league_id": 424,
+      "league": "Ligue 1",
+      "kickoff_local": "2025-11-20T00:00:00+11:00",
+      "kickoff_utc": "2025-11-19T13:00:00+00:00",
+      "home": "Saint-Luc",
+      "away": "Blessing",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1483283,
+      "league_id": 892,
+      "league": "Coppa Italia Serie D",
+      "kickoff_local": "2025-11-20T00:30:00+11:00",
+      "kickoff_utc": "2025-11-19T13:30:00+00:00",
+      "home": "Asti",
+      "away": "Pistoiese",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 3.9,
+          "Draw": 3.1,
+          "Away": 1.83
+        },
+        "ou_2_5": {
+          "over": 6.5,
+          "under": 1.08
+        },
+        "dc": {
+          "Home/Draw": 1.85,
+          "Home/Away": 1.3,
+          "Draw/Away": 1.2
+        }
+      }
+    },
+    {
+      "fixture_id": 1483284,
+      "league_id": 892,
+      "league": "Coppa Italia Serie D",
+      "kickoff_local": "2025-11-20T00:30:00+11:00",
+      "kickoff_utc": "2025-11-19T13:30:00+00:00",
+      "home": "Francavilla",
+      "away": "Città di Fasano",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1483285,
+      "league_id": 892,
+      "league": "Coppa Italia Serie D",
+      "kickoff_local": "2025-11-20T00:30:00+11:00",
+      "kickoff_utc": "2025-11-19T13:30:00+00:00",
+      "home": "Piacenza",
+      "away": "Correggese",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1483286,
+      "league_id": 892,
+      "league": "Coppa Italia Serie D",
+      "kickoff_local": "2025-11-20T00:30:00+11:00",
+      "kickoff_utc": "2025-11-19T13:30:00+00:00",
+      "home": "Nocerina",
+      "away": "CastrumFavara",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1483287,
+      "league_id": 892,
+      "league": "Coppa Italia Serie D",
+      "kickoff_local": "2025-11-20T00:30:00+11:00",
+      "kickoff_utc": "2025-11-19T13:30:00+00:00",
+      "home": "Notaresco",
+      "away": "Unipomezia",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1483288,
+      "league_id": 892,
+      "league": "Coppa Italia Serie D",
+      "kickoff_local": "2025-11-20T00:30:00+11:00",
+      "kickoff_utc": "2025-11-19T13:30:00+00:00",
+      "home": "Ancona",
+      "away": "Valmontone",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1485538,
+      "league_id": 892,
+      "league": "Coppa Italia Serie D",
+      "kickoff_local": "2025-11-20T00:30:00+11:00",
+      "kickoff_utc": "2025-11-19T13:30:00+00:00",
+      "home": "Club Milano",
+      "away": "Varesina",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 2.15,
+          "Draw": 2.9,
+          "Away": 3.2
+        },
+        "ou_2_5": {
+          "over": 8.0,
+          "under": 1.07
+        },
+        "dc": {
+          "Home/Draw": 1.3,
+          "Home/Away": 1.36,
+          "Draw/Away": 1.62
+        }
+      }
+    },
+    {
+      "fixture_id": 1481752,
+      "league_id": 847,
+      "league": "Premier League",
+      "kickoff_local": "2025-11-20T01:00:00+11:00",
+      "kickoff_utc": "2025-11-19T14:00:00+00:00",
+      "home": "Ezulwini United",
+      "away": "Royal Leopards",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1483114,
+      "league_id": 424,
+      "league": "Ligue 1",
+      "kickoff_local": "2025-11-20T01:00:00+11:00",
+      "kickoff_utc": "2025-11-19T14:00:00+00:00",
+      "home": "Vita Club",
+      "away": "Rangers",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1483115,
+      "league_id": 424,
+      "league": "Ligue 1",
+      "kickoff_local": "2025-11-20T01:00:00+11:00",
+      "kickoff_utc": "2025-11-19T14:00:00+00:00",
+      "home": "Don Bosco",
+      "away": "TP Mazembe",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1485633,
+      "league_id": 375,
+      "league": "Cup",
+      "kickoff_local": "2025-11-20T01:00:00+11:00",
+      "kickoff_utc": "2025-11-19T14:00:00+00:00",
+      "home": "Fužinar",
+      "away": "Rače",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 2.5,
+          "Draw": 3.3,
+          "Away": 2.3
+        },
+        "ou_2_5": {
+          "over": 5.5,
+          "under": 1.12
+        },
+        "dc": {
+          "Home/Draw": 1.5,
+          "Home/Away": 1.29,
+          "Draw/Away": 1.44
+        }
+      }
+    },
+    {
+      "fixture_id": 1423928,
+      "league_id": 701,
+      "league": "Liga Revelação U23",
+      "kickoff_local": "2025-11-20T02:00:00+11:00",
+      "kickoff_utc": "2025-11-19T15:00:00+00:00",
+      "home": "Farense U23",
+      "away": "Estrela U23",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 2.05,
+          "Draw": 3.35,
+          "Away": 3.1
+        },
+        "ou_2_5": {
+          "over": 1.8,
+          "under": 1.95
+        },
+        "dc": {
+          "Home/Draw": 1.28,
+          "Home/Away": 1.25,
+          "Draw/Away": 1.67
+        }
+      }
+    }
+  ]
 }
