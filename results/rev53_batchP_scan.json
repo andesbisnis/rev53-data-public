@@ -1,208 +1,8 @@
 {
-  "generated_at_utc": "2025-11-19T14:43:06.797171+00:00",
+  "generated_at_utc": "2025-11-19T15:43:07.954718+00:00",
   "window_hours": 36,
   "max_fixtures": 60,
   "fixtures": [
-    {
-      "fixture_id": 1423928,
-      "league_id": 701,
-      "league": "Liga Revelação U23",
-      "kickoff_local": "2025-11-20T02:00:00+11:00",
-      "kickoff_utc": "2025-11-19T15:00:00+00:00",
-      "home": "Farense U23",
-      "away": "Estrela U23",
-      "status": "NS",
-      "markets": {
-        "1x2": {
-          "Home": 1.95,
-          "Draw": 3.35,
-          "Away": 3.45
-        },
-        "ou_2_5": {
-          "over": 1.7,
-          "under": 2.1
-        },
-        "dc": {
-          "Home/Draw": 1.25,
-          "Home/Away": 1.25,
-          "Draw/Away": 1.77
-        }
-      }
-    },
-    {
-      "fixture_id": 1445617,
-      "league_id": 399,
-      "league": "NPFL",
-      "kickoff_local": "2025-11-20T02:00:00+11:00",
-      "kickoff_utc": "2025-11-19T15:00:00+00:00",
-      "home": "Remo Stars",
-      "away": "Kano Pillars",
-      "status": "NS",
-      "markets": {
-        "1x2": {
-          "Home": 1.5,
-          "Draw": 3.4,
-          "Away": 6.25
-        },
-        "ou_2_5": {
-          "over": 2.1,
-          "under": 1.55
-        },
-        "dc": {
-          "Home/Draw": 1.06,
-          "Home/Away": 1.22,
-          "Draw/Away": 2.4
-        }
-      }
-    },
-    {
-      "fixture_id": 1468522,
-      "league_id": 570,
-      "league": "Premier League",
-      "kickoff_local": "2025-11-20T02:00:00+11:00",
-      "kickoff_utc": "2025-11-19T15:00:00+00:00",
-      "home": "Asante Kotoko",
-      "away": "Young Apostles",
-      "status": "NS",
-      "markets": {
-        "1x2": {
-          "Home": 1.33,
-          "Draw": 3.8,
-          "Away": 10.0
-        },
-        "ou_2_5": {
-          "over": 2.2,
-          "under": 1.5
-        },
-        "dc": {
-          "Home/Draw": 1.02,
-          "Home/Away": 1.18,
-          "Draw/Away": 3.1
-        }
-      }
-    },
-    {
-      "fixture_id": 1475027,
-      "league_id": 412,
-      "league": "Premier League",
-      "kickoff_local": "2025-11-20T02:00:00+11:00",
-      "kickoff_utc": "2025-11-19T15:00:00+00:00",
-      "home": "Galaxy",
-      "away": "Centre Chiefs",
-      "status": "NS"
-    },
-    {
-      "fixture_id": 1484879,
-      "league_id": 1033,
-      "league": "Ekstraliga Women",
-      "kickoff_local": "2025-11-20T02:00:00+11:00",
-      "kickoff_utc": "2025-11-19T15:00:00+00:00",
-      "home": "GKS Katowice W",
-      "away": "Pogon Tczew W",
-      "status": "NS"
-    },
-    {
-      "fixture_id": 1485945,
-      "league_id": 1200,
-      "league": "Liga MX U21",
-      "kickoff_local": "2025-11-20T02:00:00+11:00",
-      "kickoff_utc": "2025-11-19T15:00:00+00:00",
-      "home": "Guadalajara Chivas U21",
-      "away": "Tigres UANL U21",
-      "status": "NS"
-    },
-    {
-      "fixture_id": 1485947,
-      "league_id": 1200,
-      "league": "Liga MX U21",
-      "kickoff_local": "2025-11-20T02:00:00+11:00",
-      "kickoff_utc": "2025-11-19T15:00:00+00:00",
-      "home": "Toluca U21",
-      "away": "Cruz Azul U21",
-      "status": "NS",
-      "markets": {
-        "1x2": {
-          "Home": 2.2,
-          "Draw": 3.1,
-          "Away": 2.9
-        },
-        "ou_2_5": {
-          "over": 6.5,
-          "under": 1.1
-        },
-        "dc": {
-          "Home/Draw": 1.36,
-          "Home/Away": 1.3,
-          "Draw/Away": 1.6
-        }
-      }
-    },
-    {
-      "fixture_id": 1485948,
-      "league_id": 1200,
-      "league": "Liga MX U21",
-      "kickoff_local": "2025-11-20T02:00:00+11:00",
-      "kickoff_utc": "2025-11-19T15:00:00+00:00",
-      "home": "UNAM Pumas U21",
-      "away": "Pachuca U21",
-      "status": "NS",
-      "markets": {
-        "1x2": {
-          "Home": 2.9,
-          "Draw": 3.25,
-          "Away": 2.1
-        },
-        "ou_2_5": {
-          "over": 6.0,
-          "under": 1.1
-        },
-        "dc": {
-          "Home/Draw": 1.65,
-          "Home/Away": 1.3,
-          "Draw/Away": 1.35
-        }
-      }
-    },
-    {
-      "fixture_id": 1487249,
-      "league_id": 415,
-      "league": "Championnat National",
-      "kickoff_local": "2025-11-20T02:00:00+11:00",
-      "kickoff_utc": "2025-11-19T15:00:00+00:00",
-      "home": "Damissa",
-      "away": "Coton Sport Ouidah",
-      "status": "NS"
-    },
-    {
-      "fixture_id": 1469321,
-      "league_id": 423,
-      "league": "Ligue 1",
-      "kickoff_local": "2025-11-20T02:30:00+11:00",
-      "kickoff_utc": "2025-11-19T15:30:00+00:00",
-      "home": "Rahimo",
-      "away": "USFA",
-      "status": "NS"
-    },
-    {
-      "fixture_id": 1485659,
-      "league_id": 386,
-      "league": "Ligue 1",
-      "kickoff_local": "2025-11-20T02:30:00+11:00",
-      "kickoff_utc": "2025-11-19T15:30:00+00:00",
-      "home": "ES Agboville",
-      "away": "Stade d'Abidjan",
-      "status": "NS"
-    },
-    {
-      "fixture_id": 1486880,
-      "league_id": 915,
-      "league": "1. Division Women",
-      "kickoff_local": "2025-11-20T02:30:00+11:00",
-      "kickoff_utc": "2025-11-19T15:30:00+00:00",
-      "home": "Bryne W",
-      "away": "KIL / Hemne W",
-      "status": "NS"
-    },
     {
       "fixture_id": 1433194,
       "league_id": 879,
@@ -240,16 +40,16 @@
       "status": "NS",
       "markets": {
         "1x2": {
-          "Home": 12.0,
+          "Home": 11.0,
           "Draw": 5.5,
           "Away": 1.2
         },
         "ou_2_5": {
-          "over": 1.62,
-          "under": 2.2
+          "over": 1.55,
+          "under": 2.35
         },
         "dc": {
-          "Home/Draw": 4.2,
+          "Home/Draw": 4.0,
           "Home/Away": 1.07,
           "Draw/Away": 1.01
         }
@@ -348,18 +148,18 @@
       "status": "NS",
       "markets": {
         "1x2": {
-          "Home": 2.1,
+          "Home": 2.05,
           "Draw": 3.35,
-          "Away": 2.9
+          "Away": 3.0
         },
         "ou_2_5": {
           "over": 1.73,
           "under": 1.85
         },
         "dc": {
-          "Home/Draw": 1.3,
+          "Home/Draw": 1.28,
           "Home/Away": 1.25,
-          "Draw/Away": 1.65
+          "Draw/Away": 1.7
         }
       }
     },
@@ -536,18 +336,18 @@
       "status": "NS",
       "markets": {
         "1x2": {
-          "Home": 2.5,
-          "Draw": 3.5,
-          "Away": 2.6
+          "Home": 2.32,
+          "Draw": 3.7,
+          "Away": 2.72
         },
         "ou_2_5": {
-          "over": 1.62,
-          "under": 2.25
+          "over": 1.57,
+          "under": 2.35
         },
         "dc": {
-          "Home/Draw": 1.48,
-          "Home/Away": 1.25,
-          "Draw/Away": 1.5
+          "Home/Draw": 1.44,
+          "Home/Away": 1.22,
+          "Draw/Away": 1.57
         }
       }
     },
@@ -722,18 +522,18 @@
       "status": "NS",
       "markets": {
         "1x2": {
-          "Home": 3.5,
-          "Draw": 3.65,
-          "Away": 1.77
+          "Home": 3.1,
+          "Draw": 3.6,
+          "Away": 1.91
         },
         "ou_2_5": {
           "over": 1.5,
           "under": 2.2
         },
         "dc": {
-          "Home/Draw": 1.93,
+          "Home/Draw": 1.8,
           "Home/Away": 1.2,
-          "Draw/Away": 1.25
+          "Draw/Away": 1.3
         }
       }
     },
@@ -794,7 +594,7 @@
         },
         "dc": {
           "Home/Draw": 1.2,
-          "Home/Away": 1.2,
+          "Home/Away": 1.22,
           "Draw/Away": 1.93
         }
       }
@@ -934,18 +734,18 @@
       "status": "NS",
       "markets": {
         "1x2": {
-          "Home": 1.55,
+          "Home": 1.53,
           "Draw": 4.33,
-          "Away": 5.2
+          "Away": 5.4
         },
         "ou_2_5": {
-          "over": 1.53,
-          "under": 2.45
+          "over": 1.5,
+          "under": 2.55
         },
         "dc": {
           "Home/Draw": 1.15,
           "Home/Away": 1.17,
-          "Draw/Away": 2.38
+          "Draw/Away": 2.4
         }
       }
     },
@@ -1064,18 +864,18 @@
       "status": "NS",
       "markets": {
         "1x2": {
-          "Home": 2.5,
-          "Draw": 3.1,
-          "Away": 2.7
+          "Home": 2.95,
+          "Draw": 3.0,
+          "Away": 2.35
         },
         "ou_2_5": {
-          "over": 2.15,
-          "under": 1.65
+          "over": 2.2,
+          "under": 1.62
         },
         "dc": {
-          "Home/Draw": 1.38,
+          "Home/Draw": 1.5,
           "Home/Away": 1.3,
-          "Draw/Away": 1.48
+          "Draw/Away": 1.36
         }
       }
     },
@@ -1164,6 +964,278 @@
           "Home/Draw": 1.06,
           "Home/Away": 1.1,
           "Draw/Away": 2.88
+        }
+      }
+    },
+    {
+      "fixture_id": 1483551,
+      "league_id": 591,
+      "league": "Pro League",
+      "kickoff_local": "2025-11-20T08:00:00+11:00",
+      "kickoff_utc": "2025-11-19T21:00:00+00:00",
+      "home": "Defence Force",
+      "away": "Point Fortin",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 1.07,
+          "Draw": 8.0,
+          "Away": 17.0
+        },
+        "dc": {
+          "Home/Draw": 1.01,
+          "Home/Away": 1.04,
+          "Draw/Away": 4.0
+        }
+      }
+    },
+    {
+      "fixture_id": 1353631,
+      "league_id": 72,
+      "league": "Serie B",
+      "kickoff_local": "2025-11-20T09:30:00+11:00",
+      "kickoff_utc": "2025-11-19T22:30:00+00:00",
+      "home": "Vila Nova",
+      "away": "Volta Redonda",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 1.97,
+          "Draw": 3.15,
+          "Away": 4.1
+        },
+        "ou_2_5": {
+          "over": 2.45,
+          "under": 1.53
+        },
+        "dc": {
+          "Home/Draw": 1.22,
+          "Home/Away": 1.3,
+          "Draw/Away": 1.8
+        }
+      }
+    },
+    {
+      "fixture_id": 1478044,
+      "league_id": 71,
+      "league": "Serie A",
+      "kickoff_local": "2025-11-20T09:30:00+11:00",
+      "kickoff_utc": "2025-11-19T22:30:00+00:00",
+      "home": "Palmeiras",
+      "away": "Vitoria",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 1.3,
+          "Draw": 5.1,
+          "Away": 10.75
+        },
+        "ou_2_5": {
+          "over": 3.7,
+          "under": 1.22
+        },
+        "dc": {
+          "Home/Draw": 1.05,
+          "Home/Away": 1.15,
+          "Draw/Away": 3.4
+        }
+      }
+    },
+    {
+      "fixture_id": 1486077,
+      "league_id": 265,
+      "league": "Primera División",
+      "kickoff_local": "2025-11-20T10:00:00+11:00",
+      "kickoff_utc": "2025-11-19T23:00:00+00:00",
+      "home": "Santiago Wanderers",
+      "away": "Cobreloa",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 2.45,
+          "Draw": 3.2,
+          "Away": 2.62
+        },
+        "ou_2_5": {
+          "over": 1.93,
+          "under": 1.8
+        },
+        "dc": {
+          "Home/Draw": 1.4,
+          "Home/Away": 1.25,
+          "Draw/Away": 1.5
+        }
+      }
+    },
+    {
+      "fixture_id": 1486285,
+      "league_id": 1115,
+      "league": "Paraense A3",
+      "kickoff_local": "2025-11-20T10:00:00+11:00",
+      "kickoff_utc": "2025-11-19T23:00:00+00:00",
+      "home": "Atletico Paraense",
+      "away": "Gavião",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1486330,
+      "league_id": 906,
+      "league": "Reserve League",
+      "kickoff_local": "2025-11-20T10:00:00+11:00",
+      "kickoff_utc": "2025-11-19T23:00:00+00:00",
+      "home": "Boca Juniors Res.",
+      "away": "Instituto Res.",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 1.95,
+          "Draw": 2.88,
+          "Away": 3.9
+        },
+        "dc": {
+          "Home/Draw": 1.18,
+          "Home/Away": 1.3,
+          "Draw/Away": 1.77
+        }
+      }
+    },
+    {
+      "fixture_id": 1486380,
+      "league_id": 964,
+      "league": "Copa de la División Profesional",
+      "kickoff_local": "2025-11-20T10:00:00+11:00",
+      "kickoff_utc": "2025-11-19T23:00:00+00:00",
+      "home": "San Antonio Bulo Bulo",
+      "away": "Bolívar",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 3.1,
+          "Draw": 3.45,
+          "Away": 2.05
+        },
+        "ou_2_5": {
+          "over": 1.65,
+          "under": 2.15
+        },
+        "dc": {
+          "Home/Draw": 1.62,
+          "Home/Away": 1.22,
+          "Draw/Away": 1.33
+        }
+      }
+    },
+    {
+      "fixture_id": 1486339,
+      "league_id": 239,
+      "league": "Primera A",
+      "kickoff_local": "2025-11-20T10:30:00+11:00",
+      "kickoff_utc": "2025-11-19T23:30:00+00:00",
+      "home": "Bucaramanga",
+      "away": "Santa Fe",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 1.98,
+          "Draw": 3.2,
+          "Away": 4.2
+        },
+        "ou_2_5": {
+          "over": 6.0,
+          "under": 1.09
+        },
+        "dc": {
+          "Home/Draw": 1.22,
+          "Home/Away": 1.3,
+          "Draw/Away": 1.8
+        }
+      }
+    },
+    {
+      "fixture_id": 1487209,
+      "league_id": 666,
+      "league": "Friendlies Women",
+      "kickoff_local": "2025-11-20T11:00:00+11:00",
+      "kickoff_utc": "2025-11-20T00:00:00+00:00",
+      "home": "Papua New Guinea W",
+      "away": "Solomon Islands W",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1478013,
+      "league_id": 71,
+      "league": "Serie A",
+      "kickoff_local": "2025-11-20T11:30:00+11:00",
+      "kickoff_utc": "2025-11-20T00:30:00+00:00",
+      "home": "Fluminense",
+      "away": "Flamengo",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 3.6,
+          "Draw": 3.1,
+          "Away": 2.18
+        },
+        "ou_2_5": {
+          "over": 6.25,
+          "under": 1.08
+        },
+        "dc": {
+          "Home/Draw": 1.67,
+          "Home/Away": 1.33,
+          "Draw/Away": 1.25
+        }
+      }
+    },
+    {
+      "fixture_id": 1478014,
+      "league_id": 71,
+      "league": "Serie A",
+      "kickoff_local": "2025-11-20T11:30:00+11:00",
+      "kickoff_utc": "2025-11-20T00:30:00+00:00",
+      "home": "Gremio",
+      "away": "Vasco DA Gama",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 2.14,
+          "Draw": 3.3,
+          "Away": 3.5
+        },
+        "ou_2_5": {
+          "over": 4.75,
+          "under": 1.15
+        },
+        "dc": {
+          "Home/Draw": 1.3,
+          "Home/Away": 1.28,
+          "Draw/Away": 1.67
+        }
+      }
+    },
+    {
+      "fixture_id": 1478016,
+      "league_id": 71,
+      "league": "Serie A",
+      "kickoff_local": "2025-11-20T11:30:00+11:00",
+      "kickoff_utc": "2025-11-20T00:30:00+00:00",
+      "home": "Santos",
+      "away": "Mirassol",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 2.02,
+          "Draw": 3.4,
+          "Away": 3.7
+        },
+        "ou_2_5": {
+          "over": 4.5,
+          "under": 1.17
+        },
+        "dc": {
+          "Home/Draw": 1.25,
+          "Home/Away": 1.25,
+          "Draw/Away": 1.77
         }
       }
     }
