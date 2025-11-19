@@ -1,9 +1,81 @@
 {
-  "timestamp": "2025-11-20T06:03:23.114559+11:00",
+  "timestamp": "2025-11-20T07:03:23.064427+11:00",
   "payload": {
     "status": "ok",
     "count": 80,
     "sample": [
+      {
+        "fixture_id": 1472405,
+        "league_id": 525,
+        "league": "UEFA Champions League Women",
+        "kickoff_local": "2025-11-20T04:45:00+11:00",
+        "kickoff_utc": "2025-11-19T17:45:00+00:00",
+        "home": "Juventus W",
+        "away": "Lyon W",
+        "status": "FT",
+        "ft": "3-3",
+        "result_1x2": "X"
+      },
+      {
+        "fixture_id": 1472406,
+        "league_id": 525,
+        "league": "UEFA Champions League Women",
+        "kickoff_local": "2025-11-20T04:45:00+11:00",
+        "kickoff_utc": "2025-11-19T17:45:00+00:00",
+        "home": "VfL Wolfsburg W",
+        "away": "Manchester United W",
+        "status": "FT",
+        "ft": "5-2",
+        "result_1x2": "1"
+      },
+      {
+        "fixture_id": 1436396,
+        "league_id": 733,
+        "league": "I Liga - Women",
+        "kickoff_local": "2025-11-20T04:30:00+11:00",
+        "kickoff_utc": "2025-11-19T17:30:00+00:00",
+        "home": "Slovan Bratislava W",
+        "away": "Spartak Myjava W",
+        "status": "FT",
+        "ft": "1-1",
+        "result_1x2": "X"
+      },
+      {
+        "fixture_id": 1482373,
+        "league_id": 1191,
+        "league": "UEFA Europa Cup - Women",
+        "kickoff_local": "2025-11-20T04:30:00+11:00",
+        "kickoff_utc": "2025-11-19T17:30:00+00:00",
+        "home": "Inter Milano W",
+        "away": "Häcken",
+        "status": "FT",
+        "ft": "0-0",
+        "result_1x2": "X"
+      },
+      {
+        "fixture_id": 1485539,
+        "league_id": 892,
+        "league": "Coppa Italia Serie D",
+        "kickoff_local": "2025-11-20T04:30:00+11:00",
+        "kickoff_utc": "2025-11-19T17:30:00+00:00",
+        "home": "Este",
+        "away": "Mestre",
+        "status": "PEN",
+        "ft": "1-1",
+        "result_1x2": "X"
+      },
+      {
+        "fixture_id": 1482371,
+        "league_id": 1191,
+        "league": "UEFA Europa Cup - Women",
+        "kickoff_local": "2025-11-20T04:00:00+11:00",
+        "kickoff_utc": "2025-11-19T17:00:00+00:00",
+        "home": "Fortuna Hjørring",
+        "away": "Breidablik W",
+        "status": "AET",
+        "ft": "2-4",
+        "result_1x2": "2"
+      },
       {
         "fixture_id": 1482374,
         "league_id": 1191,
@@ -422,18 +494,6 @@
         "away": "Groupe Bazano",
         "status": "FT",
         "ft": "2-0",
-        "result_1x2": "1"
-      },
-      {
-        "fixture_id": 1483204,
-        "league_id": 424,
-        "league": "Ligue 1",
-        "kickoff_local": "2025-11-20T00:00:00+11:00",
-        "kickoff_utc": "2025-11-19T13:00:00+00:00",
-        "home": "Etoile de Kivu",
-        "away": "Bukavu Dawa",
-        "status": "FT",
-        "ft": "3-1",
         "result_1x2": "1"
       },
       {
@@ -903,66 +963,6 @@
         "status": "FT",
         "ft": "3-0",
         "result_1x2": "1"
-      },
-      {
-        "fixture_id": 1397468,
-        "league_id": 31,
-        "league": "World Cup - Qualification CONCACAF",
-        "kickoff_local": "2025-11-19T12:00:00+11:00",
-        "kickoff_utc": "2025-11-19T01:00:00+00:00",
-        "home": "Guatemala",
-        "away": "Suriname",
-        "status": "FT",
-        "ft": "3-1",
-        "result_1x2": "1"
-      },
-      {
-        "fixture_id": 1397470,
-        "league_id": 31,
-        "league": "World Cup - Qualification CONCACAF",
-        "kickoff_local": "2025-11-19T12:00:00+11:00",
-        "kickoff_utc": "2025-11-19T01:00:00+00:00",
-        "home": "Trinidad and Tobago",
-        "away": "Bermuda",
-        "status": "FT",
-        "ft": "2-2",
-        "result_1x2": "X"
-      },
-      {
-        "fixture_id": 1397471,
-        "league_id": 31,
-        "league": "World Cup - Qualification CONCACAF",
-        "kickoff_local": "2025-11-19T12:00:00+11:00",
-        "kickoff_utc": "2025-11-19T01:00:00+00:00",
-        "home": "Costa Rica",
-        "away": "Honduras",
-        "status": "FT",
-        "ft": "0-0",
-        "result_1x2": "X"
-      },
-      {
-        "fixture_id": 1397472,
-        "league_id": 31,
-        "league": "World Cup - Qualification CONCACAF",
-        "kickoff_local": "2025-11-19T12:00:00+11:00",
-        "kickoff_utc": "2025-11-19T01:00:00+00:00",
-        "home": "Haiti",
-        "away": "Nicaragua",
-        "status": "FT",
-        "ft": "2-0",
-        "result_1x2": "1"
-      },
-      {
-        "fixture_id": 1453336,
-        "league_id": 31,
-        "league": "World Cup - Qualification CONCACAF",
-        "kickoff_local": "2025-11-19T12:00:00+11:00",
-        "kickoff_utc": "2025-11-19T01:00:00+00:00",
-        "home": "Jamaica",
-        "away": "Curaçao",
-        "status": "FT",
-        "ft": "0-0",
-        "result_1x2": "X"
       }
     ]
   },
