@@ -1,9 +1,93 @@
 {
-  "timestamp": "2025-11-20T07:03:23.064427+11:00",
+  "timestamp": "2025-11-20T08:03:23.044471+11:00",
   "payload": {
     "status": "ok",
     "count": 80,
     "sample": [
+      {
+        "fixture_id": 1430279,
+        "league_id": 599,
+        "league": "1. Liga Classic - Group 1",
+        "kickoff_local": "2025-11-20T06:00:00+11:00",
+        "kickoff_utc": "2025-11-19T19:00:00+00:00",
+        "home": "La Sarraz-Eclépens",
+        "away": "Sion II",
+        "status": "FT",
+        "ft": "2-2",
+        "result_1x2": "X"
+      },
+      {
+        "fixture_id": 1486379,
+        "league_id": 964,
+        "league": "Copa de la División Profesional",
+        "kickoff_local": "2025-11-20T06:00:00+11:00",
+        "kickoff_utc": "2025-11-19T19:00:00+00:00",
+        "home": "Blooming",
+        "away": "Real Oruro",
+        "status": "FT",
+        "ft": "2-1",
+        "result_1x2": "1"
+      },
+      {
+        "fixture_id": 1406782,
+        "league_id": 754,
+        "league": "Oberliga - Nordost-Nord",
+        "kickoff_local": "2025-11-20T05:30:00+11:00",
+        "kickoff_utc": "2025-11-19T18:30:00+00:00",
+        "home": "Tennis Borussia",
+        "away": "Hansa Rostock II",
+        "status": "FT",
+        "ft": "4-0",
+        "result_1x2": "1"
+      },
+      {
+        "fixture_id": 1407272,
+        "league_id": 750,
+        "league": "Oberliga - Hessen",
+        "kickoff_local": "2025-11-20T05:30:00+11:00",
+        "kickoff_utc": "2025-11-19T18:30:00+00:00",
+        "home": "Eintracht Stadtallendorf",
+        "away": "Weidenhausen",
+        "status": "FT",
+        "ft": "2-2",
+        "result_1x2": "X"
+      },
+      {
+        "fixture_id": 1482369,
+        "league_id": 1191,
+        "league": "UEFA Europa Cup - Women",
+        "kickoff_local": "2025-11-20T05:30:00+11:00",
+        "kickoff_utc": "2025-11-19T18:30:00+00:00",
+        "home": "Austria Wien W",
+        "away": "Anderlecht W",
+        "status": "FT",
+        "ft": "2-1",
+        "result_1x2": "1"
+      },
+      {
+        "fixture_id": 1485627,
+        "league_id": 617,
+        "league": "Copa do Brasil U20",
+        "kickoff_local": "2025-11-20T05:30:00+11:00",
+        "kickoff_utc": "2025-11-19T18:30:00+00:00",
+        "home": "São Paulo U20",
+        "away": "Fortaleza U20",
+        "status": "FT",
+        "ft": "0-1",
+        "result_1x2": "2"
+      },
+      {
+        "fixture_id": 1485628,
+        "league_id": 617,
+        "league": "Copa do Brasil U20",
+        "kickoff_local": "2025-11-20T05:30:00+11:00",
+        "kickoff_utc": "2025-11-19T18:30:00+00:00",
+        "home": "IAPE U20",
+        "away": "Novorizontino U20",
+        "status": "FT",
+        "ft": "1-0",
+        "result_1x2": "1"
+      },
       {
         "fixture_id": 1472405,
         "league_id": 525,
@@ -497,6 +581,18 @@
         "result_1x2": "1"
       },
       {
+        "fixture_id": 1483204,
+        "league_id": 424,
+        "league": "Ligue 1",
+        "kickoff_local": "2025-11-20T00:00:00+11:00",
+        "kickoff_utc": "2025-11-19T13:00:00+00:00",
+        "home": "Etoile de Kivu",
+        "away": "Bukavu Dawa",
+        "status": "FT",
+        "ft": "3-1",
+        "result_1x2": "1"
+      },
+      {
         "fixture_id": 1483899,
         "league_id": 847,
         "league": "Premier League",
@@ -866,102 +962,6 @@
         "away": "Banants II",
         "status": "FT",
         "ft": "4-0",
-        "result_1x2": "1"
-      },
-      {
-        "fixture_id": 1470608,
-        "league_id": 276,
-        "league": "FKF Premier League",
-        "kickoff_local": "2025-11-19T21:00:00+11:00",
-        "kickoff_utc": "2025-11-19T10:00:00+00:00",
-        "home": "APS Bomet",
-        "away": "Ulinzi Stars",
-        "status": "FT",
-        "ft": "0-1",
-        "result_1x2": "2"
-      },
-      {
-        "fixture_id": 1470501,
-        "league_id": 275,
-        "league": "Liga 2",
-        "kickoff_local": "2025-11-19T19:30:00+11:00",
-        "kickoff_utc": "2025-11-19T08:30:00+00:00",
-        "home": "Persekat",
-        "away": "Garudayaksa",
-        "status": "FT",
-        "ft": "0-0",
-        "result_1x2": "X"
-      },
-      {
-        "fixture_id": 1470502,
-        "league_id": 275,
-        "league": "Liga 2",
-        "kickoff_local": "2025-11-19T19:30:00+11:00",
-        "kickoff_utc": "2025-11-19T08:30:00+00:00",
-        "home": "Sriwijaya FC",
-        "away": "Persikad Depok FC",
-        "status": "FT",
-        "ft": "0-3",
-        "result_1x2": "2"
-      },
-      {
-        "fixture_id": 1468981,
-        "league_id": 1140,
-        "league": "AFC Women's Champions League",
-        "kickoff_local": "2025-11-19T19:00:00+11:00",
-        "kickoff_utc": "2025-11-19T08:00:00+00:00",
-        "home": "Stallion W",
-        "away": "Lion City W",
-        "status": "FT",
-        "ft": "5-0",
-        "result_1x2": "1"
-      },
-      {
-        "fixture_id": 1469294,
-        "league_id": 10,
-        "league": "Friendlies",
-        "kickoff_local": "2025-11-19T12:30:00+11:00",
-        "kickoff_utc": "2025-11-19T01:30:00+00:00",
-        "home": "Ecuador",
-        "away": "New Zealand",
-        "status": "FT",
-        "ft": "2-0",
-        "result_1x2": "1"
-      },
-      {
-        "fixture_id": 1472256,
-        "league_id": 10,
-        "league": "Friendlies",
-        "kickoff_local": "2025-11-19T12:30:00+11:00",
-        "kickoff_utc": "2025-11-19T01:30:00+00:00",
-        "home": "Mexico",
-        "away": "Paraguay",
-        "status": "FT",
-        "ft": "1-2",
-        "result_1x2": "2"
-      },
-      {
-        "fixture_id": 1485025,
-        "league_id": 10,
-        "league": "Friendlies",
-        "kickoff_local": "2025-11-19T12:30:00+11:00",
-        "kickoff_utc": "2025-11-19T01:30:00+00:00",
-        "home": "Colombia",
-        "away": "Australia",
-        "status": "FT",
-        "ft": "3-0",
-        "result_1x2": "1"
-      },
-      {
-        "fixture_id": 1397467,
-        "league_id": 31,
-        "league": "World Cup - Qualification CONCACAF",
-        "kickoff_local": "2025-11-19T12:00:00+11:00",
-        "kickoff_utc": "2025-11-19T01:00:00+00:00",
-        "home": "Panama",
-        "away": "El Salvador",
-        "status": "FT",
-        "ft": "3-0",
         "result_1x2": "1"
       }
     ]
