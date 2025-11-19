@@ -1,237 +1,8 @@
 {
-  "generated_at_utc": "2025-11-19T00:43:07.064000+00:00",
+  "generated_at_utc": "2025-11-19T01:43:05.165560+00:00",
   "window_hours": 36,
   "max_fixtures": 60,
   "fixtures": [
-    {
-      "fixture_id": 1397467,
-      "league_id": 31,
-      "league": "World Cup - Qualification CONCACAF",
-      "kickoff_local": "2025-11-19T12:00:00+11:00",
-      "kickoff_utc": "2025-11-19T01:00:00+00:00",
-      "home": "Panama",
-      "away": "El Salvador",
-      "status": "NS",
-      "markets": {
-        "1x2": {
-          "Home": 1.13,
-          "Draw": 8.0,
-          "Away": 16.5
-        },
-        "ou_2_5": {
-          "over": 1.48,
-          "under": 2.65
-        },
-        "dc": {
-          "Home/Draw": 1.03,
-          "Home/Away": 1.09,
-          "Draw/Away": 4.75
-        }
-      }
-    },
-    {
-      "fixture_id": 1397468,
-      "league_id": 31,
-      "league": "World Cup - Qualification CONCACAF",
-      "kickoff_local": "2025-11-19T12:00:00+11:00",
-      "kickoff_utc": "2025-11-19T01:00:00+00:00",
-      "home": "Guatemala",
-      "away": "Suriname",
-      "status": "NS",
-      "markets": {
-        "1x2": {
-          "Home": 2.78,
-          "Draw": 3.2,
-          "Away": 2.52
-        },
-        "ou_2_5": {
-          "over": 2.4,
-          "under": 1.55
-        },
-        "dc": {
-          "Home/Draw": 1.5,
-          "Home/Away": 1.28,
-          "Draw/Away": 1.42
-        }
-      }
-    },
-    {
-      "fixture_id": 1397470,
-      "league_id": 31,
-      "league": "World Cup - Qualification CONCACAF",
-      "kickoff_local": "2025-11-19T12:00:00+11:00",
-      "kickoff_utc": "2025-11-19T01:00:00+00:00",
-      "home": "Trinidad and Tobago",
-      "away": "Bermuda",
-      "status": "NS",
-      "markets": {
-        "1x2": {
-          "Home": 1.08,
-          "Draw": 9.4,
-          "Away": 28.0
-        },
-        "ou_2_5": {
-          "over": 1.28,
-          "under": 3.55
-        }
-      }
-    },
-    {
-      "fixture_id": 1397471,
-      "league_id": 31,
-      "league": "World Cup - Qualification CONCACAF",
-      "kickoff_local": "2025-11-19T12:00:00+11:00",
-      "kickoff_utc": "2025-11-19T01:00:00+00:00",
-      "home": "Costa Rica",
-      "away": "Honduras",
-      "status": "NS",
-      "markets": {
-        "1x2": {
-          "Home": 1.72,
-          "Draw": 3.5,
-          "Away": 4.9
-        },
-        "ou_2_5": {
-          "over": 2.1,
-          "under": 1.7
-        },
-        "dc": {
-          "Home/Draw": 1.17,
-          "Home/Away": 1.25,
-          "Draw/Away": 2.05
-        }
-      }
-    },
-    {
-      "fixture_id": 1397472,
-      "league_id": 31,
-      "league": "World Cup - Qualification CONCACAF",
-      "kickoff_local": "2025-11-19T12:00:00+11:00",
-      "kickoff_utc": "2025-11-19T01:00:00+00:00",
-      "home": "Haiti",
-      "away": "Nicaragua",
-      "status": "NS",
-      "markets": {
-        "1x2": {
-          "Home": 1.22,
-          "Draw": 5.6,
-          "Away": 14.0
-        },
-        "ou_2_5": {
-          "over": 1.62,
-          "under": 2.25
-        },
-        "dc": {
-          "Home/Draw": 1.03,
-          "Home/Away": 1.11,
-          "Draw/Away": 4.0
-        }
-      }
-    },
-    {
-      "fixture_id": 1453336,
-      "league_id": 31,
-      "league": "World Cup - Qualification CONCACAF",
-      "kickoff_local": "2025-11-19T12:00:00+11:00",
-      "kickoff_utc": "2025-11-19T01:00:00+00:00",
-      "home": "Jamaica",
-      "away": "Curaçao",
-      "status": "NS",
-      "markets": {
-        "1x2": {
-          "Home": 1.91,
-          "Draw": 3.25,
-          "Away": 4.2
-        },
-        "ou_2_5": {
-          "over": 2.2,
-          "under": 1.65
-        },
-        "dc": {
-          "Home/Draw": 1.22,
-          "Home/Away": 1.28,
-          "Draw/Away": 1.85
-        }
-      }
-    },
-    {
-      "fixture_id": 1469294,
-      "league_id": 10,
-      "league": "Friendlies",
-      "kickoff_local": "2025-11-19T12:30:00+11:00",
-      "kickoff_utc": "2025-11-19T01:30:00+00:00",
-      "home": "Ecuador",
-      "away": "New Zealand",
-      "status": "NS",
-      "markets": {
-        "1x2": {
-          "Home": 1.36,
-          "Draw": 3.9,
-          "Away": 8.75
-        },
-        "ou_2_5": {
-          "over": 2.1,
-          "under": 1.7
-        },
-        "dc": {
-          "Home/Draw": 1.03,
-          "Home/Away": 1.17,
-          "Draw/Away": 2.9
-        }
-      }
-    },
-    {
-      "fixture_id": 1472256,
-      "league_id": 10,
-      "league": "Friendlies",
-      "kickoff_local": "2025-11-19T12:30:00+11:00",
-      "kickoff_utc": "2025-11-19T01:30:00+00:00",
-      "home": "Mexico",
-      "away": "Paraguay",
-      "status": "NS",
-      "markets": {
-        "1x2": {
-          "Home": 2.1,
-          "Draw": 3.2,
-          "Away": 3.65
-        },
-        "ou_2_5": {
-          "over": 6.0,
-          "under": 1.09
-        },
-        "dc": {
-          "Home/Draw": 1.28,
-          "Home/Away": 1.3,
-          "Draw/Away": 1.7
-        }
-      }
-    },
-    {
-      "fixture_id": 1485025,
-      "league_id": 10,
-      "league": "Friendlies",
-      "kickoff_local": "2025-11-19T12:30:00+11:00",
-      "kickoff_utc": "2025-11-19T01:30:00+00:00",
-      "home": "Colombia",
-      "away": "Australia",
-      "status": "NS",
-      "markets": {
-        "1x2": {
-          "Home": 1.42,
-          "Draw": 4.4,
-          "Away": 9.25
-        },
-        "ou_2_5": {
-          "over": 2.15,
-          "under": 1.65
-        },
-        "dc": {
-          "Home/Draw": 1.03,
-          "Home/Away": 1.2,
-          "Draw/Away": 2.88
-        }
-      }
-    },
     {
       "fixture_id": 1468981,
       "league_id": 1140,
@@ -361,22 +132,18 @@
       "status": "NS",
       "markets": {
         "1x2": {
-          "Home": 4.5,
-          "Draw": 3.8,
-          "Away": 1.57
+          "Home": 4.75,
+          "Draw": 3.85,
+          "Away": 1.53
         },
         "ou_2_5": {
-          "over": 6.0,
-          "under": 1.1
+          "over": 1.73,
+          "under": 1.85
         },
         "dc": {
-          "Home/Draw": 2.2,
-          "Home/Away": 1.25,
-          "Draw/Away": 1.15
-        },
-        "btts": {
-          "yes": 3.4,
-          "no": 1.25
+          "Home/Draw": 2.3,
+          "Home/Away": 1.18,
+          "Draw/Away": 1.12
         }
       }
     },
@@ -992,18 +759,18 @@
       "status": "NS",
       "markets": {
         "1x2": {
-          "Home": 2.5,
+          "Home": 2.75,
           "Draw": 3.3,
-          "Away": 2.3
+          "Away": 2.2
         },
         "ou_2_5": {
           "over": 5.5,
           "under": 1.12
         },
         "dc": {
-          "Home/Draw": 1.5,
+          "Home/Draw": 1.55,
           "Home/Away": 1.29,
-          "Draw/Away": 1.44
+          "Draw/Away": 1.4
         }
       }
     },
@@ -1032,6 +799,142 @@
           "Draw/Away": 1.67
         }
       }
+    },
+    {
+      "fixture_id": 1445617,
+      "league_id": 399,
+      "league": "NPFL",
+      "kickoff_local": "2025-11-20T02:00:00+11:00",
+      "kickoff_utc": "2025-11-19T15:00:00+00:00",
+      "home": "Remo Stars",
+      "away": "Kano Pillars",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 1.4,
+          "Draw": 3.75,
+          "Away": 7.5
+        }
+      }
+    },
+    {
+      "fixture_id": 1445623,
+      "league_id": 399,
+      "league": "NPFL",
+      "kickoff_local": "2025-11-20T02:00:00+11:00",
+      "kickoff_utc": "2025-11-19T15:00:00+00:00",
+      "home": "Barau FC",
+      "away": "Rivers United",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 2.15,
+          "Draw": 2.8,
+          "Away": 3.4
+        }
+      }
+    },
+    {
+      "fixture_id": 1468522,
+      "league_id": 570,
+      "league": "Premier League",
+      "kickoff_local": "2025-11-20T02:00:00+11:00",
+      "kickoff_utc": "2025-11-19T15:00:00+00:00",
+      "home": "Asante Kotoko",
+      "away": "Young Apostles",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1475027,
+      "league_id": 412,
+      "league": "Premier League",
+      "kickoff_local": "2025-11-20T02:00:00+11:00",
+      "kickoff_utc": "2025-11-19T15:00:00+00:00",
+      "home": "Galaxy",
+      "away": "Centre Chiefs",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1484879,
+      "league_id": 1033,
+      "league": "Ekstraliga Women",
+      "kickoff_local": "2025-11-20T02:00:00+11:00",
+      "kickoff_utc": "2025-11-19T15:00:00+00:00",
+      "home": "GKS Katowice W",
+      "away": "Pogon Tczew W",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1485945,
+      "league_id": 1200,
+      "league": "Liga MX U21",
+      "kickoff_local": "2025-11-20T02:00:00+11:00",
+      "kickoff_utc": "2025-11-19T15:00:00+00:00",
+      "home": "Guadalajara Chivas U21",
+      "away": "Tigres UANL U21",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1485947,
+      "league_id": 1200,
+      "league": "Liga MX U21",
+      "kickoff_local": "2025-11-20T02:00:00+11:00",
+      "kickoff_utc": "2025-11-19T15:00:00+00:00",
+      "home": "Toluca U21",
+      "away": "Cruz Azul U21",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 2.1,
+          "Draw": 3.1,
+          "Away": 3.0
+        },
+        "ou_2_5": {
+          "over": 6.5,
+          "under": 1.08
+        },
+        "dc": {
+          "Home/Draw": 1.33,
+          "Home/Away": 1.3,
+          "Draw/Away": 1.65
+        }
+      }
+    },
+    {
+      "fixture_id": 1485948,
+      "league_id": 1200,
+      "league": "Liga MX U21",
+      "kickoff_local": "2025-11-20T02:00:00+11:00",
+      "kickoff_utc": "2025-11-19T15:00:00+00:00",
+      "home": "UNAM Pumas U21",
+      "away": "Pachuca U21",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 3.0,
+          "Draw": 3.2,
+          "Away": 2.05
+        },
+        "ou_2_5": {
+          "over": 6.0,
+          "under": 1.1
+        },
+        "dc": {
+          "Home/Draw": 1.67,
+          "Home/Away": 1.3,
+          "Draw/Away": 1.3
+        }
+      }
+    },
+    {
+      "fixture_id": 1469321,
+      "league_id": 423,
+      "league": "Ligue 1",
+      "kickoff_local": "2025-11-20T02:30:00+11:00",
+      "kickoff_utc": "2025-11-19T15:30:00+00:00",
+      "home": "Rahimo",
+      "away": "USFA",
+      "status": "NS"
     }
   ]
 }
