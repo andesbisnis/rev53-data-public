@@ -1,92 +1,8 @@
 {
-  "generated_at_utc": "2025-11-19T20:43:07.229985+00:00",
+  "generated_at_utc": "2025-11-19T21:43:08.247477+00:00",
   "window_hours": 36,
   "max_fixtures": 60,
   "fixtures": [
-    {
-      "fixture_id": 1483546,
-      "league_id": 591,
-      "league": "Pro League",
-      "kickoff_local": "2025-11-20T08:00:00+11:00",
-      "kickoff_utc": "2025-11-19T21:00:00+00:00",
-      "home": "San Juan Jabloteh",
-      "away": "Phoenix",
-      "status": "NS"
-    },
-    {
-      "fixture_id": 1483547,
-      "league_id": 591,
-      "league": "Pro League",
-      "kickoff_local": "2025-11-20T08:00:00+11:00",
-      "kickoff_utc": "2025-11-19T21:00:00+00:00",
-      "home": "Ath­let­ic Club",
-      "away": "Police",
-      "status": "NS"
-    },
-    {
-      "fixture_id": 1483548,
-      "league_id": 591,
-      "league": "Pro League",
-      "kickoff_local": "2025-11-20T08:00:00+11:00",
-      "kickoff_utc": "2025-11-19T21:00:00+00:00",
-      "home": "Cunupia",
-      "away": "Prison Service",
-      "status": "NS"
-    },
-    {
-      "fixture_id": 1483549,
-      "league_id": 591,
-      "league": "Pro League",
-      "kickoff_local": "2025-11-20T08:00:00+11:00",
-      "kickoff_utc": "2025-11-19T21:00:00+00:00",
-      "home": "La Horquetta Rangers",
-      "away": "Club Sando",
-      "status": "NS"
-    },
-    {
-      "fixture_id": 1483550,
-      "league_id": 591,
-      "league": "Pro League",
-      "kickoff_local": "2025-11-20T08:00:00+11:00",
-      "kickoff_utc": "2025-11-19T21:00:00+00:00",
-      "home": "Central",
-      "away": "Morvant Caledonia United",
-      "status": "NS",
-      "markets": {
-        "1x2": {
-          "Home": 1.33,
-          "Draw": 4.8,
-          "Away": 6.4
-        },
-        "dc": {
-          "Home/Draw": 1.06,
-          "Home/Away": 1.1,
-          "Draw/Away": 2.88
-        }
-      }
-    },
-    {
-      "fixture_id": 1483551,
-      "league_id": 591,
-      "league": "Pro League",
-      "kickoff_local": "2025-11-20T08:00:00+11:00",
-      "kickoff_utc": "2025-11-19T21:00:00+00:00",
-      "home": "Defence Force",
-      "away": "Point Fortin",
-      "status": "NS",
-      "markets": {
-        "1x2": {
-          "Home": 1.1,
-          "Draw": 7.25,
-          "Away": 14.0
-        },
-        "dc": {
-          "Home/Draw": 1.01,
-          "Home/Away": 1.05,
-          "Draw/Away": 3.8
-        }
-      }
-    },
     {
       "fixture_id": 1353631,
       "league_id": 72,
@@ -98,18 +14,18 @@
       "status": "NS",
       "markets": {
         "1x2": {
-          "Home": 1.8,
-          "Draw": 3.3,
-          "Away": 4.75
+          "Home": 1.73,
+          "Draw": 3.7,
+          "Away": 4.55
         },
         "ou_2_5": {
-          "over": 2.35,
-          "under": 1.57
+          "over": 1.83,
+          "under": 1.95
         },
         "dc": {
           "Home/Draw": 1.18,
-          "Home/Away": 1.25,
-          "Draw/Away": 1.95
+          "Home/Away": 1.22,
+          "Draw/Away": 2.05
         }
       }
     },
@@ -1038,18 +954,18 @@
       "status": "NS",
       "markets": {
         "1x2": {
-          "Home": 1.91,
-          "Draw": 3.1,
-          "Away": 3.6
+          "Home": 1.67,
+          "Draw": 3.4,
+          "Away": 4.4
         },
         "ou_2_5": {
-          "over": 4.8,
-          "under": 1.15
+          "over": 4.6,
+          "under": 1.17
         },
         "dc": {
-          "Home/Draw": 1.25,
-          "Home/Away": 1.29,
-          "Draw/Away": 1.8
+          "Home/Draw": 1.18,
+          "Home/Away": 1.25,
+          "Draw/Away": 2.05
         },
         "btts": {
           "yes": 3.3,
@@ -1105,6 +1021,118 @@
       "kickoff_utc": "2025-11-20T14:00:00+00:00",
       "home": "JSK",
       "away": "Motema Pembe",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1486734,
+      "league_id": 542,
+      "league": "Iraqi League",
+      "kickoff_local": "2025-11-21T01:00:00+11:00",
+      "kickoff_utc": "2025-11-20T14:00:00+00:00",
+      "home": "Al Shorta",
+      "away": "Al Karkh",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1469368,
+      "league_id": 423,
+      "league": "Ligue 1",
+      "kickoff_local": "2025-11-21T02:30:00+11:00",
+      "kickoff_utc": "2025-11-20T15:30:00+00:00",
+      "home": "Douanes",
+      "away": "ASFB",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1481739,
+      "league_id": 301,
+      "league": "Pro League",
+      "kickoff_local": "2025-11-21T02:30:00+11:00",
+      "kickoff_utc": "2025-11-20T15:30:00+00:00",
+      "home": "Khorfakkan",
+      "away": "Shabab Al Ahli Dubai",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 6.2,
+          "Draw": 4.3,
+          "Away": 1.44
+        },
+        "ou_2_5": {
+          "over": 1.62,
+          "under": 2.2
+        },
+        "dc": {
+          "Home/Draw": 2.62,
+          "Home/Away": 1.15,
+          "Draw/Away": 1.07
+        }
+      }
+    },
+    {
+      "fixture_id": 1347839,
+      "league_id": 1104,
+      "league": "Liga 3",
+      "kickoff_local": "2025-11-21T03:00:00+11:00",
+      "kickoff_utc": "2025-11-20T16:00:00+00:00",
+      "home": "Shturmi",
+      "away": "Borjomi",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 1.18,
+          "Draw": 6.5,
+          "Away": 9.0
+        },
+        "ou_2_5": {
+          "over": 1.4,
+          "under": 2.75
+        },
+        "dc": {
+          "Home/Draw": 1.05,
+          "Home/Away": 1.4,
+          "Draw/Away": 2.25
+        }
+      }
+    },
+    {
+      "fixture_id": 1486110,
+      "league_id": 365,
+      "league": "Virsliga",
+      "kickoff_local": "2025-11-21T03:00:00+11:00",
+      "kickoff_utc": "2025-11-20T16:00:00+00:00",
+      "home": "Grobiņa",
+      "away": "JDFS Alberts",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 1.67,
+          "Draw": 3.8,
+          "Away": 3.9
+        },
+        "ou_2_5": {
+          "over": 5.8,
+          "under": 1.12
+        },
+        "dc": {
+          "Home/Draw": 1.2,
+          "Home/Away": 1.25,
+          "Draw/Away": 2.1
+        },
+        "btts": {
+          "yes": 3.1,
+          "no": 1.33
+        }
+      }
+    },
+    {
+      "fixture_id": 1486861,
+      "league_id": 378,
+      "league": "Ligue 1",
+      "kickoff_local": "2025-11-21T03:00:00+11:00",
+      "kickoff_utc": "2025-11-20T16:00:00+00:00",
+      "home": "Milo",
+      "away": "Wakirya",
       "status": "NS"
     }
   ]
