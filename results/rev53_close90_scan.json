@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2025-11-19T07:14:58.493218+00:00",
+  "generated_at_utc": "2025-11-19T08:14:59.131426+00:00",
   "window_before_min": 15,
   "window_after_min": 120,
   "fixtures": [
@@ -11,7 +11,7 @@
       "kickoff_utc": "2025-11-19T08:00:00+00:00",
       "home": "Stallion W",
       "away": "Lion City W",
-      "status": "NS"
+      "status": "1H"
     },
     {
       "fixture_id": 1470501,
@@ -46,6 +46,32 @@
           "Home/Draw": 1.91,
           "Home/Away": 1.22,
           "Draw/Away": 1.2
+        }
+      }
+    },
+    {
+      "fixture_id": 1470608,
+      "league_id": 276,
+      "league": "FKF Premier League",
+      "kickoff_local": "2025-11-19T21:00:00+11:00",
+      "kickoff_utc": "2025-11-19T10:00:00+00:00",
+      "home": "APS Bomet",
+      "away": "Ulinzi Stars",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 2.8,
+          "Draw": 2.7,
+          "Away": 2.55
+        },
+        "ou_2_5": {
+          "over": 2.3,
+          "under": 1.45
+        },
+        "dc": {
+          "Home/Draw": 1.4,
+          "Home/Away": 1.36,
+          "Draw/Away": 1.38
         }
       }
     }
