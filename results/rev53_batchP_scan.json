@@ -1,54 +1,8 @@
 {
-  "generated_at_utc": "2025-11-19T13:43:06.302863+00:00",
+  "generated_at_utc": "2025-11-19T14:43:06.797171+00:00",
   "window_hours": 36,
   "max_fixtures": 60,
   "fixtures": [
-    {
-      "fixture_id": 1481752,
-      "league_id": 847,
-      "league": "Premier League",
-      "kickoff_local": "2025-11-20T01:00:00+11:00",
-      "kickoff_utc": "2025-11-19T14:00:00+00:00",
-      "home": "Ezulwini United",
-      "away": "Royal Leopards",
-      "status": "NS"
-    },
-    {
-      "fixture_id": 1483114,
-      "league_id": 424,
-      "league": "Ligue 1",
-      "kickoff_local": "2025-11-20T01:00:00+11:00",
-      "kickoff_utc": "2025-11-19T14:00:00+00:00",
-      "home": "Vita Club",
-      "away": "Rangers",
-      "status": "NS"
-    },
-    {
-      "fixture_id": 1485633,
-      "league_id": 375,
-      "league": "Cup",
-      "kickoff_local": "2025-11-20T01:00:00+11:00",
-      "kickoff_utc": "2025-11-19T14:00:00+00:00",
-      "home": "Fužinar",
-      "away": "Rače",
-      "status": "NS",
-      "markets": {
-        "1x2": {
-          "Home": 2.85,
-          "Draw": 3.1,
-          "Away": 2.25
-        },
-        "ou_2_5": {
-          "over": 1.77,
-          "under": 1.8
-        },
-        "dc": {
-          "Home/Draw": 1.5,
-          "Home/Away": 1.28,
-          "Draw/Away": 1.38
-        }
-      }
-    },
     {
       "fixture_id": 1423928,
       "league_id": 701,
@@ -60,18 +14,18 @@
       "status": "NS",
       "markets": {
         "1x2": {
-          "Home": 2.05,
+          "Home": 1.95,
           "Draw": 3.35,
-          "Away": 3.1
+          "Away": 3.45
         },
         "ou_2_5": {
-          "over": 1.8,
-          "under": 1.95
+          "over": 1.7,
+          "under": 2.1
         },
         "dc": {
-          "Home/Draw": 1.28,
+          "Home/Draw": 1.25,
           "Home/Away": 1.25,
-          "Draw/Away": 1.67
+          "Draw/Away": 1.77
         }
       }
     },
@@ -114,7 +68,7 @@
         "1x2": {
           "Home": 1.33,
           "Draw": 3.8,
-          "Away": 9.75
+          "Away": 10.0
         },
         "ou_2_5": {
           "over": 2.2,
@@ -342,6 +296,16 @@
       "status": "NS"
     },
     {
+      "fixture_id": 1487267,
+      "league_id": 760,
+      "league": "LFA First Division",
+      "kickoff_local": "2025-11-20T03:00:00+11:00",
+      "kickoff_utc": "2025-11-19T16:00:00+00:00",
+      "home": "Wologizi",
+      "away": "Paynesville",
+      "status": "NS"
+    },
+    {
       "fixture_id": 1486723,
       "league_id": 762,
       "league": "Premier League",
@@ -411,21 +375,13 @@
       "markets": {
         "1x2": {
           "Home": 6.0,
-          "Draw": 4.4,
-          "Away": 1.36
-        },
-        "ou_2_5": {
-          "over": 3.4,
-          "under": 1.3
+          "Draw": 4.2,
+          "Away": 1.4
         },
         "dc": {
-          "Home/Draw": 2.7,
-          "Home/Away": 1.18,
-          "Draw/Away": 1.1
-        },
-        "btts": {
-          "yes": 3.0,
-          "no": 1.36
+          "Home/Draw": 2.75,
+          "Home/Away": 1.14,
+          "Draw/Away": 1.07
         }
       }
     },
@@ -463,7 +419,23 @@
       "kickoff_utc": "2025-11-19T17:00:00+00:00",
       "home": "Åsane W",
       "away": "Røa W",
-      "status": "NS"
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 2.45,
+          "Draw": 3.35,
+          "Away": 2.45
+        },
+        "ou_2_5": {
+          "over": 1.5,
+          "under": 2.2
+        },
+        "dc": {
+          "Home/Draw": 1.48,
+          "Home/Away": 1.25,
+          "Draw/Away": 1.48
+        }
+      }
     },
     {
       "fixture_id": 1436396,
@@ -486,22 +458,18 @@
       "status": "NS",
       "markets": {
         "1x2": {
-          "Home": 2.1,
-          "Draw": 3.6,
-          "Away": 2.7
+          "Home": 2.15,
+          "Draw": 3.55,
+          "Away": 2.65
         },
         "ou_2_5": {
-          "over": 3.4,
-          "under": 1.3
+          "over": 1.5,
+          "under": 2.2
         },
         "dc": {
-          "Home/Draw": 1.4,
-          "Home/Away": 1.25,
-          "Draw/Away": 1.6
-        },
-        "btts": {
-          "yes": 2.5,
-          "no": 1.5
+          "Home/Draw": 1.36,
+          "Home/Away": 1.22,
+          "Draw/Away": 1.62
         }
       }
     },
@@ -542,18 +510,18 @@
       "status": "NS",
       "markets": {
         "1x2": {
-          "Home": 11.0,
-          "Draw": 6.4,
-          "Away": 1.21
+          "Home": 14.0,
+          "Draw": 6.6,
+          "Away": 1.18
         },
         "ou_2_5": {
           "over": 1.35,
           "under": 3.1
         },
         "dc": {
-          "Home/Draw": 4.0,
-          "Home/Away": 1.1,
-          "Draw/Away": 1.04
+          "Home/Draw": 4.5,
+          "Home/Away": 1.09,
+          "Draw/Away": 1.03
         }
       }
     },
@@ -614,22 +582,18 @@
       "status": "NS",
       "markets": {
         "1x2": {
-          "Home": 2.38,
-          "Draw": 3.4,
-          "Away": 2.45
+          "Home": 2.45,
+          "Draw": 3.45,
+          "Away": 2.38
         },
         "ou_2_5": {
-          "over": 3.75,
-          "under": 1.25
+          "over": 1.57,
+          "under": 2.05
         },
         "dc": {
-          "Home/Draw": 1.44,
-          "Home/Away": 1.29,
-          "Draw/Away": 1.53
-        },
-        "btts": {
-          "yes": 2.75,
-          "no": 1.4
+          "Home/Draw": 1.45,
+          "Home/Away": 1.22,
+          "Draw/Away": 1.48
         }
       }
     },
@@ -670,18 +634,18 @@
       "status": "NS",
       "markets": {
         "1x2": {
-          "Home": 3.0,
-          "Draw": 3.0,
-          "Away": 2.15
+          "Home": 2.95,
+          "Draw": 3.1,
+          "Away": 2.2
         },
         "ou_2_5": {
-          "over": 6.0,
-          "under": 1.1
+          "over": 1.85,
+          "under": 1.73
         },
         "dc": {
-          "Home/Draw": 1.62,
-          "Home/Away": 1.33,
-          "Draw/Away": 1.33
+          "Home/Draw": 1.53,
+          "Home/Away": 1.28,
+          "Draw/Away": 1.35
         }
       }
     },
@@ -846,9 +810,9 @@
       "status": "NS",
       "markets": {
         "1x2": {
-          "Home": 2.88,
+          "Home": 2.95,
           "Draw": 3.6,
-          "Away": 2.1
+          "Away": 2.05
         },
         "ou_2_5": {
           "over": 1.53,
@@ -879,7 +843,23 @@
       "kickoff_utc": "2025-11-19T20:00:00+00:00",
       "home": "Brora Rangers",
       "away": "Clachnacuddin",
-      "status": "NS"
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 1.56,
+          "Draw": 4.0,
+          "Away": 4.5
+        },
+        "ou_2_5": {
+          "over": 2.79,
+          "under": 1.35
+        },
+        "dc": {
+          "Home/Draw": 1.12,
+          "Home/Away": 1.16,
+          "Draw/Away": 2.13
+        }
+      }
     },
     {
       "fixture_id": 1379763,
@@ -902,8 +882,8 @@
       "status": "NS",
       "markets": {
         "1x2": {
-          "Home": 1.14,
-          "Draw": 7.0,
+          "Home": 1.15,
+          "Draw": 6.5,
           "Away": 13.0
         },
         "ou_2_5": {
@@ -913,7 +893,7 @@
         "dc": {
           "Home/Draw": 1.03,
           "Home/Away": 1.08,
-          "Draw/Away": 5.0
+          "Draw/Away": 4.8
         }
       }
     },
@@ -925,7 +905,23 @@
       "kickoff_utc": "2025-11-19T20:00:00+00:00",
       "home": "Buckie Thistle",
       "away": "Turriff United",
-      "status": "NS"
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 1.59,
+          "Draw": 4.05,
+          "Away": 4.25
+        },
+        "ou_2_5": {
+          "over": 1.38,
+          "under": 2.62
+        },
+        "dc": {
+          "Home/Draw": 1.14,
+          "Home/Away": 1.16,
+          "Draw/Away": 2.07
+        }
+      }
     },
     {
       "fixture_id": 1472407,
@@ -965,15 +961,15 @@
       "markets": {
         "1x2": {
           "Home": 1.69,
-          "Draw": 3.95,
+          "Draw": 3.9,
           "Away": 4.5
         },
         "ou_2_5": {
-          "over": 1.6,
-          "under": 2.3
+          "over": 1.67,
+          "under": 2.15
         },
         "dc": {
-          "Home/Draw": 1.18,
+          "Home/Draw": 1.2,
           "Home/Away": 1.2,
           "Draw/Away": 2.1
         }
@@ -1016,17 +1012,17 @@
       "status": "NS",
       "markets": {
         "1x2": {
-          "Home": 3.25,
-          "Draw": 3.25,
+          "Home": 3.2,
+          "Draw": 3.3,
           "Away": 2.05
         },
         "ou_2_5": {
-          "over": 1.9,
-          "under": 1.85
+          "over": 1.85,
+          "under": 1.9
         },
         "dc": {
           "Home/Draw": 1.62,
-          "Home/Away": 1.28,
+          "Home/Away": 1.25,
           "Draw/Away": 1.3
         }
       }
@@ -1138,6 +1134,38 @@
       "home": "Cunupia",
       "away": "Prison Service",
       "status": "NS"
+    },
+    {
+      "fixture_id": 1483549,
+      "league_id": 591,
+      "league": "Pro League",
+      "kickoff_local": "2025-11-20T08:00:00+11:00",
+      "kickoff_utc": "2025-11-19T21:00:00+00:00",
+      "home": "La Horquetta Rangers",
+      "away": "Club Sando",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1483550,
+      "league_id": 591,
+      "league": "Pro League",
+      "kickoff_local": "2025-11-20T08:00:00+11:00",
+      "kickoff_utc": "2025-11-19T21:00:00+00:00",
+      "home": "Central",
+      "away": "Morvant Caledonia United",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 1.33,
+          "Draw": 4.8,
+          "Away": 6.4
+        },
+        "dc": {
+          "Home/Draw": 1.06,
+          "Home/Away": 1.1,
+          "Draw/Away": 2.88
+        }
+      }
     }
   ]
 }
