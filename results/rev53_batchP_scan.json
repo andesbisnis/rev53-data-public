@@ -1,54 +1,8 @@
 {
-  "generated_at_utc": "2025-11-19T07:43:05.203266+00:00",
+  "generated_at_utc": "2025-11-19T08:43:31.098417+00:00",
   "window_hours": 36,
   "max_fixtures": 60,
   "fixtures": [
-    {
-      "fixture_id": 1468981,
-      "league_id": 1140,
-      "league": "AFC Women's Champions League",
-      "kickoff_local": "2025-11-19T19:00:00+11:00",
-      "kickoff_utc": "2025-11-19T08:00:00+00:00",
-      "home": "Stallion W",
-      "away": "Lion City W",
-      "status": "NS"
-    },
-    {
-      "fixture_id": 1470501,
-      "league_id": 275,
-      "league": "Liga 2",
-      "kickoff_local": "2025-11-19T19:30:00+11:00",
-      "kickoff_utc": "2025-11-19T08:30:00+00:00",
-      "home": "Persekat",
-      "away": "Garudayaksa",
-      "status": "NS"
-    },
-    {
-      "fixture_id": 1470502,
-      "league_id": 275,
-      "league": "Liga 2",
-      "kickoff_local": "2025-11-19T19:30:00+11:00",
-      "kickoff_utc": "2025-11-19T08:30:00+00:00",
-      "home": "Sriwijaya FC",
-      "away": "Persikad Depok FC",
-      "status": "NS",
-      "markets": {
-        "1x2": {
-          "Home": 3.75,
-          "Draw": 3.4,
-          "Away": 1.8
-        },
-        "ou_2_5": {
-          "over": 1.65,
-          "under": 1.95
-        },
-        "dc": {
-          "Home/Draw": 1.91,
-          "Home/Away": 1.22,
-          "Draw/Away": 1.2
-        }
-      }
-    },
     {
       "fixture_id": 1470608,
       "league_id": 276,
@@ -206,13 +160,13 @@
       "status": "NS",
       "markets": {
         "1x2": {
-          "Home": 33.0,
-          "Draw": 9.1,
+          "Home": 29.0,
+          "Draw": 9.8,
           "Away": 1.05
         },
         "ou_2_5": {
-          "over": 2.45,
-          "under": 1.48
+          "over": 2.3,
+          "under": 1.55
         }
       }
     },
@@ -372,8 +326,8 @@
           "Away": 13.0
         },
         "ou_2_5": {
-          "over": 4.8,
-          "under": 1.15
+          "over": 3.75,
+          "under": 1.22
         },
         "dc": {
           "Home/Draw": 1.02,
@@ -440,12 +394,12 @@
       "markets": {
         "1x2": {
           "Home": 12.0,
-          "Draw": 6.2,
-          "Away": 1.14
+          "Draw": 5.5,
+          "Away": 1.17
         },
         "dc": {
-          "Home/Draw": 3.45,
-          "Home/Away": 1.08,
+          "Home/Draw": 3.3,
+          "Home/Away": 1.1,
           "Draw/Away": 1.01
         }
       }
@@ -623,18 +577,18 @@
       "status": "NS",
       "markets": {
         "1x2": {
-          "Home": 2.7,
-          "Draw": 2.8,
-          "Away": 2.55
+          "Home": 2.2,
+          "Draw": 2.9,
+          "Away": 3.1
         },
         "ou_2_5": {
           "over": 2.3,
           "under": 1.45
         },
         "dc": {
-          "Home/Draw": 1.4,
-          "Home/Away": 1.33,
-          "Draw/Away": 1.4
+          "Home/Draw": 1.28,
+          "Home/Away": 1.3,
+          "Draw/Away": 1.57
         }
       }
     },
@@ -817,9 +771,9 @@
       "status": "NS",
       "markets": {
         "1x2": {
-          "Home": 2.1,
-          "Draw": 3.3,
-          "Away": 3.2
+          "Home": 2.05,
+          "Draw": 3.35,
+          "Away": 3.1
         },
         "ou_2_5": {
           "over": 1.8,
@@ -859,28 +813,6 @@
       }
     },
     {
-      "fixture_id": 1445623,
-      "league_id": 399,
-      "league": "NPFL",
-      "kickoff_local": "2025-11-20T02:00:00+11:00",
-      "kickoff_utc": "2025-11-19T15:00:00+00:00",
-      "home": "Barau FC",
-      "away": "Rivers United",
-      "status": "NS",
-      "markets": {
-        "1x2": {
-          "Home": 2.2,
-          "Draw": 2.65,
-          "Away": 3.5
-        },
-        "dc": {
-          "Home/Draw": 1.22,
-          "Home/Away": 1.36,
-          "Draw/Away": 1.6
-        }
-      }
-    },
-    {
       "fixture_id": 1468522,
       "league_id": 570,
       "league": "Premier League",
@@ -891,9 +823,9 @@
       "status": "NS",
       "markets": {
         "1x2": {
-          "Home": 1.28,
-          "Draw": 4.0,
-          "Away": 10.75
+          "Home": 1.33,
+          "Draw": 3.8,
+          "Away": 9.75
         },
         "ou_2_5": {
           "over": 2.2,
@@ -902,7 +834,7 @@
         "dc": {
           "Home/Draw": 1.02,
           "Home/Away": 1.18,
-          "Draw/Away": 3.3
+          "Draw/Away": 3.1
         }
       }
     },
@@ -996,6 +928,78 @@
       "kickoff_utc": "2025-11-19T15:30:00+00:00",
       "home": "Rahimo",
       "away": "USFA",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1485659,
+      "league_id": 386,
+      "league": "Ligue 1",
+      "kickoff_local": "2025-11-20T02:30:00+11:00",
+      "kickoff_utc": "2025-11-19T15:30:00+00:00",
+      "home": "ES Agboville",
+      "away": "Stade d'Abidjan",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1433194,
+      "league_id": 879,
+      "league": "Segunda División RFEF - Group 5",
+      "kickoff_local": "2025-11-20T03:00:00+11:00",
+      "kickoff_utc": "2025-11-19T16:00:00+00:00",
+      "home": "CD Coria",
+      "away": "Orihuela",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 2.4,
+          "Draw": 2.8,
+          "Away": 2.9
+        },
+        "ou_2_5": {
+          "over": 2.3,
+          "under": 1.45
+        },
+        "dc": {
+          "Home/Draw": 1.3,
+          "Home/Away": 1.35,
+          "Draw/Away": 1.5
+        }
+      }
+    },
+    {
+      "fixture_id": 1467651,
+      "league_id": 212,
+      "league": "Cup",
+      "kickoff_local": "2025-11-20T03:00:00+11:00",
+      "kickoff_utc": "2025-11-19T16:00:00+00:00",
+      "home": "Karlovac 1919",
+      "away": "Dinamo Zagreb",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 6.5,
+          "Draw": 4.4,
+          "Away": 1.4
+        },
+        "ou_2_5": {
+          "over": 1.65,
+          "under": 2.15
+        },
+        "dc": {
+          "Home/Draw": 2.8,
+          "Home/Away": 1.14,
+          "Draw/Away": 1.06
+        }
+      }
+    },
+    {
+      "fixture_id": 1485946,
+      "league_id": 1200,
+      "league": "Liga MX U21",
+      "kickoff_local": "2025-11-20T03:00:00+11:00",
+      "kickoff_utc": "2025-11-19T16:00:00+00:00",
+      "home": "Juarez U21",
+      "away": "Santos Laguna U21",
       "status": "NS"
     }
   ]

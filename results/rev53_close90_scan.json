@@ -1,54 +1,8 @@
 {
-  "generated_at_utc": "2025-11-19T08:14:59.131426+00:00",
+  "generated_at_utc": "2025-11-19T09:15:01.908716+00:00",
   "window_before_min": 15,
   "window_after_min": 120,
   "fixtures": [
-    {
-      "fixture_id": 1468981,
-      "league_id": 1140,
-      "league": "AFC Women's Champions League",
-      "kickoff_local": "2025-11-19T19:00:00+11:00",
-      "kickoff_utc": "2025-11-19T08:00:00+00:00",
-      "home": "Stallion W",
-      "away": "Lion City W",
-      "status": "1H"
-    },
-    {
-      "fixture_id": 1470501,
-      "league_id": 275,
-      "league": "Liga 2",
-      "kickoff_local": "2025-11-19T19:30:00+11:00",
-      "kickoff_utc": "2025-11-19T08:30:00+00:00",
-      "home": "Persekat",
-      "away": "Garudayaksa",
-      "status": "NS"
-    },
-    {
-      "fixture_id": 1470502,
-      "league_id": 275,
-      "league": "Liga 2",
-      "kickoff_local": "2025-11-19T19:30:00+11:00",
-      "kickoff_utc": "2025-11-19T08:30:00+00:00",
-      "home": "Sriwijaya FC",
-      "away": "Persikad Depok FC",
-      "status": "NS",
-      "markets": {
-        "1x2": {
-          "Home": 3.75,
-          "Draw": 3.4,
-          "Away": 1.8
-        },
-        "ou_2_5": {
-          "over": 1.65,
-          "under": 1.95
-        },
-        "dc": {
-          "Home/Draw": 1.91,
-          "Home/Away": 1.22,
-          "Draw/Away": 1.2
-        }
-      }
-    },
     {
       "fixture_id": 1470608,
       "league_id": 276,
@@ -72,6 +26,126 @@
           "Home/Draw": 1.4,
           "Home/Away": 1.36,
           "Draw/Away": 1.38
+        }
+      }
+    },
+    {
+      "fixture_id": 1482724,
+      "league_id": 343,
+      "league": "First League",
+      "kickoff_local": "2025-11-19T21:30:00+11:00",
+      "kickoff_utc": "2025-11-19T10:30:00+00:00",
+      "home": "Araks Ararat",
+      "away": "Syunik",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1482725,
+      "league_id": 343,
+      "league": "First League",
+      "kickoff_local": "2025-11-19T21:30:00+11:00",
+      "kickoff_utc": "2025-11-19T10:30:00+00:00",
+      "home": "BKMA II",
+      "away": "Noah II",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1482726,
+      "league_id": 343,
+      "league": "First League",
+      "kickoff_local": "2025-11-19T21:30:00+11:00",
+      "kickoff_utc": "2025-11-19T10:30:00+00:00",
+      "home": "Lernayin Artsakh",
+      "away": "Shirak II",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1482727,
+      "league_id": 343,
+      "league": "First League",
+      "kickoff_local": "2025-11-19T21:30:00+11:00",
+      "kickoff_utc": "2025-11-19T10:30:00+00:00",
+      "home": "Mika",
+      "away": "Ararat-Armenia II",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1482728,
+      "league_id": 343,
+      "league": "First League",
+      "kickoff_local": "2025-11-19T21:30:00+11:00",
+      "kickoff_utc": "2025-11-19T10:30:00+00:00",
+      "home": "Pyunik II",
+      "away": "Banants II",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1400383,
+      "league_id": 369,
+      "league": "Super League",
+      "kickoff_local": "2025-11-19T22:00:00+11:00",
+      "kickoff_utc": "2025-11-19T11:00:00+00:00",
+      "home": "Shortan",
+      "away": "Buxoro",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 4.8,
+          "Draw": 3.55,
+          "Away": 1.57
+        },
+        "ou_2_5": {
+          "over": 1.85,
+          "under": 1.73
+        },
+        "dc": {
+          "Home/Draw": 2.2,
+          "Home/Away": 1.2,
+          "Draw/Away": 1.12
+        }
+      }
+    },
+    {
+      "fixture_id": 1429183,
+      "league_id": 410,
+      "league": "C-League",
+      "kickoff_local": "2025-11-19T22:00:00+11:00",
+      "kickoff_utc": "2025-11-19T11:00:00+00:00",
+      "home": "NagaWorld",
+      "away": "Phnom Penh Crown",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 5.0,
+          "Draw": 3.95,
+          "Away": 1.5
+        },
+        "dc": {
+          "Home/Draw": 2.4,
+          "Home/Away": 1.17,
+          "Draw/Away": 1.11
+        }
+      }
+    },
+    {
+      "fixture_id": 1430641,
+      "league_id": 410,
+      "league": "C-League",
+      "kickoff_local": "2025-11-19T22:00:00+11:00",
+      "kickoff_utc": "2025-11-19T11:00:00+00:00",
+      "home": "Dangkor Senchey",
+      "away": "Svay Rieng",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 14.0,
+          "Draw": 7.25,
+          "Away": 1.1
+        },
+        "dc": {
+          "Home/Draw": 3.8,
+          "Home/Away": 1.05,
+          "Draw/Away": 1.01
         }
       }
     }
