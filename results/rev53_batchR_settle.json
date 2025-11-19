@@ -1,9 +1,21 @@
 {
-  "timestamp": "2025-11-20T09:03:23.034847+11:00",
+  "timestamp": "2025-11-20T10:03:23.006422+11:00",
   "payload": {
     "status": "ok",
     "count": 80,
     "sample": [
+      {
+        "fixture_id": 1483546,
+        "league_id": 591,
+        "league": "Pro League",
+        "kickoff_local": "2025-11-20T08:00:00+11:00",
+        "kickoff_utc": "2025-11-19T21:00:00+00:00",
+        "home": "San Juan Jabloteh",
+        "away": "Phoenix",
+        "status": "FT",
+        "ft": "2-3",
+        "result_1x2": "2"
+      },
       {
         "fixture_id": 1379748,
         "league_id": 730,
@@ -77,6 +89,18 @@
         "result_1x2": "X"
       },
       {
+        "fixture_id": 1486103,
+        "league_id": 281,
+        "league": "Primera División",
+        "kickoff_local": "2025-11-20T07:00:00+11:00",
+        "kickoff_utc": "2025-11-19T20:00:00+00:00",
+        "home": "Atletico Grau",
+        "away": "Sporting Cristal",
+        "status": "FT",
+        "ft": "1-2",
+        "result_1x2": "2"
+      },
+      {
         "fixture_id": 1486329,
         "league_id": 906,
         "league": "Reserve League",
@@ -110,6 +134,18 @@
         "away": "Cucuta",
         "status": "FT",
         "ft": "2-0",
+        "result_1x2": "1"
+      },
+      {
+        "fixture_id": 1482375,
+        "league_id": 1191,
+        "league": "UEFA Europa Cup - Women",
+        "kickoff_local": "2025-11-20T06:45:00+11:00",
+        "kickoff_utc": "2025-11-19T19:45:00+00:00",
+        "home": "Sporting CP W",
+        "away": "Glasgow City W",
+        "status": "AET",
+        "ft": "3-1",
         "result_1x2": "1"
       },
       {
@@ -926,42 +962,6 @@
         "away": "FK Kukesi",
         "status": "FT",
         "ft": "3-1",
-        "result_1x2": "1"
-      },
-      {
-        "fixture_id": 1482094,
-        "league_id": 707,
-        "league": "Cup",
-        "kickoff_local": "2025-11-19T23:00:00+11:00",
-        "kickoff_utc": "2025-11-19T12:00:00+00:00",
-        "home": "Burreli",
-        "away": "Kastrioti Krujë",
-        "status": "FT",
-        "ft": "5-2",
-        "result_1x2": "1"
-      },
-      {
-        "fixture_id": 1482097,
-        "league_id": 707,
-        "league": "Cup",
-        "kickoff_local": "2025-11-19T23:00:00+11:00",
-        "kickoff_utc": "2025-11-19T12:00:00+00:00",
-        "home": "Pogradeci",
-        "away": "Korabi Peshkopi",
-        "status": "FT",
-        "ft": "4-3",
-        "result_1x2": "1"
-      },
-      {
-        "fixture_id": 1482098,
-        "league_id": 707,
-        "league": "Cup",
-        "kickoff_local": "2025-11-19T23:00:00+11:00",
-        "kickoff_utc": "2025-11-19T12:00:00+00:00",
-        "home": "Skenderbeu Korce",
-        "away": "Iliria Fushë-Krujë",
-        "status": "FT",
-        "ft": "4-2",
         "result_1x2": "1"
       }
     ]

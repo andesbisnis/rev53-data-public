@@ -1,60 +1,8 @@
 {
-  "generated_at_utc": "2025-11-19T21:43:08.247477+00:00",
+  "generated_at_utc": "2025-11-19T22:43:06.946613+00:00",
   "window_hours": 36,
   "max_fixtures": 60,
   "fixtures": [
-    {
-      "fixture_id": 1353631,
-      "league_id": 72,
-      "league": "Serie B",
-      "kickoff_local": "2025-11-20T09:30:00+11:00",
-      "kickoff_utc": "2025-11-19T22:30:00+00:00",
-      "home": "Vila Nova",
-      "away": "Volta Redonda",
-      "status": "NS",
-      "markets": {
-        "1x2": {
-          "Home": 1.73,
-          "Draw": 3.7,
-          "Away": 4.55
-        },
-        "ou_2_5": {
-          "over": 1.83,
-          "under": 1.95
-        },
-        "dc": {
-          "Home/Draw": 1.18,
-          "Home/Away": 1.22,
-          "Draw/Away": 2.05
-        }
-      }
-    },
-    {
-      "fixture_id": 1478044,
-      "league_id": 71,
-      "league": "Serie A",
-      "kickoff_local": "2025-11-20T09:30:00+11:00",
-      "kickoff_utc": "2025-11-19T22:30:00+00:00",
-      "home": "Palmeiras",
-      "away": "Vitoria",
-      "status": "NS",
-      "markets": {
-        "1x2": {
-          "Home": 1.35,
-          "Draw": 5.1,
-          "Away": 7.9
-        },
-        "ou_2_5": {
-          "over": 4.1,
-          "under": 1.2
-        },
-        "dc": {
-          "Home/Draw": 1.05,
-          "Home/Away": 1.17,
-          "Draw/Away": 3.2
-        }
-      }
-    },
     {
       "fixture_id": 1486077,
       "league_id": 265,
@@ -102,14 +50,14 @@
       "status": "NS",
       "markets": {
         "1x2": {
-          "Home": 1.9,
-          "Draw": 2.9,
-          "Away": 4.0
+          "Home": 1.75,
+          "Draw": 3.0,
+          "Away": 4.6
         },
         "dc": {
-          "Home/Draw": 1.17,
-          "Home/Away": 1.3,
-          "Draw/Away": 1.8
+          "Home/Draw": 1.13,
+          "Home/Away": 1.28,
+          "Draw/Away": 1.95
         }
       }
     },
@@ -238,18 +186,18 @@
       "status": "NS",
       "markets": {
         "1x2": {
-          "Home": 1.98,
-          "Draw": 3.35,
-          "Away": 3.9
+          "Home": 1.91,
+          "Draw": 3.45,
+          "Away": 4.1
         },
         "ou_2_5": {
           "over": 4.75,
           "under": 1.15
         },
         "dc": {
-          "Home/Draw": 1.25,
+          "Home/Draw": 1.22,
           "Home/Away": 1.25,
-          "Draw/Away": 1.8
+          "Draw/Away": 1.85
         }
       }
     },
@@ -346,18 +294,18 @@
       "status": "NS",
       "markets": {
         "1x2": {
-          "Home": 1.95,
+          "Home": 1.85,
           "Draw": 3.2,
-          "Away": 3.55
+          "Away": 3.95
         },
         "ou_2_5": {
           "over": 2.1,
           "under": 1.7
         },
         "dc": {
-          "Home/Draw": 1.22,
-          "Home/Away": 1.25,
-          "Draw/Away": 1.77
+          "Home/Draw": 1.18,
+          "Home/Away": 1.28,
+          "Draw/Away": 1.85
         }
       }
     },
@@ -985,12 +933,12 @@
       "markets": {
         "1x2": {
           "Home": 3.0,
-          "Draw": 3.0,
-          "Away": 2.25
+          "Draw": 2.8,
+          "Away": 2.3
         },
         "ou_2_5": {
-          "over": 9.0,
-          "under": 1.05
+          "over": 6.5,
+          "under": 1.1
         },
         "dc": {
           "Home/Draw": 1.57,
@@ -998,8 +946,8 @@
           "Draw/Away": 1.3
         },
         "btts": {
-          "yes": 3.8,
-          "no": 1.22
+          "yes": 4.0,
+          "no": 1.2
         }
       }
     },
@@ -1133,6 +1081,26 @@
       "kickoff_utc": "2025-11-20T16:00:00+00:00",
       "home": "Milo",
       "away": "Wakirya",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1486862,
+      "league_id": 378,
+      "league": "Ligue 1",
+      "kickoff_local": "2025-11-21T03:00:00+11:00",
+      "kickoff_utc": "2025-11-20T16:00:00+00:00",
+      "home": "ASM Sangarédi",
+      "away": "Loubha Télimélé",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1487266,
+      "league_id": 760,
+      "league": "LFA First Division",
+      "kickoff_local": "2025-11-21T03:00:00+11:00",
+      "kickoff_utc": "2025-11-20T16:00:00+00:00",
+      "home": "Black Man Warrior",
+      "away": "Fassell",
       "status": "NS"
     }
   ]

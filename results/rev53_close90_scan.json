@@ -1,60 +1,8 @@
 {
-  "generated_at_utc": "2025-11-19T22:15:00.198050+00:00",
+  "generated_at_utc": "2025-11-19T23:15:01.210765+00:00",
   "window_before_min": 15,
   "window_after_min": 120,
   "fixtures": [
-    {
-      "fixture_id": 1353631,
-      "league_id": 72,
-      "league": "Serie B",
-      "kickoff_local": "2025-11-20T09:30:00+11:00",
-      "kickoff_utc": "2025-11-19T22:30:00+00:00",
-      "home": "Vila Nova",
-      "away": "Volta Redonda",
-      "status": "NS",
-      "markets": {
-        "1x2": {
-          "Home": 1.73,
-          "Draw": 3.7,
-          "Away": 4.55
-        },
-        "ou_2_5": {
-          "over": 1.83,
-          "under": 1.95
-        },
-        "dc": {
-          "Home/Draw": 1.18,
-          "Home/Away": 1.22,
-          "Draw/Away": 2.05
-        }
-      }
-    },
-    {
-      "fixture_id": 1478044,
-      "league_id": 71,
-      "league": "Serie A",
-      "kickoff_local": "2025-11-20T09:30:00+11:00",
-      "kickoff_utc": "2025-11-19T22:30:00+00:00",
-      "home": "Palmeiras",
-      "away": "Vitoria",
-      "status": "NS",
-      "markets": {
-        "1x2": {
-          "Home": 1.35,
-          "Draw": 5.1,
-          "Away": 7.9
-        },
-        "ou_2_5": {
-          "over": 4.1,
-          "under": 1.2
-        },
-        "dc": {
-          "Home/Draw": 1.05,
-          "Home/Away": 1.17,
-          "Draw/Away": 3.2
-        }
-      }
-    },
     {
       "fixture_id": 1486077,
       "league_id": 265,
@@ -63,7 +11,7 @@
       "kickoff_utc": "2025-11-19T23:00:00+00:00",
       "home": "Santiago Wanderers",
       "away": "Cobreloa",
-      "status": "NS",
+      "status": "1H",
       "markets": {
         "1x2": {
           "Home": 2.5,
@@ -99,7 +47,7 @@
       "kickoff_utc": "2025-11-19T23:00:00+00:00",
       "home": "Boca Juniors Res.",
       "away": "Instituto Res.",
-      "status": "NS",
+      "status": "1H",
       "markets": {
         "1x2": {
           "Home": 1.75,
@@ -121,7 +69,7 @@
       "kickoff_utc": "2025-11-19T23:00:00+00:00",
       "home": "San Antonio Bulo Bulo",
       "away": "Bolívar",
-      "status": "NS",
+      "status": "1H",
       "markets": {
         "1x2": {
           "Home": 3.45,
@@ -173,6 +121,94 @@
       "kickoff_utc": "2025-11-20T00:00:00+00:00",
       "home": "Papua New Guinea W",
       "away": "Solomon Islands W",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1478013,
+      "league_id": 71,
+      "league": "Serie A",
+      "kickoff_local": "2025-11-20T11:30:00+11:00",
+      "kickoff_utc": "2025-11-20T00:30:00+00:00",
+      "home": "Fluminense",
+      "away": "Flamengo",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 3.4,
+          "Draw": 3.1,
+          "Away": 2.25
+        },
+        "ou_2_5": {
+          "over": 6.8,
+          "under": 1.07
+        },
+        "dc": {
+          "Home/Draw": 1.6,
+          "Home/Away": 1.33,
+          "Draw/Away": 1.3
+        }
+      }
+    },
+    {
+      "fixture_id": 1478014,
+      "league_id": 71,
+      "league": "Serie A",
+      "kickoff_local": "2025-11-20T11:30:00+11:00",
+      "kickoff_utc": "2025-11-20T00:30:00+00:00",
+      "home": "Gremio",
+      "away": "Vasco DA Gama",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 1.98,
+          "Draw": 3.55,
+          "Away": 3.65
+        },
+        "ou_2_5": {
+          "over": 3.8,
+          "under": 1.22
+        },
+        "dc": {
+          "Home/Draw": 1.28,
+          "Home/Away": 1.25,
+          "Draw/Away": 1.8
+        }
+      }
+    },
+    {
+      "fixture_id": 1478016,
+      "league_id": 71,
+      "league": "Serie A",
+      "kickoff_local": "2025-11-20T11:30:00+11:00",
+      "kickoff_utc": "2025-11-20T00:30:00+00:00",
+      "home": "Santos",
+      "away": "Mirassol",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 1.91,
+          "Draw": 3.45,
+          "Away": 4.1
+        },
+        "ou_2_5": {
+          "over": 4.75,
+          "under": 1.15
+        },
+        "dc": {
+          "Home/Draw": 1.22,
+          "Home/Away": 1.25,
+          "Draw/Away": 1.85
+        }
+      }
+    },
+    {
+      "fixture_id": 1482958,
+      "league_id": 421,
+      "league": "Division di Honor",
+      "kickoff_local": "2025-11-20T11:30:00+11:00",
+      "kickoff_utc": "2025-11-20T00:30:00+00:00",
+      "home": "Sporting",
+      "away": "RCA",
       "status": "NS"
     }
   ]
