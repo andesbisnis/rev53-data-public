@@ -1,6 +1,17 @@
 {
-  "generated_at_utc": "2025-11-19T05:14:55.984877+00:00",
+  "generated_at_utc": "2025-11-19T06:14:57.412813+00:00",
   "window_before_min": 15,
   "window_after_min": 120,
-  "fixtures": []
+  "fixtures": [
+    {
+      "fixture_id": 1468981,
+      "league_id": 1140,
+      "league": "AFC Women's Champions League",
+      "kickoff_local": "2025-11-19T19:00:00+11:00",
+      "kickoff_utc": "2025-11-19T08:00:00+00:00",
+      "home": "Stallion W",
+      "away": "Lion City W",
+      "status": "NS"
+    }
+  ]
 }
