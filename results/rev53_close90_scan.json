@@ -1,34 +1,8 @@
 {
-  "generated_at_utc": "2025-11-20T01:14:58.107383+00:00",
+  "generated_at_utc": "2025-11-20T02:14:57.468380+00:00",
   "window_before_min": 15,
   "window_after_min": 120,
   "fixtures": [
-    {
-      "fixture_id": 1486340,
-      "league_id": 239,
-      "league": "Primera A",
-      "kickoff_local": "2025-11-20T12:30:00+11:00",
-      "kickoff_utc": "2025-11-20T01:30:00+00:00",
-      "home": "Junior",
-      "away": "Independiente Medellin",
-      "status": "NS",
-      "markets": {
-        "1x2": {
-          "Home": 2.42,
-          "Draw": 3.35,
-          "Away": 2.88
-        },
-        "ou_2_5": {
-          "over": 3.7,
-          "under": 1.22
-        },
-        "dc": {
-          "Home/Draw": 1.4,
-          "Home/Away": 1.25,
-          "Draw/Away": 1.55
-        }
-      }
-    },
     {
       "fixture_id": 1486715,
       "league_id": 263,
