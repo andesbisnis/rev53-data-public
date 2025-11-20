@@ -1,9 +1,33 @@
 {
-  "timestamp": "2025-11-21T00:03:23.279515+11:00",
+  "timestamp": "2025-11-21T01:03:23.019979+11:00",
   "payload": {
     "status": "ok",
     "count": 80,
     "sample": [
+      {
+        "fixture_id": 1436589,
+        "league_id": 317,
+        "league": "1st League - RS",
+        "kickoff_local": "2025-11-20T23:00:00+11:00",
+        "kickoff_utc": "2025-11-20T12:00:00+00:00",
+        "home": "Drina Zvornik",
+        "away": "Famos Vojkovići",
+        "status": "FT",
+        "ft": "6-0",
+        "result_1x2": "1"
+      },
+      {
+        "fixture_id": 1482183,
+        "league_id": 363,
+        "league": "Premier League",
+        "kickoff_local": "2025-11-20T23:00:00+11:00",
+        "kickoff_utc": "2025-11-20T12:00:00+00:00",
+        "home": "Sidama Bunna",
+        "away": "Mekelle Kenema",
+        "status": "FT",
+        "ft": "0-0",
+        "result_1x2": "X"
+      },
       {
         "fixture_id": 1400377,
         "league_id": 369,
@@ -15,6 +39,30 @@
         "status": "FT",
         "ft": "0-0",
         "result_1x2": "X"
+      },
+      {
+        "fixture_id": 1468983,
+        "league_id": 1140,
+        "league": "AFC Women's Champions League",
+        "kickoff_local": "2025-11-20T22:00:00+11:00",
+        "kickoff_utc": "2025-11-20T11:00:00+00:00",
+        "home": "Nasaf W",
+        "away": "Bam Khatoon W",
+        "status": "FT",
+        "ft": "0-1",
+        "result_1x2": "2"
+      },
+      {
+        "fixture_id": 1487232,
+        "league_id": 495,
+        "league": "Hazfi Cup",
+        "kickoff_local": "2025-11-20T22:00:00+11:00",
+        "kickoff_utc": "2025-11-20T11:00:00+00:00",
+        "home": "Be'sat Kermanshah",
+        "away": "Naft Gachsaran",
+        "status": "FT",
+        "ft": "0-1",
+        "result_1x2": "2"
       },
       {
         "fixture_id": 1347836,
@@ -913,56 +961,8 @@
         "home": "ES Agboville",
         "away": "Stade d'Abidjan",
         "status": "FT",
-        "ft": "1-0",
-        "result_1x2": "1"
-      },
-      {
-        "fixture_id": 1423928,
-        "league_id": 701,
-        "league": "Liga Revelação U23",
-        "kickoff_local": "2025-11-20T02:00:00+11:00",
-        "kickoff_utc": "2025-11-19T15:00:00+00:00",
-        "home": "Farense U23",
-        "away": "Estrela U23",
-        "status": "FT",
-        "ft": "4-0",
-        "result_1x2": "1"
-      },
-      {
-        "fixture_id": 1445617,
-        "league_id": 399,
-        "league": "NPFL",
-        "kickoff_local": "2025-11-20T02:00:00+11:00",
-        "kickoff_utc": "2025-11-19T15:00:00+00:00",
-        "home": "Remo Stars",
-        "away": "Kano Pillars",
-        "status": "FT",
-        "ft": "1-0",
-        "result_1x2": "1"
-      },
-      {
-        "fixture_id": 1468522,
-        "league_id": 570,
-        "league": "Premier League",
-        "kickoff_local": "2025-11-20T02:00:00+11:00",
-        "kickoff_utc": "2025-11-19T15:00:00+00:00",
-        "home": "Asante Kotoko",
-        "away": "Young Apostles",
-        "status": "FT",
-        "ft": "2-1",
-        "result_1x2": "1"
-      },
-      {
-        "fixture_id": 1475027,
-        "league_id": 412,
-        "league": "Premier League",
-        "kickoff_local": "2025-11-20T02:00:00+11:00",
-        "kickoff_utc": "2025-11-19T15:00:00+00:00",
-        "home": "Galaxy",
-        "away": "Centre Chiefs",
-        "status": "FT",
-        "ft": "2-0",
-        "result_1x2": "1"
+        "ft": "0-1",
+        "result_1x2": "2"
       }
     ]
   },
