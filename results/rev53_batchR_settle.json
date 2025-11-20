@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-21T09:03:22.997610+11:00",
+  "timestamp": "2025-11-21T10:03:23.051380+11:00",
   "payload": {
     "status": "ok",
     "count": 80,
@@ -86,6 +86,18 @@
         "away": "Pelotas",
         "status": "FT",
         "ft": "1-2",
+        "result_1x2": "2"
+      },
+      {
+        "fixture_id": 1487853,
+        "league_id": 760,
+        "league": "LFA First Division",
+        "kickoff_local": "2025-11-21T07:00:00+11:00",
+        "kickoff_utc": "2025-11-20T20:00:00+00:00",
+        "home": "LISCR",
+        "away": "Heaven Eleven",
+        "status": "FT",
+        "ft": "0-1",
         "result_1x2": "2"
       },
       {
@@ -951,18 +963,6 @@
         "status": "FT",
         "ft": "2-0",
         "result_1x2": "1"
-      },
-      {
-        "fixture_id": 1478016,
-        "league_id": 71,
-        "league": "Serie A",
-        "kickoff_local": "2025-11-20T11:30:00+11:00",
-        "kickoff_utc": "2025-11-20T00:30:00+00:00",
-        "home": "Santos",
-        "away": "Mirassol",
-        "status": "FT",
-        "ft": "1-1",
-        "result_1x2": "X"
       }
     ]
   },

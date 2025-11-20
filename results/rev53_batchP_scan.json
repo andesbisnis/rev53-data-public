@@ -1,70 +1,8 @@
 {
-  "generated_at_utc": "2025-11-20T21:43:07.739357+00:00",
+  "generated_at_utc": "2025-11-20T22:43:07.183853+00:00",
   "window_hours": 36,
   "max_fixtures": 60,
   "fixtures": [
-    {
-      "fixture_id": 1486733,
-      "league_id": 240,
-      "league": "Primera B",
-      "kickoff_local": "2025-11-21T09:10:00+11:00",
-      "kickoff_utc": "2025-11-20T22:10:00+00:00",
-      "home": "Real Cartagena",
-      "away": "Patriotas",
-      "status": "NS"
-    },
-    {
-      "fixture_id": 1396929,
-      "league_id": 252,
-      "league": "Division Profesional - Clausura",
-      "kickoff_local": "2025-11-21T09:30:00+11:00",
-      "kickoff_utc": "2025-11-20T22:30:00+00:00",
-      "home": "Nacional Asuncion",
-      "away": "Sportivo Ameliano",
-      "status": "NS",
-      "markets": {
-        "1x2": {
-          "Home": 1.94,
-          "Draw": 3.15,
-          "Away": 3.85
-        },
-        "ou_2_5": {
-          "over": 2.15,
-          "under": 1.65
-        },
-        "dc": {
-          "Home/Draw": 1.22,
-          "Home/Away": 1.28,
-          "Draw/Away": 1.8
-        }
-      }
-    },
-    {
-      "fixture_id": 1478012,
-      "league_id": 71,
-      "league": "Serie A",
-      "kickoff_local": "2025-11-21T09:30:00+11:00",
-      "kickoff_utc": "2025-11-20T22:30:00+00:00",
-      "home": "Corinthians",
-      "away": "Sao Paulo",
-      "status": "NS",
-      "markets": {
-        "1x2": {
-          "Home": 2.42,
-          "Draw": 2.85,
-          "Away": 3.4
-        },
-        "ou_2_5": {
-          "over": 6.4,
-          "under": 1.08
-        },
-        "dc": {
-          "Home/Draw": 1.3,
-          "Home/Away": 1.36,
-          "Draw/Away": 1.55
-        }
-      }
-    },
     {
       "fixture_id": 1486331,
       "league_id": 906,
@@ -1088,6 +1026,36 @@
       "kickoff_utc": "2025-11-21T12:00:00+00:00",
       "home": "Flacăra Moreni",
       "away": "Voința Crevedia",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1474011,
+      "league_id": 788,
+      "league": "Liga III - Serie 5",
+      "kickoff_local": "2025-11-21T23:00:00+11:00",
+      "kickoff_utc": "2025-11-21T12:00:00+00:00",
+      "home": "CSL Nanov",
+      "away": "Dunărea 2020 Giurgiu",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1474014,
+      "league_id": 788,
+      "league": "Liga III - Serie 5",
+      "kickoff_local": "2025-11-21T23:00:00+11:00",
+      "kickoff_utc": "2025-11-21T12:00:00+00:00",
+      "home": "Academica Balș",
+      "away": "Cetatea",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1474016,
+      "league_id": 788,
+      "league": "Liga III - Serie 5",
+      "kickoff_local": "2025-11-21T23:00:00+11:00",
+      "kickoff_utc": "2025-11-21T12:00:00+00:00",
+      "home": "Alexandria",
+      "away": "LPS HD Clinceni",
       "status": "NS"
     }
   ]
