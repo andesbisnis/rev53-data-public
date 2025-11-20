@@ -1,9 +1,81 @@
 {
-  "timestamp": "2025-11-21T04:03:23.020875+11:00",
+  "timestamp": "2025-11-21T05:03:23.021800+11:00",
   "payload": {
     "status": "ok",
     "count": 80,
     "sample": [
+      {
+        "fixture_id": 1347839,
+        "league_id": 1104,
+        "league": "Liga 3",
+        "kickoff_local": "2025-11-21T03:00:00+11:00",
+        "kickoff_utc": "2025-11-20T16:00:00+00:00",
+        "home": "Shturmi",
+        "away": "Borjomi",
+        "status": "FT",
+        "ft": "3-1",
+        "result_1x2": "1"
+      },
+      {
+        "fixture_id": 1486110,
+        "league_id": 365,
+        "league": "Virsliga",
+        "kickoff_local": "2025-11-21T03:00:00+11:00",
+        "kickoff_utc": "2025-11-20T16:00:00+00:00",
+        "home": "Grobiņa",
+        "away": "JDFS Alberts",
+        "status": "FT",
+        "ft": "0-0",
+        "result_1x2": "X"
+      },
+      {
+        "fixture_id": 1487266,
+        "league_id": 760,
+        "league": "LFA First Division",
+        "kickoff_local": "2025-11-21T03:00:00+11:00",
+        "kickoff_utc": "2025-11-20T16:00:00+00:00",
+        "home": "Black Man Warrior",
+        "away": "Fassell",
+        "status": "FT",
+        "ft": "0-0",
+        "result_1x2": "X"
+      },
+      {
+        "fixture_id": 1469368,
+        "league_id": 423,
+        "league": "Ligue 1",
+        "kickoff_local": "2025-11-21T02:30:00+11:00",
+        "kickoff_utc": "2025-11-20T15:30:00+00:00",
+        "home": "Douanes",
+        "away": "ASFB",
+        "status": "FT",
+        "ft": "0-1",
+        "result_1x2": "2"
+      },
+      {
+        "fixture_id": 1481284,
+        "league_id": 386,
+        "league": "Ligue 1",
+        "kickoff_local": "2025-11-21T02:30:00+11:00",
+        "kickoff_utc": "2025-11-20T15:30:00+00:00",
+        "home": "Olympique Sport d'Abobo",
+        "away": "Bouaké",
+        "status": "FT",
+        "ft": "0-1",
+        "result_1x2": "2"
+      },
+      {
+        "fixture_id": 1481739,
+        "league_id": 301,
+        "league": "Pro League",
+        "kickoff_local": "2025-11-21T02:30:00+11:00",
+        "kickoff_utc": "2025-11-20T15:30:00+00:00",
+        "home": "Khorfakkan",
+        "away": "Shabab Al Ahli Dubai",
+        "status": "FT",
+        "ft": "0-1",
+        "result_1x2": "2"
+      },
       {
         "fixture_id": 1449943,
         "league_id": 816,
@@ -890,78 +962,6 @@
         "away": "Hansa Rostock II",
         "status": "FT",
         "ft": "4-0",
-        "result_1x2": "1"
-      },
-      {
-        "fixture_id": 1407272,
-        "league_id": 750,
-        "league": "Oberliga - Hessen",
-        "kickoff_local": "2025-11-20T05:30:00+11:00",
-        "kickoff_utc": "2025-11-19T18:30:00+00:00",
-        "home": "Eintracht Stadtallendorf",
-        "away": "Weidenhausen",
-        "status": "FT",
-        "ft": "2-2",
-        "result_1x2": "X"
-      },
-      {
-        "fixture_id": 1482369,
-        "league_id": 1191,
-        "league": "UEFA Europa Cup - Women",
-        "kickoff_local": "2025-11-20T05:30:00+11:00",
-        "kickoff_utc": "2025-11-19T18:30:00+00:00",
-        "home": "Austria Wien W",
-        "away": "Anderlecht W",
-        "status": "FT",
-        "ft": "2-1",
-        "result_1x2": "1"
-      },
-      {
-        "fixture_id": 1485627,
-        "league_id": 617,
-        "league": "Copa do Brasil U20",
-        "kickoff_local": "2025-11-20T05:30:00+11:00",
-        "kickoff_utc": "2025-11-19T18:30:00+00:00",
-        "home": "São Paulo U20",
-        "away": "Fortaleza U20",
-        "status": "FT",
-        "ft": "0-1",
-        "result_1x2": "2"
-      },
-      {
-        "fixture_id": 1485628,
-        "league_id": 617,
-        "league": "Copa do Brasil U20",
-        "kickoff_local": "2025-11-20T05:30:00+11:00",
-        "kickoff_utc": "2025-11-19T18:30:00+00:00",
-        "home": "IAPE U20",
-        "away": "Novorizontino U20",
-        "status": "FT",
-        "ft": "1-0",
-        "result_1x2": "1"
-      },
-      {
-        "fixture_id": 1472405,
-        "league_id": 525,
-        "league": "UEFA Champions League Women",
-        "kickoff_local": "2025-11-20T04:45:00+11:00",
-        "kickoff_utc": "2025-11-19T17:45:00+00:00",
-        "home": "Juventus W",
-        "away": "Lyon W",
-        "status": "FT",
-        "ft": "3-3",
-        "result_1x2": "X"
-      },
-      {
-        "fixture_id": 1472406,
-        "league_id": 525,
-        "league": "UEFA Champions League Women",
-        "kickoff_local": "2025-11-20T04:45:00+11:00",
-        "kickoff_utc": "2025-11-19T17:45:00+00:00",
-        "home": "VfL Wolfsburg W",
-        "away": "Manchester United W",
-        "status": "FT",
-        "ft": "5-2",
         "result_1x2": "1"
       }
     ]
