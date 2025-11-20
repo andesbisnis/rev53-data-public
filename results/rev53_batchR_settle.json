@@ -1,9 +1,57 @@
 {
-  "timestamp": "2025-11-21T05:03:23.021800+11:00",
+  "timestamp": "2025-11-21T06:03:23.037839+11:00",
   "payload": {
     "status": "ok",
     "count": 80,
     "sample": [
+      {
+        "fixture_id": 1449944,
+        "league_id": 816,
+        "league": "Shield Cup",
+        "kickoff_local": "2025-11-21T04:00:00+11:00",
+        "kickoff_utc": "2025-11-20T17:00:00+00:00",
+        "home": "Al Jazeera",
+        "away": "Al Hussein",
+        "status": "FT",
+        "ft": "1-2",
+        "result_1x2": "2"
+      },
+      {
+        "fixture_id": 1476708,
+        "league_id": 585,
+        "league": "Premier League",
+        "kickoff_local": "2025-11-21T04:00:00+11:00",
+        "kickoff_utc": "2025-11-20T17:00:00+00:00",
+        "home": "SC Villa",
+        "away": "NEC",
+        "status": "FT",
+        "ft": "2-1",
+        "result_1x2": "1"
+      },
+      {
+        "fixture_id": 1486327,
+        "league_id": 361,
+        "league": "1 Lyga",
+        "kickoff_local": "2025-11-21T04:00:00+11:00",
+        "kickoff_utc": "2025-11-20T17:00:00+00:00",
+        "home": "Sveikata",
+        "away": "FA Šiauliai II",
+        "status": "FT",
+        "ft": "2-2",
+        "result_1x2": "X"
+      },
+      {
+        "fixture_id": 1486726,
+        "league_id": 762,
+        "league": "Premier League",
+        "kickoff_local": "2025-11-21T03:15:00+11:00",
+        "kickoff_utc": "2025-11-20T16:15:00+00:00",
+        "home": "Pompiers",
+        "away": "AC Douane",
+        "status": "FT",
+        "ft": "0-0",
+        "result_1x2": "X"
+      },
       {
         "fixture_id": 1347839,
         "league_id": 1104,
@@ -29,6 +77,30 @@
         "result_1x2": "X"
       },
       {
+        "fixture_id": 1486861,
+        "league_id": 378,
+        "league": "Ligue 1",
+        "kickoff_local": "2025-11-21T03:00:00+11:00",
+        "kickoff_utc": "2025-11-20T16:00:00+00:00",
+        "home": "Milo",
+        "away": "Wakirya",
+        "status": "FT",
+        "ft": "1-1",
+        "result_1x2": "X"
+      },
+      {
+        "fixture_id": 1486862,
+        "league_id": 378,
+        "league": "Ligue 1",
+        "kickoff_local": "2025-11-21T03:00:00+11:00",
+        "kickoff_utc": "2025-11-20T16:00:00+00:00",
+        "home": "ASM Sangarédi",
+        "away": "Loubha Télimélé",
+        "status": "FT",
+        "ft": "2-1",
+        "result_1x2": "1"
+      },
+      {
         "fixture_id": 1487266,
         "league_id": 760,
         "league": "LFA First Division",
@@ -39,6 +111,30 @@
         "status": "FT",
         "ft": "0-0",
         "result_1x2": "X"
+      },
+      {
+        "fixture_id": 1487850,
+        "league_id": 760,
+        "league": "LFA First Division",
+        "kickoff_local": "2025-11-21T03:00:00+11:00",
+        "kickoff_utc": "2025-11-20T16:00:00+00:00",
+        "home": "Discoveries",
+        "away": "Gardnersville",
+        "status": "FT",
+        "ft": "6-2",
+        "result_1x2": "1"
+      },
+      {
+        "fixture_id": 1487851,
+        "league_id": 760,
+        "league": "LFA First Division",
+        "kickoff_local": "2025-11-21T03:00:00+11:00",
+        "kickoff_utc": "2025-11-20T16:00:00+00:00",
+        "home": "Watanga",
+        "away": "Downtown",
+        "status": "FT",
+        "ft": "2-1",
+        "result_1x2": "1"
       },
       {
         "fixture_id": 1469368,
@@ -866,102 +962,6 @@
         "away": "Cucuta",
         "status": "FT",
         "ft": "2-0",
-        "result_1x2": "1"
-      },
-      {
-        "fixture_id": 1482375,
-        "league_id": 1191,
-        "league": "UEFA Europa Cup - Women",
-        "kickoff_local": "2025-11-20T06:45:00+11:00",
-        "kickoff_utc": "2025-11-19T19:45:00+00:00",
-        "home": "Sporting CP W",
-        "away": "Glasgow City W",
-        "status": "AET",
-        "ft": "3-1",
-        "result_1x2": "1"
-      },
-      {
-        "fixture_id": 1486381,
-        "league_id": 182,
-        "league": "Challenge Cup",
-        "kickoff_local": "2025-11-20T06:45:00+11:00",
-        "kickoff_utc": "2025-11-19T19:45:00+00:00",
-        "home": "Dumbarton",
-        "away": "Stenhousemuir",
-        "status": "FT",
-        "ft": "0-2",
-        "result_1x2": "2"
-      },
-      {
-        "fixture_id": 1430273,
-        "league_id": 599,
-        "league": "1. Liga Classic - Group 1",
-        "kickoff_local": "2025-11-20T06:30:00+11:00",
-        "kickoff_utc": "2025-11-19T19:30:00+00:00",
-        "home": "Portalban / Gletterens",
-        "away": "Chênois",
-        "status": "FT",
-        "ft": "2-2",
-        "result_1x2": "X"
-      },
-      {
-        "fixture_id": 1458567,
-        "league_id": 441,
-        "league": "Tercera División RFEF - Group 3",
-        "kickoff_local": "2025-11-20T06:30:00+11:00",
-        "kickoff_utc": "2025-11-19T19:30:00+00:00",
-        "home": "Revilla",
-        "away": "Colindres",
-        "status": "FT",
-        "ft": "2-0",
-        "result_1x2": "1"
-      },
-      {
-        "fixture_id": 1430279,
-        "league_id": 599,
-        "league": "1. Liga Classic - Group 1",
-        "kickoff_local": "2025-11-20T06:00:00+11:00",
-        "kickoff_utc": "2025-11-19T19:00:00+00:00",
-        "home": "La Sarraz-Eclépens",
-        "away": "Sion II",
-        "status": "FT",
-        "ft": "2-2",
-        "result_1x2": "X"
-      },
-      {
-        "fixture_id": 1485625,
-        "league_id": 617,
-        "league": "Copa do Brasil U20",
-        "kickoff_local": "2025-11-20T06:00:00+11:00",
-        "kickoff_utc": "2025-11-19T19:00:00+00:00",
-        "home": "Paysandu PA U20",
-        "away": "América Mineiro U20",
-        "status": "PEN",
-        "ft": "1-0",
-        "result_1x2": "1"
-      },
-      {
-        "fixture_id": 1486379,
-        "league_id": 964,
-        "league": "Copa de la División Profesional",
-        "kickoff_local": "2025-11-20T06:00:00+11:00",
-        "kickoff_utc": "2025-11-19T19:00:00+00:00",
-        "home": "Blooming",
-        "away": "Real Oruro",
-        "status": "FT",
-        "ft": "2-1",
-        "result_1x2": "1"
-      },
-      {
-        "fixture_id": 1406782,
-        "league_id": 754,
-        "league": "Oberliga - Nordost-Nord",
-        "kickoff_local": "2025-11-20T05:30:00+11:00",
-        "kickoff_utc": "2025-11-19T18:30:00+00:00",
-        "home": "Tennis Borussia",
-        "away": "Hansa Rostock II",
-        "status": "FT",
-        "ft": "4-0",
         "result_1x2": "1"
       }
     ]
