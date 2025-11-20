@@ -1,9 +1,45 @@
 {
-  "timestamp": "2025-11-21T02:03:23.056445+11:00",
+  "timestamp": "2025-11-21T03:03:23.093329+11:00",
   "payload": {
     "status": "ok",
     "count": 80,
     "sample": [
+      {
+        "fixture_id": 1449943,
+        "league_id": 816,
+        "league": "Shield Cup",
+        "kickoff_local": "2025-11-21T01:00:00+11:00",
+        "kickoff_utc": "2025-11-20T14:00:00+00:00",
+        "home": "Sama Al Sarhan",
+        "away": "Shabab Al Ordon",
+        "status": "FT",
+        "ft": "1-2",
+        "result_1x2": "2"
+      },
+      {
+        "fixture_id": 1483205,
+        "league_id": 424,
+        "league": "Ligue 1",
+        "kickoff_local": "2025-11-21T01:00:00+11:00",
+        "kickoff_utc": "2025-11-20T14:00:00+00:00",
+        "home": "JSK",
+        "away": "Motema Pembe",
+        "status": "FT",
+        "ft": "2-2",
+        "result_1x2": "X"
+      },
+      {
+        "fixture_id": 1400381,
+        "league_id": 369,
+        "league": "Super League",
+        "kickoff_local": "2025-11-21T00:15:00+11:00",
+        "kickoff_utc": "2025-11-20T13:15:00+00:00",
+        "home": "Pakhtakor",
+        "away": "Nasaf",
+        "status": "FT",
+        "ft": "1-0",
+        "result_1x2": "1"
+      },
       {
         "fixture_id": 1422776,
         "league_id": 186,
@@ -53,6 +89,18 @@
         "result_1x2": "1"
       },
       {
+        "fixture_id": 1483126,
+        "league_id": 424,
+        "league": "Ligue 1",
+        "kickoff_local": "2025-11-21T00:00:00+11:00",
+        "kickoff_utc": "2025-11-20T13:00:00+00:00",
+        "home": "Sanga Balende",
+        "away": "CS Manika",
+        "status": "FT",
+        "ft": "2-1",
+        "result_1x2": "1"
+      },
+      {
         "fixture_id": 1486323,
         "league_id": 667,
         "league": "Friendlies Clubs",
@@ -63,6 +111,18 @@
         "status": "FT",
         "ft": "2-5",
         "result_1x2": "2"
+      },
+      {
+        "fixture_id": 1487233,
+        "league_id": 495,
+        "league": "Hazfi Cup",
+        "kickoff_local": "2025-11-20T23:45:00+11:00",
+        "kickoff_utc": "2025-11-20T12:45:00+00:00",
+        "home": "Saipa",
+        "away": "Nassaji Mazandaran",
+        "status": "PEN",
+        "ft": "0-0",
+        "result_1x2": "X"
       },
       {
         "fixture_id": 1487245,
@@ -147,6 +207,18 @@
         "status": "FT",
         "ft": "0-1",
         "result_1x2": "2"
+      },
+      {
+        "fixture_id": 1403671,
+        "league_id": 274,
+        "league": "Liga 1",
+        "kickoff_local": "2025-11-20T23:00:00+11:00",
+        "kickoff_utc": "2025-11-20T12:00:00+00:00",
+        "home": "Persija",
+        "away": "Persik Kediri",
+        "status": "FT",
+        "ft": "3-1",
+        "result_1x2": "1"
       },
       {
         "fixture_id": 1436589,
@@ -891,78 +963,6 @@
         "status": "FT",
         "ft": "1-1",
         "result_1x2": "X"
-      },
-      {
-        "fixture_id": 1482373,
-        "league_id": 1191,
-        "league": "UEFA Europa Cup - Women",
-        "kickoff_local": "2025-11-20T04:30:00+11:00",
-        "kickoff_utc": "2025-11-19T17:30:00+00:00",
-        "home": "Inter Milano W",
-        "away": "Häcken",
-        "status": "FT",
-        "ft": "0-0",
-        "result_1x2": "X"
-      },
-      {
-        "fixture_id": 1485539,
-        "league_id": 892,
-        "league": "Coppa Italia Serie D",
-        "kickoff_local": "2025-11-20T04:30:00+11:00",
-        "kickoff_utc": "2025-11-19T17:30:00+00:00",
-        "home": "Este",
-        "away": "Mestre",
-        "status": "PEN",
-        "ft": "1-1",
-        "result_1x2": "X"
-      },
-      {
-        "fixture_id": 1482371,
-        "league_id": 1191,
-        "league": "UEFA Europa Cup - Women",
-        "kickoff_local": "2025-11-20T04:00:00+11:00",
-        "kickoff_utc": "2025-11-19T17:00:00+00:00",
-        "home": "Fortuna Hjørring",
-        "away": "Breidablik W",
-        "status": "AET",
-        "ft": "2-4",
-        "result_1x2": "2"
-      },
-      {
-        "fixture_id": 1482374,
-        "league_id": 1191,
-        "league": "UEFA Europa Cup - Women",
-        "kickoff_local": "2025-11-20T04:00:00+11:00",
-        "kickoff_utc": "2025-11-19T17:00:00+00:00",
-        "home": "ŽNK Mura",
-        "away": "Nordsjælland",
-        "status": "FT",
-        "ft": "0-4",
-        "result_1x2": "2"
-      },
-      {
-        "fixture_id": 1482376,
-        "league_id": 1191,
-        "league": "UEFA Europa Cup - Women",
-        "kickoff_local": "2025-11-20T04:00:00+11:00",
-        "kickoff_utc": "2025-11-19T17:00:00+00:00",
-        "home": "Young Boys W",
-        "away": "Sparta Praha W",
-        "status": "FT",
-        "ft": "0-4",
-        "result_1x2": "2"
-      },
-      {
-        "fixture_id": 1486351,
-        "league_id": 725,
-        "league": "Toppserien",
-        "kickoff_local": "2025-11-20T04:00:00+11:00",
-        "kickoff_utc": "2025-11-19T17:00:00+00:00",
-        "home": "Åsane W",
-        "away": "Røa W",
-        "status": "FT",
-        "ft": "0-1",
-        "result_1x2": "2"
       }
     ]
   },
