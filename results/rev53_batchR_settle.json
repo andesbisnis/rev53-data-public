@@ -1,9 +1,33 @@
 {
-  "timestamp": "2025-11-20T17:03:23.144931+11:00",
+  "timestamp": "2025-11-20T18:03:23.055147+11:00",
   "payload": {
     "status": "ok",
     "count": 80,
     "sample": [
+      {
+        "fixture_id": 1487202,
+        "league_id": 666,
+        "league": "Friendlies Women",
+        "kickoff_local": "2025-11-20T14:00:00+11:00",
+        "kickoff_utc": "2025-11-20T03:00:00+00:00",
+        "home": "Fiji W",
+        "away": "Vanuatu W",
+        "status": "FT",
+        "ft": "3-1",
+        "result_1x2": "1"
+      },
+      {
+        "fixture_id": 1486715,
+        "league_id": 263,
+        "league": "Liga de Expansión MX",
+        "kickoff_local": "2025-11-20T13:00:00+11:00",
+        "kickoff_utc": "2025-11-20T02:00:00+00:00",
+        "home": "Monarcas",
+        "away": "Irapuato",
+        "status": "FT",
+        "ft": "0-0",
+        "result_1x2": "X"
+      },
       {
         "fixture_id": 1486340,
         "league_id": 239,
@@ -63,6 +87,102 @@
         "status": "FT",
         "ft": "1-2",
         "result_1x2": "2"
+      },
+      {
+        "fixture_id": 1487209,
+        "league_id": 666,
+        "league": "Friendlies Women",
+        "kickoff_local": "2025-11-20T11:00:00+11:00",
+        "kickoff_utc": "2025-11-20T00:00:00+00:00",
+        "home": "Papua New Guinea W",
+        "away": "Solomon Islands W",
+        "status": "FT",
+        "ft": "5-0",
+        "result_1x2": "1"
+      },
+      {
+        "fixture_id": 1486339,
+        "league_id": 239,
+        "league": "Primera A",
+        "kickoff_local": "2025-11-20T10:30:00+11:00",
+        "kickoff_utc": "2025-11-19T23:30:00+00:00",
+        "home": "Bucaramanga",
+        "away": "Santa Fe",
+        "status": "FT",
+        "ft": "1-0",
+        "result_1x2": "1"
+      },
+      {
+        "fixture_id": 1486077,
+        "league_id": 265,
+        "league": "Primera División",
+        "kickoff_local": "2025-11-20T10:00:00+11:00",
+        "kickoff_utc": "2025-11-19T23:00:00+00:00",
+        "home": "Santiago Wanderers",
+        "away": "Cobreloa",
+        "status": "FT",
+        "ft": "2-2",
+        "result_1x2": "X"
+      },
+      {
+        "fixture_id": 1486285,
+        "league_id": 1115,
+        "league": "Paraense A3",
+        "kickoff_local": "2025-11-20T10:00:00+11:00",
+        "kickoff_utc": "2025-11-19T23:00:00+00:00",
+        "home": "Atletico Paraense",
+        "away": "Gavião",
+        "status": "FT",
+        "ft": "3-1",
+        "result_1x2": "1"
+      },
+      {
+        "fixture_id": 1486330,
+        "league_id": 906,
+        "league": "Reserve League",
+        "kickoff_local": "2025-11-20T10:00:00+11:00",
+        "kickoff_utc": "2025-11-19T23:00:00+00:00",
+        "home": "Boca Juniors Res.",
+        "away": "Instituto Res.",
+        "status": "PEN",
+        "ft": "0-0",
+        "result_1x2": "X"
+      },
+      {
+        "fixture_id": 1486380,
+        "league_id": 964,
+        "league": "Copa de la División Profesional",
+        "kickoff_local": "2025-11-20T10:00:00+11:00",
+        "kickoff_utc": "2025-11-19T23:00:00+00:00",
+        "home": "San Antonio Bulo Bulo",
+        "away": "Bolívar",
+        "status": "FT",
+        "ft": "0-3",
+        "result_1x2": "2"
+      },
+      {
+        "fixture_id": 1353631,
+        "league_id": 72,
+        "league": "Serie B",
+        "kickoff_local": "2025-11-20T09:30:00+11:00",
+        "kickoff_utc": "2025-11-19T22:30:00+00:00",
+        "home": "Vila Nova",
+        "away": "Volta Redonda",
+        "status": "FT",
+        "ft": "2-2",
+        "result_1x2": "X"
+      },
+      {
+        "fixture_id": 1478044,
+        "league_id": 71,
+        "league": "Serie A",
+        "kickoff_local": "2025-11-20T09:30:00+11:00",
+        "kickoff_utc": "2025-11-19T22:30:00+00:00",
+        "home": "Palmeiras",
+        "away": "Vitoria",
+        "status": "FT",
+        "ft": "0-0",
+        "result_1x2": "X"
       },
       {
         "fixture_id": 1483546,
@@ -605,6 +725,18 @@
         "result_1x2": "1"
       },
       {
+        "fixture_id": 1485659,
+        "league_id": 386,
+        "league": "Ligue 1",
+        "kickoff_local": "2025-11-20T02:30:00+11:00",
+        "kickoff_utc": "2025-11-19T15:30:00+00:00",
+        "home": "ES Agboville",
+        "away": "Stade d'Abidjan",
+        "status": "FT",
+        "ft": "1-0",
+        "result_1x2": "1"
+      },
+      {
         "fixture_id": 1423928,
         "league_id": 701,
         "league": "Liga Revelação U23",
@@ -830,138 +962,6 @@
         "away": "UPDF",
         "status": "FT",
         "ft": "0-1",
-        "result_1x2": "2"
-      },
-      {
-        "fixture_id": 1476763,
-        "league_id": 585,
-        "league": "Premier League",
-        "kickoff_local": "2025-11-20T00:00:00+11:00",
-        "kickoff_utc": "2025-11-19T13:00:00+00:00",
-        "home": "Entebbe UPPC",
-        "away": "Police",
-        "status": "FT",
-        "ft": "0-2",
-        "result_1x2": "2"
-      },
-      {
-        "fixture_id": 1483145,
-        "league_id": 424,
-        "league": "Ligue 1",
-        "kickoff_local": "2025-11-20T00:00:00+11:00",
-        "kickoff_utc": "2025-11-19T13:00:00+00:00",
-        "home": "AS New Soger",
-        "away": "Groupe Bazano",
-        "status": "FT",
-        "ft": "2-0",
-        "result_1x2": "1"
-      },
-      {
-        "fixture_id": 1483204,
-        "league_id": 424,
-        "league": "Ligue 1",
-        "kickoff_local": "2025-11-20T00:00:00+11:00",
-        "kickoff_utc": "2025-11-19T13:00:00+00:00",
-        "home": "Etoile de Kivu",
-        "away": "Bukavu Dawa",
-        "status": "FT",
-        "ft": "3-1",
-        "result_1x2": "1"
-      },
-      {
-        "fixture_id": 1483899,
-        "league_id": 847,
-        "league": "Premier League",
-        "kickoff_local": "2025-11-20T00:00:00+11:00",
-        "kickoff_utc": "2025-11-19T13:00:00+00:00",
-        "home": "Malanti Chiefs",
-        "away": "Nsingizini Hotspurs",
-        "status": "FT",
-        "ft": "0-3",
-        "result_1x2": "2"
-      },
-      {
-        "fixture_id": 1483900,
-        "league_id": 847,
-        "league": "Premier League",
-        "kickoff_local": "2025-11-20T00:00:00+11:00",
-        "kickoff_utc": "2025-11-19T13:00:00+00:00",
-        "home": "Tabankulu",
-        "away": "Young Buffaloes",
-        "status": "FT",
-        "ft": "0-1",
-        "result_1x2": "2"
-      },
-      {
-        "fixture_id": 1485767,
-        "league_id": 187,
-        "league": "Ligue 2",
-        "kickoff_local": "2025-11-20T00:00:00+11:00",
-        "kickoff_utc": "2025-11-19T13:00:00+00:00",
-        "home": "IB Khémis El Khechna",
-        "away": "Khroub",
-        "status": "FT",
-        "ft": "1-1",
-        "result_1x2": "X"
-      },
-      {
-        "fixture_id": 1486046,
-        "league_id": 424,
-        "league": "Ligue 1",
-        "kickoff_local": "2025-11-20T00:00:00+11:00",
-        "kickoff_utc": "2025-11-19T13:00:00+00:00",
-        "home": "Saint-Luc",
-        "away": "Blessing",
-        "status": "FT",
-        "ft": "1-0",
-        "result_1x2": "1"
-      },
-      {
-        "fixture_id": 1365389,
-        "league_id": 391,
-        "league": "Super League",
-        "kickoff_local": "2025-11-19T23:30:00+11:00",
-        "kickoff_utc": "2025-11-19T12:30:00+00:00",
-        "home": "Creck",
-        "away": "Karonga United",
-        "status": "FT",
-        "ft": "1-0",
-        "result_1x2": "1"
-      },
-      {
-        "fixture_id": 1365395,
-        "league_id": 391,
-        "league": "Super League",
-        "kickoff_local": "2025-11-19T23:30:00+11:00",
-        "kickoff_utc": "2025-11-19T12:30:00+00:00",
-        "home": "Mighty Tigers",
-        "away": "Kamuzu Barracks",
-        "status": "FT",
-        "ft": "1-0",
-        "result_1x2": "1"
-      },
-      {
-        "fixture_id": 1365444,
-        "league_id": 391,
-        "league": "Super League",
-        "kickoff_local": "2025-11-19T23:30:00+11:00",
-        "kickoff_utc": "2025-11-19T12:30:00+00:00",
-        "home": "Songwe Border United",
-        "away": "Ekwendeni Hammers",
-        "status": "FT",
-        "ft": "0-3",
-        "result_1x2": "2"
-      },
-      {
-        "fixture_id": 1366131,
-        "league_id": 391,
-        "league": "Super League",
-        "kickoff_local": "2025-11-19T23:30:00+11:00",
-        "kickoff_utc": "2025-11-19T12:30:00+00:00",
-        "home": "MAFCO",
-        "away": "Blue Eagles",
-        "status": "FT",
-        "ft": "1-2",
         "result_1x2": "2"
       }
     ]

@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2025-11-20T06:14:57.476657+00:00",
+  "generated_at_utc": "2025-11-20T07:14:57.372434+00:00",
   "window_before_min": 15,
   "window_after_min": 120,
   "fixtures": [
@@ -11,7 +11,33 @@
       "kickoff_utc": "2025-11-20T07:00:00+00:00",
       "home": "East Bengal W",
       "away": "Wuhan Jiangda W",
-      "status": "NS"
+      "status": "1H"
+    },
+    {
+      "fixture_id": 1403670,
+      "league_id": 274,
+      "league": "Liga 1",
+      "kickoff_local": "2025-11-20T19:30:00+11:00",
+      "kickoff_utc": "2025-11-20T08:30:00+00:00",
+      "home": "Persijap",
+      "away": "Semen Padang",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 1.85,
+          "Draw": 3.2,
+          "Away": 3.95
+        },
+        "ou_2_5": {
+          "over": 2.1,
+          "under": 1.7
+        },
+        "dc": {
+          "Home/Draw": 1.18,
+          "Home/Away": 1.28,
+          "Draw/Away": 1.85
+        }
+      }
     }
   ]
 }
