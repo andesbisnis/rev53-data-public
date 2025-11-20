@@ -1,9 +1,21 @@
 {
-  "timestamp": "2025-11-20T19:03:23.071162+11:00",
+  "timestamp": "2025-11-20T20:03:23.125664+11:00",
   "payload": {
     "status": "ok",
     "count": 80,
     "sample": [
+      {
+        "fixture_id": 1468982,
+        "league_id": 1140,
+        "league": "AFC Women's Champions League",
+        "kickoff_local": "2025-11-20T18:00:00+11:00",
+        "kickoff_utc": "2025-11-20T07:00:00+00:00",
+        "home": "East Bengal W",
+        "away": "Wuhan Jiangda W",
+        "status": "FT",
+        "ft": "0-2",
+        "result_1x2": "2"
+      },
       {
         "fixture_id": 1487202,
         "league_id": 666,
@@ -951,18 +963,6 @@
         "status": "FT",
         "ft": "1-0",
         "result_1x2": "1"
-      },
-      {
-        "fixture_id": 1476704,
-        "league_id": 585,
-        "league": "Premier League",
-        "kickoff_local": "2025-11-20T00:00:00+11:00",
-        "kickoff_utc": "2025-11-19T13:00:00+00:00",
-        "home": "Calvary",
-        "away": "UPDF",
-        "status": "FT",
-        "ft": "0-1",
-        "result_1x2": "2"
       }
     ]
   },
