@@ -1,8 +1,8 @@
 {
-  "generated_at_utc": "2025-11-20T11:44:54.294524Z",
+  "generated_at_utc": "2025-11-20T12:14:54.328759Z",
   "window_minutes": 90,
   "source": "rev53_batchP_scan.json",
-  "max_fixtures": 17,
+  "max_fixtures": 18,
   "fixtures": [
     {
       "fixture_id": 1403671,
@@ -365,6 +365,36 @@
       "home": "Vasteras SK FK",
       "away": "IF Brommapojkarna",
       "status": "NS"
+    },
+    {
+      "fixture_id": 1400381,
+      "league_id": 369,
+      "league": "Super League",
+      "kickoff_local": "2025-11-21T00:15:00+11:00",
+      "kickoff_utc": "2025-11-20T13:15:00+00:00",
+      "home": "Pakhtakor",
+      "away": "Nasaf",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 1.7,
+          "Draw": 3.4,
+          "Away": 4.2
+        },
+        "ou_2_5": {
+          "over": 4.6,
+          "under": 1.17
+        },
+        "dc": {
+          "Home/Draw": 1.18,
+          "Home/Away": 1.25,
+          "Draw/Away": 2.05
+        },
+        "btts": {
+          "yes": 3.3,
+          "no": 1.29
+        }
+      }
     }
   ]
 }
