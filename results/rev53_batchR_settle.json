@@ -1,9 +1,69 @@
 {
-  "timestamp": "2025-11-21T07:03:23.126430+11:00",
+  "timestamp": "2025-11-21T08:03:23.084233+11:00",
   "payload": {
     "status": "ok",
     "count": 80,
     "sample": [
+      {
+        "fixture_id": 1447094,
+        "league_id": 871,
+        "league": "Premier League Cup",
+        "kickoff_local": "2025-11-21T06:00:00+11:00",
+        "kickoff_utc": "2025-11-20T19:00:00+00:00",
+        "home": "Burnley U21",
+        "away": "Queens Park Rangers U21",
+        "status": "FT",
+        "ft": "1-3",
+        "result_1x2": "2"
+      },
+      {
+        "fixture_id": 1466702,
+        "league_id": 1039,
+        "league": "Premier League International Cup",
+        "kickoff_local": "2025-11-21T06:00:00+11:00",
+        "kickoff_utc": "2025-11-20T19:00:00+00:00",
+        "home": "Sunderland U21",
+        "away": "Sporting CP B",
+        "status": "FT",
+        "ft": "1-0",
+        "result_1x2": "1"
+      },
+      {
+        "fixture_id": 1478015,
+        "league_id": 71,
+        "league": "Serie A",
+        "kickoff_local": "2025-11-21T06:00:00+11:00",
+        "kickoff_utc": "2025-11-20T19:00:00+00:00",
+        "home": "Juventude",
+        "away": "Cruzeiro",
+        "status": "FT",
+        "ft": "3-3",
+        "result_1x2": "X"
+      },
+      {
+        "fixture_id": 1486763,
+        "league_id": 1158,
+        "league": "Copa Gaúcha",
+        "kickoff_local": "2025-11-21T06:00:00+11:00",
+        "kickoff_utc": "2025-11-20T19:00:00+00:00",
+        "home": "Brasil DE Pelotas",
+        "away": "Gaúcho",
+        "status": "FT",
+        "ft": "1-1",
+        "result_1x2": "X"
+      },
+      {
+        "fixture_id": 1404994,
+        "league_id": 488,
+        "league": "U19 Bundesliga",
+        "kickoff_local": "2025-11-21T05:00:00+11:00",
+        "kickoff_utc": "2025-11-20T18:00:00+00:00",
+        "home": "Preußen Münster U19",
+        "away": "Arminia Bielefeld U19",
+        "status": "FT",
+        "ft": "1-0",
+        "result_1x2": "1"
+      },
       {
         "fixture_id": 1422773,
         "league_id": 186,
@@ -902,66 +962,6 @@
         "away": "Bolívar",
         "status": "FT",
         "ft": "0-3",
-        "result_1x2": "2"
-      },
-      {
-        "fixture_id": 1353631,
-        "league_id": 72,
-        "league": "Serie B",
-        "kickoff_local": "2025-11-20T09:30:00+11:00",
-        "kickoff_utc": "2025-11-19T22:30:00+00:00",
-        "home": "Vila Nova",
-        "away": "Volta Redonda",
-        "status": "FT",
-        "ft": "2-2",
-        "result_1x2": "X"
-      },
-      {
-        "fixture_id": 1478044,
-        "league_id": 71,
-        "league": "Serie A",
-        "kickoff_local": "2025-11-20T09:30:00+11:00",
-        "kickoff_utc": "2025-11-19T22:30:00+00:00",
-        "home": "Palmeiras",
-        "away": "Vitoria",
-        "status": "FT",
-        "ft": "0-0",
-        "result_1x2": "X"
-      },
-      {
-        "fixture_id": 1483546,
-        "league_id": 591,
-        "league": "Pro League",
-        "kickoff_local": "2025-11-20T08:00:00+11:00",
-        "kickoff_utc": "2025-11-19T21:00:00+00:00",
-        "home": "San Juan Jabloteh",
-        "away": "Phoenix",
-        "status": "FT",
-        "ft": "2-3",
-        "result_1x2": "2"
-      },
-      {
-        "fixture_id": 1483547,
-        "league_id": 591,
-        "league": "Pro League",
-        "kickoff_local": "2025-11-20T08:00:00+11:00",
-        "kickoff_utc": "2025-11-19T21:00:00+00:00",
-        "home": "Ath­let­ic Club",
-        "away": "Police",
-        "status": "FT",
-        "ft": "3-3",
-        "result_1x2": "X"
-      },
-      {
-        "fixture_id": 1483549,
-        "league_id": 591,
-        "league": "Pro League",
-        "kickoff_local": "2025-11-20T08:00:00+11:00",
-        "kickoff_utc": "2025-11-19T21:00:00+00:00",
-        "home": "La Horquetta Rangers",
-        "away": "Club Sando",
-        "status": "FT",
-        "ft": "0-6",
         "result_1x2": "2"
       }
     ]
