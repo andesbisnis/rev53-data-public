@@ -1,9 +1,93 @@
 {
-  "timestamp": "2025-11-21T08:03:23.084233+11:00",
+  "timestamp": "2025-11-21T09:03:22.997610+11:00",
   "payload": {
     "status": "ok",
     "count": 80,
     "sample": [
+      {
+        "fixture_id": 1387301,
+        "league_id": 41,
+        "league": "League One",
+        "kickoff_local": "2025-11-21T07:00:00+11:00",
+        "kickoff_utc": "2025-11-20T20:00:00+00:00",
+        "home": "Peterborough",
+        "away": "Stockport County",
+        "status": "FT",
+        "ft": "3-0",
+        "result_1x2": "1"
+      },
+      {
+        "fixture_id": 1396933,
+        "league_id": 252,
+        "league": "Division Profesional - Clausura",
+        "kickoff_local": "2025-11-21T07:00:00+11:00",
+        "kickoff_utc": "2025-11-20T20:00:00+00:00",
+        "home": "Sportivo Trinidense",
+        "away": "Atlético Tembetary",
+        "status": "FT",
+        "ft": "1-1",
+        "result_1x2": "X"
+      },
+      {
+        "fixture_id": 1472411,
+        "league_id": 525,
+        "league": "UEFA Champions League Women",
+        "kickoff_local": "2025-11-21T07:00:00+11:00",
+        "kickoff_utc": "2025-11-20T20:00:00+00:00",
+        "home": "Paris Saint Germain W",
+        "away": "Bayern Munich W",
+        "status": "FT",
+        "ft": "1-3",
+        "result_1x2": "2"
+      },
+      {
+        "fixture_id": 1472412,
+        "league_id": 525,
+        "league": "UEFA Champions League Women",
+        "kickoff_local": "2025-11-21T07:00:00+11:00",
+        "kickoff_utc": "2025-11-20T20:00:00+00:00",
+        "home": "OH Leuven W",
+        "away": "Roma W",
+        "status": "FT",
+        "ft": "1-1",
+        "result_1x2": "X"
+      },
+      {
+        "fixture_id": 1479459,
+        "league_id": 525,
+        "league": "UEFA Champions League Women",
+        "kickoff_local": "2025-11-21T07:00:00+11:00",
+        "kickoff_utc": "2025-11-20T20:00:00+00:00",
+        "home": "Chelsea W",
+        "away": "Barcelona W",
+        "status": "FT",
+        "ft": "1-1",
+        "result_1x2": "X"
+      },
+      {
+        "fixture_id": 1486732,
+        "league_id": 240,
+        "league": "Primera B",
+        "kickoff_local": "2025-11-21T07:00:00+11:00",
+        "kickoff_utc": "2025-11-20T20:00:00+00:00",
+        "home": "Real Soacha",
+        "away": "Popayan",
+        "status": "FT",
+        "ft": "1-0",
+        "result_1x2": "1"
+      },
+      {
+        "fixture_id": 1486764,
+        "league_id": 1158,
+        "league": "Copa Gaúcha",
+        "kickoff_local": "2025-11-21T07:00:00+11:00",
+        "kickoff_utc": "2025-11-20T20:00:00+00:00",
+        "home": "Aimoré",
+        "away": "Pelotas",
+        "status": "FT",
+        "ft": "1-2",
+        "result_1x2": "2"
+      },
       {
         "fixture_id": 1447094,
         "league_id": 871,
@@ -879,90 +963,6 @@
         "status": "FT",
         "ft": "1-1",
         "result_1x2": "X"
-      },
-      {
-        "fixture_id": 1482958,
-        "league_id": 421,
-        "league": "Division di Honor",
-        "kickoff_local": "2025-11-20T11:30:00+11:00",
-        "kickoff_utc": "2025-11-20T00:30:00+00:00",
-        "home": "Sporting",
-        "away": "RCA",
-        "status": "FT",
-        "ft": "1-2",
-        "result_1x2": "2"
-      },
-      {
-        "fixture_id": 1487209,
-        "league_id": 666,
-        "league": "Friendlies Women",
-        "kickoff_local": "2025-11-20T11:00:00+11:00",
-        "kickoff_utc": "2025-11-20T00:00:00+00:00",
-        "home": "Papua New Guinea W",
-        "away": "Solomon Islands W",
-        "status": "FT",
-        "ft": "5-0",
-        "result_1x2": "1"
-      },
-      {
-        "fixture_id": 1486339,
-        "league_id": 239,
-        "league": "Primera A",
-        "kickoff_local": "2025-11-20T10:30:00+11:00",
-        "kickoff_utc": "2025-11-19T23:30:00+00:00",
-        "home": "Bucaramanga",
-        "away": "Santa Fe",
-        "status": "FT",
-        "ft": "1-0",
-        "result_1x2": "1"
-      },
-      {
-        "fixture_id": 1486077,
-        "league_id": 265,
-        "league": "Primera División",
-        "kickoff_local": "2025-11-20T10:00:00+11:00",
-        "kickoff_utc": "2025-11-19T23:00:00+00:00",
-        "home": "Santiago Wanderers",
-        "away": "Cobreloa",
-        "status": "FT",
-        "ft": "2-2",
-        "result_1x2": "X"
-      },
-      {
-        "fixture_id": 1486285,
-        "league_id": 1115,
-        "league": "Paraense A3",
-        "kickoff_local": "2025-11-20T10:00:00+11:00",
-        "kickoff_utc": "2025-11-19T23:00:00+00:00",
-        "home": "Atletico Paraense",
-        "away": "Gavião",
-        "status": "FT",
-        "ft": "3-1",
-        "result_1x2": "1"
-      },
-      {
-        "fixture_id": 1486330,
-        "league_id": 906,
-        "league": "Reserve League",
-        "kickoff_local": "2025-11-20T10:00:00+11:00",
-        "kickoff_utc": "2025-11-19T23:00:00+00:00",
-        "home": "Boca Juniors Res.",
-        "away": "Instituto Res.",
-        "status": "PEN",
-        "ft": "0-0",
-        "result_1x2": "X"
-      },
-      {
-        "fixture_id": 1486380,
-        "league_id": 964,
-        "league": "Copa de la División Profesional",
-        "kickoff_local": "2025-11-20T10:00:00+11:00",
-        "kickoff_utc": "2025-11-19T23:00:00+00:00",
-        "home": "San Antonio Bulo Bulo",
-        "away": "Bolívar",
-        "status": "FT",
-        "ft": "0-3",
-        "result_1x2": "2"
       }
     ]
   },
