@@ -1,88 +1,8 @@
 {
-  "generated_at_utc": "2025-11-20T18:43:15.012560+00:00",
+  "generated_at_utc": "2025-11-20T19:43:13.585904+00:00",
   "window_hours": 36,
   "max_fixtures": 60,
   "fixtures": [
-    {
-      "fixture_id": 1447094,
-      "league_id": 871,
-      "league": "Premier League Cup",
-      "kickoff_local": "2025-11-21T06:00:00+11:00",
-      "kickoff_utc": "2025-11-20T19:00:00+00:00",
-      "home": "Burnley U21",
-      "away": "Queens Park Rangers U21",
-      "status": "NS",
-      "markets": {
-        "1x2": {
-          "Home": 1.8,
-          "Draw": 3.95,
-          "Away": 3.25
-        },
-        "dc": {
-          "Home/Draw": 1.25,
-          "Home/Away": 1.17,
-          "Draw/Away": 1.91
-        }
-      }
-    },
-    {
-      "fixture_id": 1466702,
-      "league_id": 1039,
-      "league": "Premier League International Cup",
-      "kickoff_local": "2025-11-21T06:00:00+11:00",
-      "kickoff_utc": "2025-11-20T19:00:00+00:00",
-      "home": "Sunderland U21",
-      "away": "Sporting CP B",
-      "status": "NS",
-      "markets": {
-        "1x2": {
-          "Home": 2.4,
-          "Draw": 3.7,
-          "Away": 2.3
-        },
-        "dc": {
-          "Home/Draw": 1.48,
-          "Home/Away": 1.2,
-          "Draw/Away": 1.5
-        }
-      }
-    },
-    {
-      "fixture_id": 1478015,
-      "league_id": 71,
-      "league": "Serie A",
-      "kickoff_local": "2025-11-21T06:00:00+11:00",
-      "kickoff_utc": "2025-11-20T19:00:00+00:00",
-      "home": "Juventude",
-      "away": "Cruzeiro",
-      "status": "NS",
-      "markets": {
-        "1x2": {
-          "Home": 3.95,
-          "Draw": 3.2,
-          "Away": 2.02
-        },
-        "ou_2_5": {
-          "over": 5.75,
-          "under": 1.1
-        },
-        "dc": {
-          "Home/Draw": 1.75,
-          "Home/Away": 1.3,
-          "Draw/Away": 1.25
-        }
-      }
-    },
-    {
-      "fixture_id": 1486763,
-      "league_id": 1158,
-      "league": "Copa Gaúcha",
-      "kickoff_local": "2025-11-21T06:00:00+11:00",
-      "kickoff_utc": "2025-11-20T19:00:00+00:00",
-      "home": "Brasil DE Pelotas",
-      "away": "Gaúcho",
-      "status": "NS"
-    },
     {
       "fixture_id": 1387301,
       "league_id": 41,
@@ -1206,6 +1126,62 @@
           "Draw/Away": 1.57
         }
       }
+    },
+    {
+      "fixture_id": 1446063,
+      "league_id": 372,
+      "league": "Second League",
+      "kickoff_local": "2025-11-21T23:00:00+11:00",
+      "kickoff_utc": "2025-11-21T12:00:00+00:00",
+      "home": "Belasica",
+      "away": "Novaci",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1446064,
+      "league_id": 372,
+      "league": "Second League",
+      "kickoff_local": "2025-11-21T23:00:00+11:00",
+      "kickoff_utc": "2025-11-21T12:00:00+00:00",
+      "home": "Skopje",
+      "away": "Teteks",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 1.33,
+          "Draw": 5.0,
+          "Away": 6.25
+        },
+        "ou_2_5": {
+          "over": 1.44,
+          "under": 2.62
+        },
+        "dc": {
+          "Home/Draw": 1.12,
+          "Home/Away": 1.44,
+          "Draw/Away": 1.91
+        }
+      }
+    },
+    {
+      "fixture_id": 1446065,
+      "league_id": 372,
+      "league": "Second League",
+      "kickoff_local": "2025-11-21T23:00:00+11:00",
+      "kickoff_utc": "2025-11-21T12:00:00+00:00",
+      "home": "Osogovo",
+      "away": "Vardar Negotino",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1470626,
+      "league_id": 276,
+      "league": "FKF Premier League",
+      "kickoff_local": "2025-11-21T23:00:00+11:00",
+      "kickoff_utc": "2025-11-21T12:00:00+00:00",
+      "home": "Police",
+      "away": "Mathare United",
+      "status": "NS"
     }
   ]
 }
