@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-21T03:03:23.093329+11:00",
+  "timestamp": "2025-11-21T04:03:23.020875+11:00",
   "payload": {
     "status": "ok",
     "count": 80,
@@ -27,6 +27,18 @@
         "status": "FT",
         "ft": "2-2",
         "result_1x2": "X"
+      },
+      {
+        "fixture_id": 1486734,
+        "league_id": 542,
+        "league": "Iraqi League",
+        "kickoff_local": "2025-11-21T01:00:00+11:00",
+        "kickoff_utc": "2025-11-20T14:00:00+00:00",
+        "home": "Al Shorta",
+        "away": "Al Karkh",
+        "status": "FT",
+        "ft": "3-0",
+        "result_1x2": "1"
       },
       {
         "fixture_id": 1400381,
@@ -951,18 +963,6 @@
         "status": "FT",
         "ft": "5-2",
         "result_1x2": "1"
-      },
-      {
-        "fixture_id": 1436396,
-        "league_id": 733,
-        "league": "I Liga - Women",
-        "kickoff_local": "2025-11-20T04:30:00+11:00",
-        "kickoff_utc": "2025-11-19T17:30:00+00:00",
-        "home": "Slovan Bratislava W",
-        "away": "Spartak Myjava W",
-        "status": "FT",
-        "ft": "1-1",
-        "result_1x2": "X"
       }
     ]
   },
