@@ -1,9 +1,21 @@
 {
-  "timestamp": "2025-11-20T14:03:22.990011+11:00",
+  "timestamp": "2025-11-20T15:03:23.010915+11:00",
   "payload": {
     "status": "ok",
     "count": 80,
     "sample": [
+      {
+        "fixture_id": 1486340,
+        "league_id": 239,
+        "league": "Primera A",
+        "kickoff_local": "2025-11-20T12:30:00+11:00",
+        "kickoff_utc": "2025-11-20T01:30:00+00:00",
+        "home": "Junior",
+        "away": "Independiente Medellin",
+        "status": "FT",
+        "ft": "1-0",
+        "result_1x2": "1"
+      },
       {
         "fixture_id": 1478013,
         "league_id": 71,
@@ -951,18 +963,6 @@
         "status": "FT",
         "ft": "1-2",
         "result_1x2": "2"
-      },
-      {
-        "fixture_id": 1421111,
-        "league_id": 685,
-        "league": "3. liga - CFL B",
-        "kickoff_local": "2025-11-19T23:30:00+11:00",
-        "kickoff_utc": "2025-11-19T12:30:00+00:00",
-        "home": "Sokol Zápy",
-        "away": "Velké Hamry",
-        "status": "FT",
-        "ft": "4-1",
-        "result_1x2": "1"
       }
     ]
   },

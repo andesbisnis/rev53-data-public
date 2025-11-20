@@ -1,18 +1,8 @@
 {
-  "generated_at_utc": "2025-11-20T02:43:06.999136+00:00",
+  "generated_at_utc": "2025-11-20T03:43:06.347196+00:00",
   "window_hours": 36,
   "max_fixtures": 60,
   "fixtures": [
-    {
-      "fixture_id": 1487202,
-      "league_id": 666,
-      "league": "Friendlies Women",
-      "kickoff_local": "2025-11-20T14:00:00+11:00",
-      "kickoff_utc": "2025-11-20T03:00:00+00:00",
-      "home": "Fiji W",
-      "away": "Vanuatu W",
-      "status": "NS"
-    },
     {
       "fixture_id": 1468982,
       "league_id": 1140,
@@ -1130,6 +1120,32 @@
         },
         "dc": {
           "Home/Draw": 1.5,
+          "Home/Away": 1.25,
+          "Draw/Away": 1.45
+        }
+      }
+    },
+    {
+      "fixture_id": 1485781,
+      "league_id": 114,
+      "league": "Superettan",
+      "kickoff_local": "2025-11-21T05:00:00+11:00",
+      "kickoff_utc": "2025-11-20T18:00:00+00:00",
+      "home": "Norrby IF",
+      "away": "Utsikten",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 2.65,
+          "Draw": 3.45,
+          "Away": 2.5
+        },
+        "ou_2_5": {
+          "over": 1.83,
+          "under": 2.0
+        },
+        "dc": {
+          "Home/Draw": 1.53,
           "Home/Away": 1.25,
           "Draw/Away": 1.45
         }
