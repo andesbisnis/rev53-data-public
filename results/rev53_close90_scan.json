@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2025-11-20T11:35:33.192308Z",
+  "generated_at_utc": "2025-11-20T11:44:54.294524Z",
   "window_minutes": 90,
   "source": "rev53_batchP_scan.json",
   "max_fixtures": 17,
@@ -8,528 +8,363 @@
       "fixture_id": 1403671,
       "league_id": 274,
       "league": "Liga 1",
-      "country": "Indonesia",
-      "season": 2025,
       "kickoff_local": "2025-11-20T23:00:00+11:00",
       "kickoff_utc": "2025-11-20T12:00:00+00:00",
       "home": "Persija",
       "away": "Persik Kediri",
       "status": "NS",
-      "coverage_score": 15,
-      "coverage_max": 17,
-      "coverage_ratio": 0.8823529411764706,
-      "coverage_tag": "A_HIGH",
-      "coverage_flags": {
-        "fixtures_events": true,
-        "fixtures_lineups": true,
-        "fixtures_statistics_fixtures": false,
-        "fixtures_statistics_players": false,
-        "standings": true,
-        "players": true,
-        "top_scorers": true,
-        "top_assists": true,
-        "top_cards": true,
-        "injuries": true,
-        "predictions": true,
-        "odds": true
-      },
-      "markets": {}
+      "markets": {
+        "1x2": {
+          "Home": 1.4,
+          "Draw": 4.0,
+          "Away": 7.0
+        },
+        "ou_2_5": {
+          "over": 1.8,
+          "under": 1.93
+        },
+        "dc": {
+          "Home/Draw": 1.05,
+          "Home/Away": 1.17,
+          "Draw/Away": 2.75
+        }
+      }
     },
     {
       "fixture_id": 1436589,
       "league_id": 317,
       "league": "1st League - RS",
-      "country": "Bosnia",
-      "season": 2025,
       "kickoff_local": "2025-11-20T23:00:00+11:00",
       "kickoff_utc": "2025-11-20T12:00:00+00:00",
       "home": "Drina Zvornik",
       "away": "Famos Vojkovići",
       "status": "NS",
-      "coverage_score": 10,
-      "coverage_max": 17,
-      "coverage_ratio": 0.5882352941176471,
-      "coverage_tag": "B_MED",
-      "coverage_flags": {
-        "fixtures_events": true,
-        "fixtures_lineups": true,
-        "fixtures_statistics_fixtures": false,
-        "fixtures_statistics_players": false,
-        "standings": true,
-        "players": false,
-        "top_scorers": false,
-        "top_assists": false,
-        "top_cards": false,
-        "injuries": false,
-        "predictions": true,
-        "odds": true
-      },
-      "markets": {}
+      "markets": {
+        "1x2": {
+          "Home": 1.44,
+          "Draw": 3.9,
+          "Away": 6.0
+        },
+        "ou_2_5": {
+          "over": 6.0,
+          "under": 1.11
+        },
+        "dc": {
+          "Home/Draw": 1.1,
+          "Home/Away": 1.2,
+          "Draw/Away": 2.62
+        }
+      }
     },
     {
       "fixture_id": 1482183,
       "league_id": 363,
       "league": "Premier League",
-      "country": "Ethiopia",
-      "season": 2025,
       "kickoff_local": "2025-11-20T23:00:00+11:00",
       "kickoff_utc": "2025-11-20T12:00:00+00:00",
       "home": "Sidama Bunna",
       "away": "Mekelle Kenema",
       "status": "NS",
-      "coverage_score": 7,
-      "coverage_max": 17,
-      "coverage_ratio": 0.4117647058823529,
-      "coverage_tag": "B_MED",
-      "coverage_flags": {
-        "fixtures_events": true,
-        "fixtures_lineups": true,
-        "fixtures_statistics_fixtures": false,
-        "fixtures_statistics_players": false,
-        "standings": true,
-        "players": false,
-        "top_scorers": false,
-        "top_assists": false,
-        "top_cards": false,
-        "injuries": false,
-        "predictions": true,
-        "odds": false
-      },
-      "markets": {}
+      "markets": {
+        "1x2": {
+          "Home": 1.64,
+          "Draw": 3.1,
+          "Away": 5.25
+        },
+        "ou_2_5": {
+          "over": 2.3,
+          "under": 1.45
+        },
+        "dc": {
+          "Home/Draw": 1.1,
+          "Home/Away": 1.25,
+          "Draw/Away": 2.15
+        }
+      }
     },
     {
       "fixture_id": 1440841,
       "league_id": 887,
       "league": "Second League",
-      "country": "Egypt",
-      "season": 2025,
       "kickoff_local": "2025-11-20T23:30:00+11:00",
       "kickoff_utc": "2025-11-20T12:30:00+00:00",
       "home": "El Dakhleya",
       "away": "Olympic El Qanah",
       "status": "NS",
-      "coverage_score": 10,
-      "coverage_max": 17,
-      "coverage_ratio": 0.5882352941176471,
-      "coverage_tag": "B_MED",
-      "coverage_flags": {
-        "fixtures_events": true,
-        "fixtures_lineups": true,
-        "fixtures_statistics_fixtures": false,
-        "fixtures_statistics_players": false,
-        "standings": true,
-        "players": false,
-        "top_scorers": false,
-        "top_assists": false,
-        "top_cards": false,
-        "injuries": false,
-        "predictions": true,
-        "odds": true
-      },
-      "markets": {}
+      "markets": {
+        "1x2": {
+          "Home": 3.75,
+          "Draw": 2.62,
+          "Away": 2.2
+        },
+        "ou_2_5": {
+          "over": 8.5,
+          "under": 1.07
+        },
+        "dc": {
+          "Home/Draw": 1.62,
+          "Home/Away": 1.44,
+          "Draw/Away": 1.25
+        },
+        "btts": {
+          "yes": 5.0,
+          "no": 1.15
+        }
+      }
     },
     {
       "fixture_id": 1440842,
       "league_id": 887,
       "league": "Second League",
-      "country": "Egypt",
-      "season": 2025,
       "kickoff_local": "2025-11-20T23:30:00+11:00",
       "kickoff_utc": "2025-11-20T12:30:00+00:00",
       "home": "Aswan Sc",
       "away": "El Seka El Hadid",
       "status": "NS",
-      "coverage_score": 10,
-      "coverage_max": 17,
-      "coverage_ratio": 0.5882352941176471,
-      "coverage_tag": "B_MED",
-      "coverage_flags": {
-        "fixtures_events": true,
-        "fixtures_lineups": true,
-        "fixtures_statistics_fixtures": false,
-        "fixtures_statistics_players": false,
-        "standings": true,
-        "players": false,
-        "top_scorers": false,
-        "top_assists": false,
-        "top_cards": false,
-        "injuries": false,
-        "predictions": true,
-        "odds": true
-      },
-      "markets": {}
+      "markets": {
+        "1x2": {
+          "Home": 3.0,
+          "Draw": 2.55,
+          "Away": 2.55
+        },
+        "ou_2_5": {
+          "over": 3.5,
+          "under": 1.28
+        },
+        "dc": {
+          "Home/Draw": 1.28,
+          "Home/Away": 2.0,
+          "Draw/Away": 1.22
+        }
+      }
     },
     {
       "fixture_id": 1440843,
       "league_id": 887,
       "league": "Second League",
-      "country": "Egypt",
-      "season": 2025,
       "kickoff_local": "2025-11-20T23:30:00+11:00",
       "kickoff_utc": "2025-11-20T12:30:00+00:00",
       "home": "Raya Ghazl",
       "away": "Baladiyyat Al Mehalla",
       "status": "NS",
-      "coverage_score": 10,
-      "coverage_max": 17,
-      "coverage_ratio": 0.5882352941176471,
-      "coverage_tag": "B_MED",
-      "coverage_flags": {
-        "fixtures_events": true,
-        "fixtures_lineups": true,
-        "fixtures_statistics_fixtures": false,
-        "fixtures_statistics_players": false,
-        "standings": true,
-        "players": false,
-        "top_scorers": false,
-        "top_assists": false,
-        "top_cards": false,
-        "injuries": false,
-        "predictions": true,
-        "odds": true
-      },
-      "markets": {}
+      "markets": {
+        "1x2": {
+          "Home": 2.7,
+          "Draw": 2.45,
+          "Away": 3.0
+        },
+        "ou_2_5": {
+          "over": 9.5,
+          "under": 1.05
+        },
+        "dc": {
+          "Home/Draw": 1.33,
+          "Home/Away": 1.5,
+          "Draw/Away": 1.44
+        },
+        "btts": {
+          "yes": 5.0,
+          "no": 1.15
+        }
+      }
     },
     {
       "fixture_id": 1440844,
       "league_id": 887,
       "league": "Second League",
-      "country": "Egypt",
-      "season": 2025,
       "kickoff_local": "2025-11-20T23:30:00+11:00",
       "kickoff_utc": "2025-11-20T12:30:00+00:00",
       "home": "La Viena FC",
       "away": "Asyut Petrol",
       "status": "NS",
-      "coverage_score": 10,
-      "coverage_max": 17,
-      "coverage_ratio": 0.5882352941176471,
-      "coverage_tag": "B_MED",
-      "coverage_flags": {
-        "fixtures_events": true,
-        "fixtures_lineups": true,
-        "fixtures_statistics_fixtures": false,
-        "fixtures_statistics_players": false,
-        "standings": true,
-        "players": false,
-        "top_scorers": false,
-        "top_assists": false,
-        "top_cards": false,
-        "injuries": false,
-        "predictions": true,
-        "odds": true
-      },
-      "markets": {}
+      "markets": {
+        "1x2": {
+          "Home": 2.4,
+          "Draw": 2.3,
+          "Away": 3.75
+        },
+        "ou_2_5": {
+          "over": 13.0,
+          "under": 1.03
+        },
+        "dc": {
+          "Home/Draw": 1.25,
+          "Home/Away": 1.5,
+          "Draw/Away": 1.53
+        },
+        "btts": {
+          "yes": 7.0,
+          "no": 1.08
+        }
+      }
     },
     {
       "fixture_id": 1440845,
       "league_id": 887,
       "league": "Second League",
-      "country": "Egypt",
-      "season": 2025,
       "kickoff_local": "2025-11-20T23:30:00+11:00",
       "kickoff_utc": "2025-11-20T12:30:00+00:00",
       "home": "Dayrout",
       "away": "Abu Qair Semad",
       "status": "NS",
-      "coverage_score": 10,
-      "coverage_max": 17,
-      "coverage_ratio": 0.5882352941176471,
-      "coverage_tag": "B_MED",
-      "coverage_flags": {
-        "fixtures_events": true,
-        "fixtures_lineups": true,
-        "fixtures_statistics_fixtures": false,
-        "fixtures_statistics_players": false,
-        "standings": true,
-        "players": false,
-        "top_scorers": false,
-        "top_assists": false,
-        "top_cards": false,
-        "injuries": false,
-        "predictions": true,
-        "odds": true
-      },
-      "markets": {}
+      "markets": {
+        "1x2": {
+          "Home": 4.0,
+          "Draw": 3.0,
+          "Away": 1.91
+        },
+        "ou_2_5": {
+          "over": 12.0,
+          "under": 1.04
+        },
+        "dc": {
+          "Home/Draw": 1.75,
+          "Home/Away": 1.4,
+          "Draw/Away": 1.2
+        },
+        "btts": {
+          "yes": 4.8,
+          "no": 1.15
+        }
+      }
     },
     {
       "fixture_id": 1445353,
       "league_id": 887,
       "league": "Second League",
-      "country": "Egypt",
-      "season": 2025,
       "kickoff_local": "2025-11-20T23:30:00+11:00",
       "kickoff_utc": "2025-11-20T12:30:00+00:00",
       "home": "Maleyet Kafr El Zayiat",
       "away": "Masar",
       "status": "NS",
-      "coverage_score": 10,
-      "coverage_max": 17,
-      "coverage_ratio": 0.5882352941176471,
-      "coverage_tag": "B_MED",
-      "coverage_flags": {
-        "fixtures_events": true,
-        "fixtures_lineups": true,
-        "fixtures_statistics_fixtures": false,
-        "fixtures_statistics_players": false,
-        "standings": true,
-        "players": false,
-        "top_scorers": false,
-        "top_assists": false,
-        "top_cards": false,
-        "injuries": false,
-        "predictions": true,
-        "odds": true
-      },
-      "markets": {}
+      "markets": {
+        "1x2": {
+          "Home": 2.1,
+          "Draw": 3.0,
+          "Away": 3.25
+        },
+        "ou_2_5": {
+          "over": 12.0,
+          "under": 1.04
+        },
+        "dc": {
+          "Home/Draw": 1.25,
+          "Home/Away": 1.4,
+          "Draw/Away": 1.62
+        },
+        "btts": {
+          "yes": 4.6,
+          "no": 1.18
+        }
+      }
     },
     {
       "fixture_id": 1487233,
       "league_id": 495,
       "league": "Hazfi Cup",
-      "country": "Iran",
-      "season": 2025,
       "kickoff_local": "2025-11-20T23:45:00+11:00",
       "kickoff_utc": "2025-11-20T12:45:00+00:00",
       "home": "Saipa",
       "away": "Nassaji Mazandaran",
       "status": "NS",
-      "coverage_score": 0,
-      "coverage_max": 17,
-      "coverage_ratio": 0.0,
-      "coverage_tag": "C_LOW",
-      "coverage_flags": {
-        "fixtures_events": false,
-        "fixtures_lineups": false,
-        "fixtures_statistics_fixtures": false,
-        "fixtures_statistics_players": false,
-        "standings": false,
-        "players": false,
-        "top_scorers": false,
-        "top_assists": false,
-        "top_cards": false,
-        "injuries": false,
-        "predictions": false,
-        "odds": false
-      },
-      "markets": {}
+      "markets": {
+        "1x2": {
+          "Home": 3.35,
+          "Draw": 2.8,
+          "Away": 2.15
+        },
+        "dc": {
+          "Home/Draw": 1.55,
+          "Home/Away": 1.33,
+          "Draw/Away": 1.28
+        }
+      }
     },
     {
       "fixture_id": 1487245,
       "league_id": 495,
       "league": "Hazfi Cup",
-      "country": "Iran",
-      "season": 2025,
       "kickoff_local": "2025-11-20T23:45:00+11:00",
       "kickoff_utc": "2025-11-20T12:45:00+00:00",
       "home": "Foolad Hormozgan",
       "away": "Chooka Talesh",
-      "status": "NS",
-      "coverage_score": 0,
-      "coverage_max": 17,
-      "coverage_ratio": 0.0,
-      "coverage_tag": "C_LOW",
-      "coverage_flags": {
-        "fixtures_events": false,
-        "fixtures_lineups": false,
-        "fixtures_statistics_fixtures": false,
-        "fixtures_statistics_players": false,
-        "standings": false,
-        "players": false,
-        "top_scorers": false,
-        "top_assists": false,
-        "top_cards": false,
-        "injuries": false,
-        "predictions": false,
-        "odds": false
-      },
-      "markets": {}
+      "status": "NS"
     },
     {
       "fixture_id": 1422776,
       "league_id": 186,
       "league": "Ligue 1",
-      "country": "Algeria",
-      "season": 2025,
       "kickoff_local": "2025-11-21T00:00:00+11:00",
       "kickoff_utc": "2025-11-20T13:00:00+00:00",
       "home": "Paradou AC",
       "away": "El Bayadh",
       "status": "NS",
-      "coverage_score": 11,
-      "coverage_max": 17,
-      "coverage_ratio": 0.6470588235294118,
-      "coverage_tag": "B_MED",
-      "coverage_flags": {
-        "fixtures_events": true,
-        "fixtures_lineups": true,
-        "fixtures_statistics_fixtures": false,
-        "fixtures_statistics_players": false,
-        "standings": true,
-        "players": false,
-        "top_scorers": false,
-        "top_assists": false,
-        "top_cards": false,
-        "injuries": true,
-        "predictions": true,
-        "odds": true
-      },
-      "markets": {}
+      "markets": {
+        "1x2": {
+          "Home": 1.68,
+          "Draw": 3.1,
+          "Away": 5.4
+        },
+        "ou_2_5": {
+          "over": 2.7,
+          "under": 1.42
+        },
+        "dc": {
+          "Home/Draw": 1.1,
+          "Home/Away": 1.28,
+          "Draw/Away": 2.05
+        }
+      }
     },
     {
       "fixture_id": 1476705,
       "league_id": 585,
       "league": "Premier League",
-      "country": "Uganda",
-      "season": 2025,
       "kickoff_local": "2025-11-21T00:00:00+11:00",
       "kickoff_utc": "2025-11-20T13:00:00+00:00",
       "home": "Kitara",
       "away": "BUL",
-      "status": "NS",
-      "coverage_score": 4,
-      "coverage_max": 17,
-      "coverage_ratio": 0.23529411764705882,
-      "coverage_tag": "C_LOW",
-      "coverage_flags": {
-        "fixtures_events": true,
-        "fixtures_lineups": false,
-        "fixtures_statistics_fixtures": false,
-        "fixtures_statistics_players": false,
-        "standings": true,
-        "players": false,
-        "top_scorers": false,
-        "top_assists": false,
-        "top_cards": false,
-        "injuries": false,
-        "predictions": true,
-        "odds": false
-      },
-      "markets": {}
+      "status": "NS"
     },
     {
       "fixture_id": 1476706,
       "league_id": 585,
       "league": "Premier League",
-      "country": "Uganda",
-      "season": 2025,
       "kickoff_local": "2025-11-21T00:00:00+11:00",
       "kickoff_utc": "2025-11-20T13:00:00+00:00",
       "home": "Lugazi",
       "away": "Express",
-      "status": "NS",
-      "coverage_score": 4,
-      "coverage_max": 17,
-      "coverage_ratio": 0.23529411764705882,
-      "coverage_tag": "C_LOW",
-      "coverage_flags": {
-        "fixtures_events": true,
-        "fixtures_lineups": false,
-        "fixtures_statistics_fixtures": false,
-        "fixtures_statistics_players": false,
-        "standings": true,
-        "players": false,
-        "top_scorers": false,
-        "top_assists": false,
-        "top_cards": false,
-        "injuries": false,
-        "predictions": true,
-        "odds": false
-      },
-      "markets": {}
+      "status": "NS"
     },
     {
       "fixture_id": 1482306,
       "league_id": 363,
       "league": "Premier League",
-      "country": "Ethiopia",
-      "season": 2025,
       "kickoff_local": "2025-11-21T00:00:00+11:00",
       "kickoff_utc": "2025-11-20T13:00:00+00:00",
       "home": "Negelle Arsi",
       "away": "Adama Kenema",
-      "status": "NS",
-      "coverage_score": 7,
-      "coverage_max": 17,
-      "coverage_ratio": 0.4117647058823529,
-      "coverage_tag": "B_MED",
-      "coverage_flags": {
-        "fixtures_events": true,
-        "fixtures_lineups": true,
-        "fixtures_statistics_fixtures": false,
-        "fixtures_statistics_players": false,
-        "standings": true,
-        "players": false,
-        "top_scorers": false,
-        "top_assists": false,
-        "top_cards": false,
-        "injuries": false,
-        "predictions": true,
-        "odds": false
-      },
-      "markets": {}
+      "status": "NS"
     },
     {
       "fixture_id": 1483126,
       "league_id": 424,
       "league": "Ligue 1",
-      "country": "Congo-DR",
-      "season": 2025,
       "kickoff_local": "2025-11-21T00:00:00+11:00",
       "kickoff_utc": "2025-11-20T13:00:00+00:00",
       "home": "Sanga Balende",
       "away": "CS Manika",
-      "status": "NS",
-      "coverage_score": 3,
-      "coverage_max": 17,
-      "coverage_ratio": 0.17647058823529413,
-      "coverage_tag": "C_LOW",
-      "coverage_flags": {
-        "fixtures_events": false,
-        "fixtures_lineups": false,
-        "fixtures_statistics_fixtures": false,
-        "fixtures_statistics_players": false,
-        "standings": true,
-        "players": false,
-        "top_scorers": false,
-        "top_assists": false,
-        "top_cards": false,
-        "injuries": false,
-        "predictions": true,
-        "odds": false
-      },
-      "markets": {}
+      "status": "NS"
     },
     {
       "fixture_id": 1486323,
       "league_id": 667,
       "league": "Friendlies Clubs",
-      "country": "World",
-      "season": 2025,
       "kickoff_local": "2025-11-21T00:00:00+11:00",
       "kickoff_utc": "2025-11-20T13:00:00+00:00",
       "home": "Vasteras SK FK",
       "away": "IF Brommapojkarna",
-      "status": "NS",
-      "coverage_score": 14,
-      "coverage_max": 17,
-      "coverage_ratio": 0.8235294117647058,
-      "coverage_tag": "A_HIGH",
-      "coverage_flags": {
-        "fixtures_events": true,
-        "fixtures_lineups": true,
-        "fixtures_statistics_fixtures": true,
-        "fixtures_statistics_players": true,
-        "standings": false,
-        "players": true,
-        "top_scorers": true,
-        "top_assists": true,
-        "top_cards": true,
-        "injuries": false,
-        "predictions": true,
-        "odds": true
-      },
-      "markets": {}
+      "status": "NS"
     }
   ]
 }
