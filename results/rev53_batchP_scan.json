@@ -1,262 +1,8 @@
 {
-  "generated_at_utc": "2025-11-20T11:43:10.968123+00:00",
+  "generated_at_utc": "2025-11-20T12:43:10.091237+00:00",
   "window_hours": 36,
   "max_fixtures": 60,
   "fixtures": [
-    {
-      "fixture_id": 1403671,
-      "league_id": 274,
-      "league": "Liga 1",
-      "kickoff_local": "2025-11-20T23:00:00+11:00",
-      "kickoff_utc": "2025-11-20T12:00:00+00:00",
-      "home": "Persija",
-      "away": "Persik Kediri",
-      "status": "NS",
-      "markets": {
-        "1x2": {
-          "Home": 1.4,
-          "Draw": 4.0,
-          "Away": 7.0
-        },
-        "ou_2_5": {
-          "over": 1.8,
-          "under": 1.93
-        },
-        "dc": {
-          "Home/Draw": 1.05,
-          "Home/Away": 1.17,
-          "Draw/Away": 2.75
-        }
-      }
-    },
-    {
-      "fixture_id": 1436589,
-      "league_id": 317,
-      "league": "1st League - RS",
-      "kickoff_local": "2025-11-20T23:00:00+11:00",
-      "kickoff_utc": "2025-11-20T12:00:00+00:00",
-      "home": "Drina Zvornik",
-      "away": "Famos Vojkovići",
-      "status": "NS",
-      "markets": {
-        "1x2": {
-          "Home": 1.44,
-          "Draw": 3.9,
-          "Away": 6.0
-        },
-        "ou_2_5": {
-          "over": 6.0,
-          "under": 1.11
-        },
-        "dc": {
-          "Home/Draw": 1.1,
-          "Home/Away": 1.2,
-          "Draw/Away": 2.62
-        }
-      }
-    },
-    {
-      "fixture_id": 1482183,
-      "league_id": 363,
-      "league": "Premier League",
-      "kickoff_local": "2025-11-20T23:00:00+11:00",
-      "kickoff_utc": "2025-11-20T12:00:00+00:00",
-      "home": "Sidama Bunna",
-      "away": "Mekelle Kenema",
-      "status": "NS",
-      "markets": {
-        "1x2": {
-          "Home": 1.64,
-          "Draw": 3.1,
-          "Away": 5.25
-        },
-        "ou_2_5": {
-          "over": 2.3,
-          "under": 1.45
-        },
-        "dc": {
-          "Home/Draw": 1.1,
-          "Home/Away": 1.25,
-          "Draw/Away": 2.15
-        }
-      }
-    },
-    {
-      "fixture_id": 1440841,
-      "league_id": 887,
-      "league": "Second League",
-      "kickoff_local": "2025-11-20T23:30:00+11:00",
-      "kickoff_utc": "2025-11-20T12:30:00+00:00",
-      "home": "El Dakhleya",
-      "away": "Olympic El Qanah",
-      "status": "NS",
-      "markets": {
-        "1x2": {
-          "Home": 3.75,
-          "Draw": 2.62,
-          "Away": 2.2
-        },
-        "ou_2_5": {
-          "over": 8.5,
-          "under": 1.07
-        },
-        "dc": {
-          "Home/Draw": 1.62,
-          "Home/Away": 1.44,
-          "Draw/Away": 1.25
-        },
-        "btts": {
-          "yes": 5.0,
-          "no": 1.15
-        }
-      }
-    },
-    {
-      "fixture_id": 1440842,
-      "league_id": 887,
-      "league": "Second League",
-      "kickoff_local": "2025-11-20T23:30:00+11:00",
-      "kickoff_utc": "2025-11-20T12:30:00+00:00",
-      "home": "Aswan Sc",
-      "away": "El Seka El Hadid",
-      "status": "NS",
-      "markets": {
-        "1x2": {
-          "Home": 3.0,
-          "Draw": 2.55,
-          "Away": 2.55
-        },
-        "ou_2_5": {
-          "over": 3.5,
-          "under": 1.28
-        },
-        "dc": {
-          "Home/Draw": 1.28,
-          "Home/Away": 2.0,
-          "Draw/Away": 1.22
-        }
-      }
-    },
-    {
-      "fixture_id": 1440843,
-      "league_id": 887,
-      "league": "Second League",
-      "kickoff_local": "2025-11-20T23:30:00+11:00",
-      "kickoff_utc": "2025-11-20T12:30:00+00:00",
-      "home": "Raya Ghazl",
-      "away": "Baladiyyat Al Mehalla",
-      "status": "NS",
-      "markets": {
-        "1x2": {
-          "Home": 2.7,
-          "Draw": 2.45,
-          "Away": 3.0
-        },
-        "ou_2_5": {
-          "over": 9.5,
-          "under": 1.05
-        },
-        "dc": {
-          "Home/Draw": 1.33,
-          "Home/Away": 1.5,
-          "Draw/Away": 1.44
-        },
-        "btts": {
-          "yes": 5.0,
-          "no": 1.15
-        }
-      }
-    },
-    {
-      "fixture_id": 1440844,
-      "league_id": 887,
-      "league": "Second League",
-      "kickoff_local": "2025-11-20T23:30:00+11:00",
-      "kickoff_utc": "2025-11-20T12:30:00+00:00",
-      "home": "La Viena FC",
-      "away": "Asyut Petrol",
-      "status": "NS",
-      "markets": {
-        "1x2": {
-          "Home": 2.4,
-          "Draw": 2.3,
-          "Away": 3.75
-        },
-        "ou_2_5": {
-          "over": 13.0,
-          "under": 1.03
-        },
-        "dc": {
-          "Home/Draw": 1.25,
-          "Home/Away": 1.5,
-          "Draw/Away": 1.53
-        },
-        "btts": {
-          "yes": 7.0,
-          "no": 1.08
-        }
-      }
-    },
-    {
-      "fixture_id": 1440845,
-      "league_id": 887,
-      "league": "Second League",
-      "kickoff_local": "2025-11-20T23:30:00+11:00",
-      "kickoff_utc": "2025-11-20T12:30:00+00:00",
-      "home": "Dayrout",
-      "away": "Abu Qair Semad",
-      "status": "NS",
-      "markets": {
-        "1x2": {
-          "Home": 4.0,
-          "Draw": 3.0,
-          "Away": 1.91
-        },
-        "ou_2_5": {
-          "over": 12.0,
-          "under": 1.04
-        },
-        "dc": {
-          "Home/Draw": 1.75,
-          "Home/Away": 1.4,
-          "Draw/Away": 1.2
-        },
-        "btts": {
-          "yes": 4.8,
-          "no": 1.15
-        }
-      }
-    },
-    {
-      "fixture_id": 1445353,
-      "league_id": 887,
-      "league": "Second League",
-      "kickoff_local": "2025-11-20T23:30:00+11:00",
-      "kickoff_utc": "2025-11-20T12:30:00+00:00",
-      "home": "Maleyet Kafr El Zayiat",
-      "away": "Masar",
-      "status": "NS",
-      "markets": {
-        "1x2": {
-          "Home": 2.1,
-          "Draw": 3.0,
-          "Away": 3.25
-        },
-        "ou_2_5": {
-          "over": 12.0,
-          "under": 1.04
-        },
-        "dc": {
-          "Home/Draw": 1.25,
-          "Home/Away": 1.4,
-          "Draw/Away": 1.62
-        },
-        "btts": {
-          "yes": 4.6,
-          "no": 1.18
-        }
-      }
-    },
     {
       "fixture_id": 1487233,
       "league_id": 495,
@@ -1284,6 +1030,240 @@
           "Home/Draw": 1.3,
           "Home/Away": 1.3,
           "Draw/Away": 1.62
+        }
+      }
+    },
+    {
+      "fixture_id": 1486341,
+      "league_id": 239,
+      "league": "Primera A",
+      "kickoff_local": "2025-11-21T11:30:00+11:00",
+      "kickoff_utc": "2025-11-21T00:30:00+00:00",
+      "home": "Atletico Nacional",
+      "away": "America de Cali",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 1.61,
+          "Draw": 3.55,
+          "Away": 6.4
+        },
+        "ou_2_5": {
+          "over": 4.33,
+          "under": 1.18
+        },
+        "dc": {
+          "Home/Draw": 1.12,
+          "Home/Away": 1.2,
+          "Draw/Away": 2.3
+        }
+      }
+    },
+    {
+      "fixture_id": 1481621,
+      "league_id": 234,
+      "league": "Liga Nacional",
+      "kickoff_local": "2025-11-21T12:00:00+11:00",
+      "kickoff_utc": "2025-11-21T01:00:00+00:00",
+      "home": "CD Motagua",
+      "away": "Olancho",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 1.85,
+          "Draw": 3.5,
+          "Away": 3.55
+        },
+        "ou_2_5": {
+          "over": 1.65,
+          "under": 2.15
+        },
+        "dc": {
+          "Home/Draw": 1.22,
+          "Home/Away": 1.22,
+          "Draw/Away": 1.85
+        }
+      }
+    },
+    {
+      "fixture_id": 1485998,
+      "league_id": 262,
+      "league": "Liga MX",
+      "kickoff_local": "2025-11-21T12:00:00+11:00",
+      "kickoff_utc": "2025-11-21T01:00:00+00:00",
+      "home": "Pachuca",
+      "away": "U.N.A.M. - Pumas",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 2.0,
+          "Draw": 3.65,
+          "Away": 3.5
+        },
+        "ou_2_5": {
+          "over": 3.75,
+          "under": 1.22
+        },
+        "dc": {
+          "Home/Draw": 1.3,
+          "Home/Away": 1.22,
+          "Draw/Away": 1.77
+        }
+      }
+    },
+    {
+      "fixture_id": 1392866,
+      "league_id": 162,
+      "league": "Primera División",
+      "kickoff_local": "2025-11-21T13:00:00+11:00",
+      "kickoff_utc": "2025-11-21T02:00:00+00:00",
+      "home": "LD Alajuelense",
+      "away": "CS Cartagines",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 1.6,
+          "Draw": 3.5,
+          "Away": 5.4
+        },
+        "ou_2_5": {
+          "over": 2.1,
+          "under": 1.7
+        },
+        "dc": {
+          "Home/Draw": 1.1,
+          "Home/Away": 1.22,
+          "Draw/Away": 2.25
+        }
+      }
+    },
+    {
+      "fixture_id": 1486716,
+      "league_id": 263,
+      "league": "Liga de Expansión MX",
+      "kickoff_local": "2025-11-21T13:00:00+11:00",
+      "kickoff_utc": "2025-11-21T02:00:00+00:00",
+      "home": "Tepatitlán",
+      "away": "CDS Tampico Madero",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 2.18,
+          "Draw": 3.45,
+          "Away": 3.1
+        },
+        "ou_2_5": {
+          "over": 1.91,
+          "under": 1.85
+        },
+        "dc": {
+          "Home/Draw": 1.35,
+          "Home/Away": 1.25,
+          "Draw/Away": 1.65
+        }
+      }
+    },
+    {
+      "fixture_id": 1486746,
+      "league_id": 673,
+      "league": "Liga MX Femenil",
+      "kickoff_local": "2025-11-21T13:00:00+11:00",
+      "kickoff_utc": "2025-11-21T02:00:00+00:00",
+      "home": "América W",
+      "away": "Tigres UANL W",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 1.97,
+          "Draw": 3.5,
+          "Away": 3.6
+        },
+        "ou_2_5": {
+          "over": 1.8,
+          "under": 2.0
+        },
+        "dc": {
+          "Home/Draw": 1.28,
+          "Home/Away": 1.25,
+          "Draw/Away": 1.8
+        }
+      }
+    },
+    {
+      "fixture_id": 1485997,
+      "league_id": 262,
+      "league": "Liga MX",
+      "kickoff_local": "2025-11-21T14:00:00+11:00",
+      "kickoff_utc": "2025-11-21T03:00:00+00:00",
+      "home": "Club Tijuana",
+      "away": "FC Juarez",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 2.14,
+          "Draw": 3.35,
+          "Away": 3.4
+        },
+        "ou_2_5": {
+          "over": 3.6,
+          "under": 1.25
+        },
+        "dc": {
+          "Home/Draw": 1.3,
+          "Home/Away": 1.28,
+          "Draw/Away": 1.7
+        }
+      }
+    },
+    {
+      "fixture_id": 1403673,
+      "league_id": 274,
+      "league": "Liga 1",
+      "kickoff_local": "2025-11-21T19:30:00+11:00",
+      "kickoff_utc": "2025-11-21T08:30:00+00:00",
+      "home": "PSM Makassar",
+      "away": "PSBS Biak Numfor",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 1.3,
+          "Draw": 4.8,
+          "Away": 7.75
+        },
+        "ou_2_5": {
+          "over": 1.65,
+          "under": 2.15
+        },
+        "dc": {
+          "Home/Draw": 1.04,
+          "Home/Away": 1.11,
+          "Draw/Away": 3.2
+        }
+      }
+    },
+    {
+      "fixture_id": 1469582,
+      "league_id": 188,
+      "league": "A-League",
+      "kickoff_local": "2025-11-21T19:35:00+11:00",
+      "kickoff_utc": "2025-11-21T08:35:00+00:00",
+      "home": "Adelaide United",
+      "away": "Melbourne City",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 2.88,
+          "Draw": 3.55,
+          "Away": 2.32
+        },
+        "ou_2_5": {
+          "over": 3.4,
+          "under": 1.28
+        },
+        "dc": {
+          "Home/Draw": 1.6,
+          "Home/Away": 1.25,
+          "Draw/Away": 1.4
         }
       }
     }
