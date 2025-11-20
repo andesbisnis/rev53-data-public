@@ -1,6 +1,17 @@
 {
-  "generated_at_utc": "2025-11-20T04:14:56.607665+00:00",
+  "generated_at_utc": "2025-11-20T05:14:57.302208+00:00",
   "window_before_min": 15,
   "window_after_min": 120,
-  "fixtures": []
+  "fixtures": [
+    {
+      "fixture_id": 1468982,
+      "league_id": 1140,
+      "league": "AFC Women's Champions League",
+      "kickoff_local": "2025-11-20T18:00:00+11:00",
+      "kickoff_utc": "2025-11-20T07:00:00+00:00",
+      "home": "East Bengal W",
+      "away": "Wuhan Jiangda W",
+      "status": "NS"
+    }
+  ]
 }
