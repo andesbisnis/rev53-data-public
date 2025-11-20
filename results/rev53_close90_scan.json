@@ -1,18 +1,8 @@
 {
-  "generated_at_utc": "2025-11-20T07:14:57.372434+00:00",
+  "generated_at_utc": "2025-11-20T08:15:00.318258+00:00",
   "window_before_min": 15,
   "window_after_min": 120,
   "fixtures": [
-    {
-      "fixture_id": 1468982,
-      "league_id": 1140,
-      "league": "AFC Women's Champions League",
-      "kickoff_local": "2025-11-20T18:00:00+11:00",
-      "kickoff_utc": "2025-11-20T07:00:00+00:00",
-      "home": "East Bengal W",
-      "away": "Wuhan Jiangda W",
-      "status": "1H"
-    },
     {
       "fixture_id": 1403670,
       "league_id": 274,
@@ -25,17 +15,139 @@
       "markets": {
         "1x2": {
           "Home": 1.85,
-          "Draw": 3.2,
-          "Away": 3.95
+          "Draw": 3.35,
+          "Away": 3.8
         },
         "ou_2_5": {
-          "over": 2.1,
-          "under": 1.7
+          "over": 2.05,
+          "under": 1.73
         },
         "dc": {
-          "Home/Draw": 1.18,
-          "Home/Away": 1.28,
+          "Home/Draw": 1.2,
+          "Home/Away": 1.25,
           "Draw/Away": 1.85
+        }
+      }
+    },
+    {
+      "fixture_id": 1347834,
+      "league_id": 1104,
+      "league": "Liga 3",
+      "kickoff_local": "2025-11-20T21:00:00+11:00",
+      "kickoff_utc": "2025-11-20T10:00:00+00:00",
+      "home": "Odishi 1919",
+      "away": "Merani Tbilisi",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1347835,
+      "league_id": 1104,
+      "league": "Liga 3",
+      "kickoff_local": "2025-11-20T21:00:00+11:00",
+      "kickoff_utc": "2025-11-20T10:00:00+00:00",
+      "home": "Gori",
+      "away": "Betlemi",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1347837,
+      "league_id": 1104,
+      "league": "Liga 3",
+      "kickoff_local": "2025-11-20T21:00:00+11:00",
+      "kickoff_utc": "2025-11-20T10:00:00+00:00",
+      "home": "Kolkheti Khobi",
+      "away": "Gardabani",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1347838,
+      "league_id": 1104,
+      "league": "Liga 3",
+      "kickoff_local": "2025-11-20T21:00:00+11:00",
+      "kickoff_utc": "2025-11-20T10:00:00+00:00",
+      "home": "WIT Georgia",
+      "away": "Varketili",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1347841,
+      "league_id": 1104,
+      "league": "Liga 3",
+      "kickoff_local": "2025-11-20T21:00:00+11:00",
+      "kickoff_utc": "2025-11-20T10:00:00+00:00",
+      "home": "Margveti 2006",
+      "away": "Didube 2014",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1378573,
+      "league_id": 117,
+      "league": "1. Division",
+      "kickoff_local": "2025-11-20T21:00:00+11:00",
+      "kickoff_utc": "2025-11-20T10:00:00+00:00",
+      "home": "Dinamo Minsk II",
+      "away": "Lokomotiv Gomel",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1421689,
+      "league_id": 1065,
+      "league": "U19 League",
+      "kickoff_local": "2025-11-20T21:00:00+11:00",
+      "kickoff_utc": "2025-11-20T10:00:00+00:00",
+      "home": "SK Poltava U19",
+      "away": "LNZ Cherkasy U19",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1466885,
+      "league_id": 418,
+      "league": "Birinci Dasta",
+      "kickoff_local": "2025-11-20T21:00:00+11:00",
+      "kickoff_utc": "2025-11-20T10:00:00+00:00",
+      "home": "Zaqatala",
+      "away": "Şahdağ",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 1.9,
+          "Draw": 3.25,
+          "Away": 3.45
+        },
+        "ou_2_5": {
+          "over": 1.73,
+          "under": 1.85
+        },
+        "dc": {
+          "Home/Draw": 1.22,
+          "Home/Away": 1.25,
+          "Draw/Away": 1.8
+        }
+      }
+    },
+    {
+      "fixture_id": 1466887,
+      "league_id": 418,
+      "league": "Birinci Dasta",
+      "kickoff_local": "2025-11-20T21:00:00+11:00",
+      "kickoff_utc": "2025-11-20T10:00:00+00:00",
+      "home": "MOIK",
+      "away": "Mingəçevir",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 3.0,
+          "Draw": 3.1,
+          "Away": 2.15
+        },
+        "ou_2_5": {
+          "over": 1.8,
+          "under": 1.77
+        },
+        "dc": {
+          "Home/Draw": 1.57,
+          "Home/Away": 1.25,
+          "Draw/Away": 1.35
         }
       }
     }
