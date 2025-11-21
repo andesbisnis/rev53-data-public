@@ -1,60 +1,8 @@
 {
-  "generated_at_utc": "2025-11-21T07:43:05.549883+00:00",
+  "generated_at_utc": "2025-11-21T08:43:06.979393+00:00",
   "window_hours": 36,
   "max_fixtures": 60,
   "fixtures": [
-    {
-      "fixture_id": 1403673,
-      "league_id": 274,
-      "league": "Liga 1",
-      "kickoff_local": "2025-11-21T19:30:00+11:00",
-      "kickoff_utc": "2025-11-21T08:30:00+00:00",
-      "home": "PSM Makassar",
-      "away": "PSBS Biak Numfor",
-      "status": "NS",
-      "markets": {
-        "1x2": {
-          "Home": 1.33,
-          "Draw": 4.6,
-          "Away": 7.8
-        },
-        "ou_2_5": {
-          "over": 1.65,
-          "under": 2.15
-        },
-        "dc": {
-          "Home/Draw": 1.04,
-          "Home/Away": 1.12,
-          "Draw/Away": 3.1
-        }
-      }
-    },
-    {
-      "fixture_id": 1469582,
-      "league_id": 188,
-      "league": "A-League",
-      "kickoff_local": "2025-11-21T19:35:00+11:00",
-      "kickoff_utc": "2025-11-21T08:35:00+00:00",
-      "home": "Adelaide United",
-      "away": "Melbourne City",
-      "status": "NS",
-      "markets": {
-        "1x2": {
-          "Home": 2.9,
-          "Draw": 3.5,
-          "Away": 2.32
-        },
-        "ou_2_5": {
-          "over": 3.4,
-          "under": 1.28
-        },
-        "dc": {
-          "Home/Draw": 1.57,
-          "Home/Away": 1.25,
-          "Draw/Away": 1.4
-        }
-      }
-    },
     {
       "fixture_id": 1486371,
       "league_id": 1202,
@@ -102,18 +50,24 @@
       "status": "NS",
       "markets": {
         "1x2": {
-          "Home": 7.4,
-          "Draw": 4.0,
-          "Away": 1.35
+          "Home": 6.6,
+          "Draw": 4.58,
+          "Away": 1.4
         },
         "ou_2_5": {
-          "over": 1.7,
-          "under": 1.9
+          "over": 1.6,
+          "under": 2.23
         },
         "dc": {
-          "Home/Draw": 2.9,
-          "Home/Away": 1.15,
-          "Draw/Away": 1.04
+          "Home/Draw": 2.87,
+          "Home/Away": 1.18,
+          "Draw/Away": 1.1
+        },
+        "btts": {
+          "o/yes 2.5": 2.2,
+          "o/no 2.5": 4.89,
+          "u/yes 2.5": 8.47,
+          "u/no 2.5": 2.77
         }
       }
     },
@@ -128,9 +82,13 @@
       "status": "NS",
       "markets": {
         "1x2": {
-          "Home": 1.57,
-          "Draw": 3.7,
-          "Away": 4.8
+          "Home": 1.62,
+          "Draw": 3.48,
+          "Away": 4.65
+        },
+        "ou_2_5": {
+          "over": 2.02,
+          "under": 1.69
         }
       }
     },
@@ -175,18 +133,18 @@
       "status": "NS",
       "markets": {
         "1x2": {
-          "Home": 3.1,
+          "Home": 2.6,
           "Draw": 3.2,
-          "Away": 2.15
+          "Away": 2.5
         },
         "ou_2_5": {
           "over": 1.93,
           "under": 1.8
         },
         "dc": {
-          "Home/Draw": 1.57,
-          "Home/Away": 1.25,
-          "Draw/Away": 1.35
+          "Home/Draw": 1.42,
+          "Home/Away": 1.28,
+          "Draw/Away": 1.45
         }
       }
     },
@@ -227,7 +185,7 @@
       "status": "NS",
       "markets": {
         "1x2": {
-          "Home": 5.5,
+          "Home": 5.6,
           "Draw": 3.45,
           "Away": 1.53
         },
@@ -238,7 +196,7 @@
         "dc": {
           "Home/Draw": 2.3,
           "Home/Away": 1.22,
-          "Draw/Away": 1.09
+          "Draw/Away": 1.08
         }
       }
     },
@@ -279,18 +237,18 @@
       "status": "NS",
       "markets": {
         "1x2": {
-          "Home": 1.85,
-          "Draw": 3.3,
-          "Away": 3.6
+          "Home": 1.95,
+          "Draw": 3.4,
+          "Away": 3.1
         },
         "ou_2_5": {
           "over": 3.8,
           "under": 1.22
         },
         "dc": {
-          "Home/Draw": 1.25,
-          "Home/Away": 1.29,
-          "Draw/Away": 1.83
+          "Home/Draw": 1.33,
+          "Home/Away": 1.25,
+          "Draw/Away": 1.7
         },
         "btts": {
           "yes": 2.9,
@@ -379,18 +337,18 @@
       "status": "NS",
       "markets": {
         "1x2": {
-          "Home": 4.8,
-          "Draw": 3.2,
-          "Away": 1.67
+          "Home": 7.5,
+          "Draw": 3.4,
+          "Away": 1.45
         },
         "ou_2_5": {
-          "over": 11.0,
-          "under": 1.04
+          "over": 2.75,
+          "under": 1.4
         },
         "dc": {
-          "Home/Draw": 2.05,
-          "Home/Away": 1.3,
-          "Draw/Away": 1.15
+          "Home/Draw": 1.67,
+          "Home/Away": 1.8,
+          "Draw/Away": 1.05
         }
       }
     },
@@ -435,18 +393,18 @@
       "status": "NS",
       "markets": {
         "1x2": {
-          "Home": 1.91,
+          "Home": 1.8,
           "Draw": 3.45,
-          "Away": 3.3
+          "Away": 3.65
         },
         "ou_2_5": {
           "over": 1.57,
           "under": 2.05
         },
         "dc": {
-          "Home/Draw": 1.25,
+          "Home/Draw": 1.2,
           "Home/Away": 1.22,
-          "Draw/Away": 1.8
+          "Draw/Away": 1.91
         }
       }
     },
@@ -487,22 +445,18 @@
       "status": "NS",
       "markets": {
         "1x2": {
-          "Home": 3.2,
+          "Home": 3.1,
           "Draw": 3.25,
-          "Away": 2.0
+          "Away": 2.05
         },
         "ou_2_5": {
-          "over": 4.0,
-          "under": 1.2
+          "over": 1.67,
+          "under": 1.91
         },
         "dc": {
-          "Home/Draw": 1.73,
-          "Home/Away": 1.3,
-          "Draw/Away": 1.3
-        },
-        "btts": {
-          "yes": 2.9,
-          "no": 1.35
+          "Home/Draw": 1.62,
+          "Home/Away": 1.25,
+          "Draw/Away": 1.33
         }
       }
     },
@@ -517,18 +471,13 @@
       "status": "NS",
       "markets": {
         "1x2": {
-          "Home": 1.91,
-          "Draw": 3.4,
-          "Away": 3.3
+          "Home": 1.92,
+          "Draw": 3.5,
+          "Away": 3.17
         },
         "ou_2_5": {
           "over": 1.57,
-          "under": 2.05
-        },
-        "dc": {
-          "Home/Draw": 1.25,
-          "Home/Away": 1.22,
-          "Draw/Away": 1.8
+          "under": 2.18
         }
       }
     },
@@ -543,13 +492,13 @@
       "status": "NS",
       "markets": {
         "1x2": {
-          "Home": 10.25,
-          "Draw": 5.8,
-          "Away": 1.18
+          "Home": 11.0,
+          "Draw": 5.25,
+          "Away": 1.2
         },
         "dc": {
-          "Home/Draw": 4.33,
-          "Home/Away": 1.09,
+          "Home/Draw": 4.2,
+          "Home/Away": 1.11,
           "Draw/Away": 1.02
         }
       }
@@ -605,18 +554,18 @@
       "status": "NS",
       "markets": {
         "1x2": {
-          "Home": 1.67,
-          "Draw": 3.6,
-          "Away": 4.2
+          "Home": 2.1,
+          "Draw": 3.4,
+          "Away": 3.0
         },
         "ou_2_5": {
           "over": 1.9,
           "under": 1.9
         },
         "dc": {
-          "Home/Draw": 1.17,
-          "Home/Away": 1.62,
-          "Draw/Away": 1.57
+          "Home/Draw": 1.28,
+          "Home/Away": 1.67,
+          "Draw/Away": 1.4
         }
       }
     },
@@ -664,6 +613,16 @@
       "kickoff_utc": "2025-11-21T12:00:00+00:00",
       "home": "Osogovo",
       "away": "Vardar Negotino",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1470626,
+      "league_id": 276,
+      "league": "FKF Premier League",
+      "kickoff_local": "2025-11-21T23:00:00+11:00",
+      "kickoff_utc": "2025-11-21T12:00:00+00:00",
+      "home": "Police",
+      "away": "Mathare United",
       "status": "NS"
     },
     {
@@ -944,6 +903,16 @@
       "kickoff_utc": "2025-11-21T12:00:00+00:00",
       "home": "Groupe Bazano",
       "away": "FC Tshikas",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1437360,
+      "league_id": 308,
+      "league": "Division 1",
+      "kickoff_local": "2025-11-21T23:05:00+11:00",
+      "kickoff_utc": "2025-11-21T12:05:00+00:00",
+      "home": "Al Anwar",
+      "away": "Al Taee",
       "status": "NS"
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-21T19:03:23.012016+11:00",
+  "timestamp": "2025-11-21T20:03:23.018620+11:00",
   "payload": {
     "status": "ok",
     "count": 80,
@@ -557,18 +557,6 @@
         "result_1x2": "1"
       },
       {
-        "fixture_id": 1469368,
-        "league_id": 423,
-        "league": "Ligue 1",
-        "kickoff_local": "2025-11-21T02:30:00+11:00",
-        "kickoff_utc": "2025-11-20T15:30:00+00:00",
-        "home": "Douanes",
-        "away": "ASFB",
-        "status": "FT",
-        "ft": "0-1",
-        "result_1x2": "2"
-      },
-      {
         "fixture_id": 1481284,
         "league_id": 386,
         "league": "Ligue 1",
@@ -962,6 +950,18 @@
         "away": "Varketili",
         "status": "FT",
         "ft": "2-2",
+        "result_1x2": "X"
+      },
+      {
+        "fixture_id": 1347841,
+        "league_id": 1104,
+        "league": "Liga 3",
+        "kickoff_local": "2025-11-20T21:00:00+11:00",
+        "kickoff_utc": "2025-11-20T10:00:00+00:00",
+        "home": "Margveti 2006",
+        "away": "Didube 2014",
+        "status": "FT",
+        "ft": "0-0",
         "result_1x2": "X"
       }
     ]
