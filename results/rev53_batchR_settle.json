@@ -1,9 +1,45 @@
 {
-  "timestamp": "2025-11-21T11:03:23.088639+11:00",
+  "timestamp": "2025-11-21T12:03:23.049919+11:00",
   "payload": {
     "status": "ok",
     "count": 80,
     "sample": [
+      {
+        "fixture_id": 1396929,
+        "league_id": 252,
+        "league": "Division Profesional - Clausura",
+        "kickoff_local": "2025-11-21T09:30:00+11:00",
+        "kickoff_utc": "2025-11-20T22:30:00+00:00",
+        "home": "Nacional Asuncion",
+        "away": "Sportivo Ameliano",
+        "status": "FT",
+        "ft": "2-0",
+        "result_1x2": "1"
+      },
+      {
+        "fixture_id": 1478012,
+        "league_id": 71,
+        "league": "Serie A",
+        "kickoff_local": "2025-11-21T09:30:00+11:00",
+        "kickoff_utc": "2025-11-20T22:30:00+00:00",
+        "home": "Corinthians",
+        "away": "Sao Paulo",
+        "status": "FT",
+        "ft": "3-1",
+        "result_1x2": "1"
+      },
+      {
+        "fixture_id": 1486733,
+        "league_id": 240,
+        "league": "Primera B",
+        "kickoff_local": "2025-11-21T09:10:00+11:00",
+        "kickoff_utc": "2025-11-20T22:10:00+00:00",
+        "home": "Real Cartagena",
+        "away": "Patriotas",
+        "status": "FT",
+        "ft": "0-1",
+        "result_1x2": "2"
+      },
       {
         "fixture_id": 1478008,
         "league_id": 71,
@@ -926,42 +962,6 @@
         "away": "Vanuatu W",
         "status": "FT",
         "ft": "3-1",
-        "result_1x2": "1"
-      },
-      {
-        "fixture_id": 1486715,
-        "league_id": 263,
-        "league": "Liga de Expansión MX",
-        "kickoff_local": "2025-11-20T13:00:00+11:00",
-        "kickoff_utc": "2025-11-20T02:00:00+00:00",
-        "home": "Monarcas",
-        "away": "Irapuato",
-        "status": "FT",
-        "ft": "0-0",
-        "result_1x2": "X"
-      },
-      {
-        "fixture_id": 1486340,
-        "league_id": 239,
-        "league": "Primera A",
-        "kickoff_local": "2025-11-20T12:30:00+11:00",
-        "kickoff_utc": "2025-11-20T01:30:00+00:00",
-        "home": "Junior",
-        "away": "Independiente Medellin",
-        "status": "FT",
-        "ft": "1-0",
-        "result_1x2": "1"
-      },
-      {
-        "fixture_id": 1478013,
-        "league_id": 71,
-        "league": "Serie A",
-        "kickoff_local": "2025-11-20T11:30:00+11:00",
-        "kickoff_utc": "2025-11-20T00:30:00+00:00",
-        "home": "Fluminense",
-        "away": "Flamengo",
-        "status": "FT",
-        "ft": "2-1",
         "result_1x2": "1"
       }
     ]
