@@ -1,34 +1,8 @@
 {
-  "generated_at_utc": "2025-11-20T22:43:07.183853+00:00",
+  "generated_at_utc": "2025-11-20T23:43:07.019266+00:00",
   "window_hours": 36,
   "max_fixtures": 60,
   "fixtures": [
-    {
-      "fixture_id": 1486331,
-      "league_id": 906,
-      "league": "Reserve League",
-      "kickoff_local": "2025-11-21T10:00:00+11:00",
-      "kickoff_utc": "2025-11-20T23:00:00+00:00",
-      "home": "River Plate Res.",
-      "away": "Huracán Res.",
-      "status": "NS",
-      "markets": {
-        "1x2": {
-          "Home": 1.77,
-          "Draw": 3.5,
-          "Away": 3.7
-        },
-        "ou_2_5": {
-          "over": 1.65,
-          "under": 1.95
-        },
-        "dc": {
-          "Home/Draw": 1.2,
-          "Home/Away": 1.22,
-          "Draw/Away": 1.93
-        }
-      }
-    },
     {
       "fixture_id": 1478011,
       "league_id": 71,
@@ -45,13 +19,13 @@
           "Away": 3.6
         },
         "ou_2_5": {
-          "over": 5.2,
-          "under": 1.12
+          "over": 5.5,
+          "under": 1.11
         },
         "dc": {
           "Home/Draw": 1.28,
           "Home/Away": 1.3,
-          "Draw/Away": 1.67
+          "Draw/Away": 1.7
         }
       }
     },
@@ -66,18 +40,18 @@
       "status": "NS",
       "markets": {
         "1x2": {
-          "Home": 1.56,
+          "Home": 1.55,
           "Draw": 4.0,
-          "Away": 5.9
+          "Away": 6.2
         },
         "ou_2_5": {
-          "over": 4.0,
-          "under": 1.2
+          "over": 3.9,
+          "under": 1.22
         },
         "dc": {
-          "Home/Draw": 1.13,
+          "Home/Draw": 1.12,
           "Home/Away": 1.2,
-          "Draw/Away": 2.38
+          "Draw/Away": 2.4
         }
       }
     },
@@ -92,18 +66,18 @@
       "status": "NS",
       "markets": {
         "1x2": {
-          "Home": 1.91,
+          "Home": 1.95,
           "Draw": 3.4,
-          "Away": 3.5
+          "Away": 3.4
         },
         "ou_2_5": {
-          "over": 1.7,
-          "under": 2.1
+          "over": 1.75,
+          "under": 2.0
         },
         "dc": {
-          "Home/Draw": 1.22,
-          "Home/Away": 1.25,
-          "Draw/Away": 1.8
+          "Home/Draw": 1.25,
+          "Home/Away": 1.22,
+          "Draw/Away": 1.77
         }
       }
     },
@@ -118,18 +92,18 @@
       "status": "NS",
       "markets": {
         "1x2": {
-          "Home": 2.1,
-          "Draw": 3.4,
+          "Home": 2.16,
+          "Draw": 3.2,
           "Away": 3.5
         },
         "ou_2_5": {
-          "over": 4.33,
-          "under": 1.18
+          "over": 4.8,
+          "under": 1.14
         },
         "dc": {
-          "Home/Draw": 1.3,
-          "Home/Away": 1.25,
-          "Draw/Away": 1.7
+          "Home/Draw": 1.28,
+          "Home/Away": 1.28,
+          "Draw/Away": 1.67
         }
       }
     },
@@ -146,16 +120,16 @@
         "1x2": {
           "Home": 1.6,
           "Draw": 3.5,
-          "Away": 5.4
+          "Away": 5.25
         },
         "ou_2_5": {
-          "over": 2.1,
-          "under": 1.7
+          "over": 2.0,
+          "under": 1.75
         },
         "dc": {
           "Home/Draw": 1.1,
           "Home/Away": 1.22,
-          "Draw/Away": 2.25
+          "Draw/Away": 2.2
         }
       }
     },
@@ -170,18 +144,18 @@
       "status": "NS",
       "markets": {
         "1x2": {
-          "Home": 2.05,
-          "Draw": 3.45,
-          "Away": 3.4
+          "Home": 2.08,
+          "Draw": 3.35,
+          "Away": 3.45
         },
         "ou_2_5": {
-          "over": 1.91,
-          "under": 1.85
+          "over": 2.0,
+          "under": 1.8
         },
         "dc": {
           "Home/Draw": 1.3,
           "Home/Away": 1.25,
-          "Draw/Away": 1.73
+          "Draw/Away": 1.7
         }
       }
     },
@@ -222,17 +196,17 @@
       "status": "NS",
       "markets": {
         "1x2": {
-          "Home": 2.14,
+          "Home": 2.16,
           "Draw": 3.35,
-          "Away": 3.4
+          "Away": 3.35
         },
         "ou_2_5": {
-          "over": 4.1,
+          "over": 4.0,
           "under": 1.2
         },
         "dc": {
           "Home/Draw": 1.3,
-          "Home/Away": 1.28,
+          "Home/Away": 1.25,
           "Draw/Away": 1.67
         }
       }
@@ -248,18 +222,18 @@
       "status": "NS",
       "markets": {
         "1x2": {
-          "Home": 1.28,
+          "Home": 1.33,
           "Draw": 4.8,
-          "Away": 8.6
+          "Away": 7.5
         },
         "ou_2_5": {
           "over": 1.62,
           "under": 2.2
         },
         "dc": {
-          "Home/Draw": 1.03,
+          "Home/Draw": 1.04,
           "Home/Away": 1.11,
-          "Draw/Away": 3.3
+          "Draw/Away": 3.1
         }
       }
     },
@@ -413,7 +387,7 @@
       "status": "NS",
       "markets": {
         "1x2": {
-          "Home": 3.2,
+          "Home": 3.25,
           "Draw": 3.25,
           "Away": 2.05
         },
@@ -423,7 +397,7 @@
         },
         "dc": {
           "Home/Draw": 1.62,
-          "Home/Away": 1.25,
+          "Home/Away": 1.28,
           "Draw/Away": 1.3
         }
       }
@@ -681,18 +655,18 @@
       "status": "NS",
       "markets": {
         "1x2": {
-          "Home": 1.95,
+          "Home": 1.85,
           "Draw": 3.4,
-          "Away": 3.2
+          "Away": 3.3
         },
         "ou_2_5": {
           "over": 5.0,
           "under": 1.12
         },
         "dc": {
-          "Home/Draw": 1.3,
+          "Home/Draw": 1.29,
           "Home/Away": 1.25,
-          "Draw/Away": 1.75
+          "Draw/Away": 1.8
         }
       }
     },
@@ -707,18 +681,18 @@
       "status": "NS",
       "markets": {
         "1x2": {
-          "Home": 1.6,
-          "Draw": 3.7,
-          "Away": 4.8
+          "Home": 1.67,
+          "Draw": 3.65,
+          "Away": 4.4
         },
         "ou_2_5": {
-          "over": 1.77,
-          "under": 2.0
+          "over": 1.8,
+          "under": 1.95
         },
         "dc": {
-          "Home/Draw": 1.12,
+          "Home/Draw": 1.15,
           "Home/Away": 1.2,
-          "Draw/Away": 2.2
+          "Draw/Away": 2.1
         }
       }
     },
@@ -887,9 +861,9 @@
       "status": "NS",
       "markets": {
         "1x2": {
-          "Home": 1.33,
-          "Draw": 5.0,
-          "Away": 6.25
+          "Home": 1.2,
+          "Draw": 5.25,
+          "Away": 11.0
         },
         "ou_2_5": {
           "over": 1.44,
@@ -1057,6 +1031,32 @@
       "home": "Alexandria",
       "away": "LPS HD Clinceni",
       "status": "NS"
+    },
+    {
+      "fixture_id": 1474132,
+      "league_id": 789,
+      "league": "Liga III - Serie 6",
+      "kickoff_local": "2025-11-21T23:00:00+11:00",
+      "kickoff_utc": "2025-11-21T12:00:00+00:00",
+      "home": "Unirea Bascov",
+      "away": "Jiul Petroşani",
+      "status": "NS",
+      "markets": {
+        "1x2": {
+          "Home": 2.35,
+          "Draw": 3.5,
+          "Away": 2.45
+        },
+        "ou_2_5": {
+          "over": 1.7,
+          "under": 2.1
+        },
+        "dc": {
+          "Home/Draw": 1.36,
+          "Home/Away": 1.57,
+          "Draw/Away": 1.4
+        }
+      }
     }
   ]
 }
