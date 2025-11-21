@@ -1,8 +1,8 @@
 {
-  "timestamp": "2025-11-21T20:03:23.018620+11:00",
+  "timestamp": "2025-11-21T21:03:23.667845+11:00",
   "payload": {
     "status": "ok",
-    "count": 80,
+    "count": 76,
     "sample": [
       {
         "fixture_id": 1485997,
@@ -557,6 +557,18 @@
         "result_1x2": "1"
       },
       {
+        "fixture_id": 1487931,
+        "league_id": 760,
+        "league": "LFA First Division",
+        "kickoff_local": "2025-11-21T03:00:00+11:00",
+        "kickoff_utc": "2025-11-20T16:00:00+00:00",
+        "home": "Borough",
+        "away": "LPRC Oilers",
+        "status": "FT",
+        "ft": "0-0",
+        "result_1x2": "X"
+      },
+      {
         "fixture_id": 1481284,
         "league_id": 386,
         "league": "Ligue 1",
@@ -903,66 +915,6 @@
         "status": "FT",
         "ft": "2-0",
         "result_1x2": "1"
-      },
-      {
-        "fixture_id": 1347834,
-        "league_id": 1104,
-        "league": "Liga 3",
-        "kickoff_local": "2025-11-20T21:00:00+11:00",
-        "kickoff_utc": "2025-11-20T10:00:00+00:00",
-        "home": "Odishi 1919",
-        "away": "Merani Tbilisi",
-        "status": "FT",
-        "ft": "3-0",
-        "result_1x2": "1"
-      },
-      {
-        "fixture_id": 1347835,
-        "league_id": 1104,
-        "league": "Liga 3",
-        "kickoff_local": "2025-11-20T21:00:00+11:00",
-        "kickoff_utc": "2025-11-20T10:00:00+00:00",
-        "home": "Gori",
-        "away": "Betlemi",
-        "status": "FT",
-        "ft": "6-0",
-        "result_1x2": "1"
-      },
-      {
-        "fixture_id": 1347837,
-        "league_id": 1104,
-        "league": "Liga 3",
-        "kickoff_local": "2025-11-20T21:00:00+11:00",
-        "kickoff_utc": "2025-11-20T10:00:00+00:00",
-        "home": "Kolkheti Khobi",
-        "away": "Gardabani",
-        "status": "FT",
-        "ft": "6-1",
-        "result_1x2": "1"
-      },
-      {
-        "fixture_id": 1347838,
-        "league_id": 1104,
-        "league": "Liga 3",
-        "kickoff_local": "2025-11-20T21:00:00+11:00",
-        "kickoff_utc": "2025-11-20T10:00:00+00:00",
-        "home": "WIT Georgia",
-        "away": "Varketili",
-        "status": "FT",
-        "ft": "2-2",
-        "result_1x2": "X"
-      },
-      {
-        "fixture_id": 1347841,
-        "league_id": 1104,
-        "league": "Liga 3",
-        "kickoff_local": "2025-11-20T21:00:00+11:00",
-        "kickoff_utc": "2025-11-20T10:00:00+00:00",
-        "home": "Margveti 2006",
-        "away": "Didube 2014",
-        "status": "FT",
-        "ft": "0-0",
-        "result_1x2": "X"
       }
     ]
   },
