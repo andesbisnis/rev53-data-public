@@ -1,9 +1,21 @@
 {
-  "timestamp": "2025-11-21T16:03:22.974997+11:00",
+  "timestamp": "2025-11-21T17:03:23.012685+11:00",
   "payload": {
     "status": "ok",
     "count": 80,
     "sample": [
+      {
+        "fixture_id": 1485997,
+        "league_id": 262,
+        "league": "Liga MX",
+        "kickoff_local": "2025-11-21T14:00:00+11:00",
+        "kickoff_utc": "2025-11-21T03:00:00+00:00",
+        "home": "Club Tijuana",
+        "away": "FC Juarez",
+        "status": "FT",
+        "ft": "3-1",
+        "result_1x2": "1"
+      },
       {
         "fixture_id": 1392866,
         "league_id": 162,
@@ -950,18 +962,6 @@
         "away": "Varketili",
         "status": "FT",
         "ft": "2-2",
-        "result_1x2": "X"
-      },
-      {
-        "fixture_id": 1347841,
-        "league_id": 1104,
-        "league": "Liga 3",
-        "kickoff_local": "2025-11-20T21:00:00+11:00",
-        "kickoff_utc": "2025-11-20T10:00:00+00:00",
-        "home": "Margveti 2006",
-        "away": "Didube 2014",
-        "status": "FT",
-        "ft": "0-0",
         "result_1x2": "X"
       }
     ]
