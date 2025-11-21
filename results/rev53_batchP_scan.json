@@ -1,60 +1,8 @@
 {
-  "generated_at_utc": "2025-11-21T00:43:06.339045+00:00",
+  "generated_at_utc": "2025-11-21T01:43:06.782224+00:00",
   "window_hours": 36,
   "max_fixtures": 60,
   "fixtures": [
-    {
-      "fixture_id": 1481621,
-      "league_id": 234,
-      "league": "Liga Nacional",
-      "kickoff_local": "2025-11-21T12:00:00+11:00",
-      "kickoff_utc": "2025-11-21T01:00:00+00:00",
-      "home": "CD Motagua",
-      "away": "Olancho",
-      "status": "NS",
-      "markets": {
-        "1x2": {
-          "Home": 1.95,
-          "Draw": 3.4,
-          "Away": 3.4
-        },
-        "ou_2_5": {
-          "over": 1.75,
-          "under": 2.0
-        },
-        "dc": {
-          "Home/Draw": 1.25,
-          "Home/Away": 1.22,
-          "Draw/Away": 1.77
-        }
-      }
-    },
-    {
-      "fixture_id": 1485998,
-      "league_id": 262,
-      "league": "Liga MX",
-      "kickoff_local": "2025-11-21T12:00:00+11:00",
-      "kickoff_utc": "2025-11-21T01:00:00+00:00",
-      "home": "Pachuca",
-      "away": "U.N.A.M. - Pumas",
-      "status": "NS",
-      "markets": {
-        "1x2": {
-          "Home": 2.16,
-          "Draw": 3.2,
-          "Away": 3.5
-        },
-        "ou_2_5": {
-          "over": 4.8,
-          "under": 1.14
-        },
-        "dc": {
-          "Home/Draw": 1.28,
-          "Home/Away": 1.28,
-          "Draw/Away": 1.67
-        }
-      }
-    },
     {
       "fixture_id": 1392866,
       "league_id": 162,
@@ -835,16 +783,6 @@
       "status": "NS"
     },
     {
-      "fixture_id": 1470626,
-      "league_id": 276,
-      "league": "FKF Premier League",
-      "kickoff_local": "2025-11-21T23:00:00+11:00",
-      "kickoff_utc": "2025-11-21T12:00:00+00:00",
-      "home": "Police",
-      "away": "Mathare United",
-      "status": "NS"
-    },
-    {
       "fixture_id": 1473492,
       "league_id": 784,
       "league": "Liga III - Serie 1",
@@ -1024,6 +962,36 @@
       "kickoff_utc": "2025-11-21T12:00:00+00:00",
       "home": "Viitorul Arad",
       "away": "Unirea Alba Iulia",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1474303,
+      "league_id": 790,
+      "league": "Liga III - Serie 7",
+      "kickoff_local": "2025-11-21T23:00:00+11:00",
+      "kickoff_utc": "2025-11-21T12:00:00+00:00",
+      "home": "Progresul Pecica",
+      "away": "Unirea DMO",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1474304,
+      "league_id": 790,
+      "league": "Liga III - Serie 7",
+      "kickoff_local": "2025-11-21T23:00:00+11:00",
+      "kickoff_utc": "2025-11-21T12:00:00+00:00",
+      "home": "Metalurgistul Cugir",
+      "away": "Hidro Mecanica Sugag",
+      "status": "NS"
+    },
+    {
+      "fixture_id": 1474305,
+      "league_id": 790,
+      "league": "Liga III - Serie 7",
+      "kickoff_local": "2025-11-21T23:00:00+11:00",
+      "kickoff_utc": "2025-11-21T12:00:00+00:00",
+      "home": "Universitatea Alba Iulia",
+      "away": "Unirea Sântana",
       "status": "NS"
     }
   ]
